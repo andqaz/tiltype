@@ -8,10 +8,10 @@
   "minVersion": "10.0.0",
   "variations": [
     {
-      "description": "Offline word and phrase completion, spelling, keyboard layout correction and punctuation for Kazakh, Russian and English.",
+      "description": "Complete words and phrases offline in Kazakh, Russian and English. In Document Editor, press Tab to insert a suggestion or select text to show the formatting toolbar.",
       "descriptionLocale": {
-        "ru": "Офлайн-подсказки слов и фраз на казахском, русском и английском. Проверка орфографии, исправление раскладки и пунктуации.",
-        "kk": "Қазақша, орысша және ағылшынша сөздер мен тіркестерді офлайн ұсыну. Емлені тексеру, пернетақта жаймасы мен тыныс белгілерін түзету."
+        "ru": "Дополняйте слова и фразы на русском, казахском и английском без интернета. В текстовом редакторе нажмите Tab для вставки подсказки или выделите текст, чтобы открыть панель форматирования.",
+        "kk": "Қазақша, орысша және ағылшынша сөздер мен сөз тіркестерін офлайн толықтырыңыз. Мәтін редакторында ұсынысты енгізу үшін Tab пернесін басыңыз. Мәтінді таңдасаңыз, пішімдеу тақтасы ашылады."
       },
       "url": "index.html",
       "icons": "resources/%theme-type%(light|dark)/icon%scale%(default).%extension%(png)",
@@ -36,9 +36,11 @@
           "work"
         ],
         "screenshots": [
+          "resources/store/screenshots/overview-en.png",
+          "resources/store/screenshots/overview-kk.png",
+          "resources/store/screenshots/overview-ru.png",
           "resources/store/screenshots/suggestions.png",
-          "resources/store/screenshots/punctuation.png",
-          "resources/store/screenshots/settings.png"
+          "resources/store/screenshots/punctuation.png"
         ]
       }
     }
