@@ -7,14 +7,25 @@
 (() => {
   const plugin = Reflect.get(window, "Asc").plugin;
   const form = /** @type {HTMLFormElement} */ (document.getElementById("preferences"));
+  const formatToolbar = /** @type {HTMLInputElement} */ (document.getElementById("format-toolbar"));
   const spelling = /** @type {HTMLInputElement} */ (document.getElementById("spelling"));
   const layout = /** @type {HTMLInputElement} */ (document.getElementById("layout"));
   const proofing = /** @type {HTMLInputElement} */ (document.getElementById("proofing"));
   const punctuation = /** @type {HTMLInputElement} */ (document.getElementById("punctuation"));
-  const spaceAfterEnter = /** @type {HTMLInputElement} */ (document.getElementById("space-after-enter"));
+  const spaceAfterTab = /** @type {HTMLInputElement} */ (document.getElementById("space-after-tab"));
+  const nextWord = /** @type {HTMLInputElement} */ (document.getElementById("next-word"));
+  const predictionMode = /** @type {HTMLSelectElement} */ (document.getElementById("prediction-mode"));
+  const predictionHistory = /** @type {HTMLInputElement} */ (document.getElementById("prediction-history"));
   const language = /** @type {HTMLSelectElement} */ (document.getElementById("language"));
   const errorMessage = /** @type {HTMLElement} */ (document.getElementById("error"));
 
+  function syncPredictionInputs() {
+    predictionMode.disabled = !nextWord.checked;
+    predictionHistory.disabled = !nextWord.checked || !["phrases", "gru"].includes(predictionMode.value);
+  }
+
+  nextWord.addEventListener("change", syncPredictionInputs);
+  predictionMode.addEventListener("change", syncPredictionInputs);
   plugin.init = () => {
     plugin.attachEvent("preferencesData", (/** @type {{ options: CorrectionSettings, language: DictionaryLanguage }} */ data) => {
       const labels = settingsLabels[data.language];
@@ -23,11 +34,16 @@
         const key = /** @type {keyof typeof labels} */ (element.getAttribute("data-text"));
         element.textContent = labels[key];
       }
+      formatToolbar.checked = data.options.formatToolbar;
       spelling.checked = data.options.spelling;
       layout.checked = data.options.layout;
       proofing.checked = data.options.proofing;
       punctuation.checked = data.options.punctuation;
-      spaceAfterEnter.checked = data.options.spaceAfterEnter;
+      spaceAfterTab.checked = data.options.spaceAfterTab;
+      nextWord.checked = data.options.nextWord;
+      predictionMode.value = data.options.predictionMode;
+      predictionHistory.checked = data.options.predictionHistory;
+      syncPredictionInputs();
       language.value = data.options.language;
       form.hidden = false;
     });
@@ -39,11 +55,15 @@
     event.preventDefault();
     errorMessage.hidden = true;
     plugin.sendToPlugin("preferencesSave", {
+      formatToolbar: formatToolbar.checked,
       spelling: spelling.checked,
       layout: layout.checked,
       proofing: proofing.checked,
       punctuation: punctuation.checked,
-      spaceAfterEnter: spaceAfterEnter.checked,
+      spaceAfterTab: spaceAfterTab.checked,
+      nextWord: nextWord.checked,
+      predictionMode: predictionMode.value,
+      predictionHistory: predictionHistory.checked,
       language: language.value,
     });
   });

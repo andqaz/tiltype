@@ -67,6 +67,9 @@ test("Hunspell загружает словари ONLYOFFICE и исправля�
       });
     };
     assert.deepEqual(correctPhrase(["руддщ", "цщкдв", "рщц", "фку", "нщг"]), ["hello", "world", "how", "are", "you"]);
+    assert.deepEqual(correctPhrase(["йгшсл", "икщцт", "ащч", "огьзы", "щмук", "еру", "дфян", "вщп"]),
+      ["quick", "brown", "fox", "jumps", "over", "the", "lazy", "dog"]);
+    assert.deepEqual(correctPhrase(["еру", "ащч", "вщп"]), ["еру", "fox", "dog"]);
     assert.deepEqual(correctPhrase(["ghbdtn", "rfr", "ltkf", "z"]), ["привет", "как", "дела", "я"]);
     assert.deepEqual(correctPhrase(["руддщ", "мы", "по", "от"]), ["hello", "мы", "по", "от"]);
 

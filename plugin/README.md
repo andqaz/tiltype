@@ -1,18 +1,14 @@
-# TilType for ONLYOFFICE
+# TilType AI for ONLYOFFICE
 
-TilType suggests Kazakh, Russian and English words while you type. It works
-offline in ONLYOFFICE Document Editor 10.0 or later.
+TilType AI suggests Kazakh, Russian and English words and phrases as you type.
+It works offline. In **Plugins → Background plugins**, enable **TilType AI**.
 
-Enable TilType under **Plugins → Background plugins**. Type at least three
-letters, pick a word with the arrow keys and press **Enter** to insert it.
-**Esc** closes the suggestions.
+Choose a suggestion with the arrow keys and press **Tab** to insert it.
+**Esc** dismisses suggestions. Open the plugin settings to enable next-word
+prediction, automatic typo and layout correction, or a space after accepting
+a suggestion. In Document Editor, right-click in a paragraph to open the
+punctuation and language detection commands.
 
-In **Plugins → TilType Settings**, you can enable automatic typo or keyboard
-layout correction and choose whether Enter adds a space. Press **Esc** right
-after an automatic correction to undo it. Right-click in a paragraph to find
-the language detection and punctuation commands.
-
-For Desktop Editors, download the .plugin package from the project releases
-and install it through the plugin manager.
-
-[Desktop releases](https://github.com/andqaz/tiltype/releases)
+Select text in Document Editor to show the mini formatting toolbar. Toggle it
+under **Plugins → TilType AI settings**. Select the paintbrush, then select
+a second passage to copy text formatting.

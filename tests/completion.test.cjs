@@ -12,9 +12,10 @@ const vm = require("node:vm");
 
 const pluginRoot = resolve(__dirname, "../plugin");
 const readPlugin = (file) => readFileSync(resolve(pluginRoot, file), "utf8");
-const context = vm.createContext({ console, setTimeout, clearTimeout });
+const context = vm.createContext({ console, setTimeout, clearTimeout, queueMicrotask });
 vm.runInContext(readPlugin("scripts/completion.js"), context);
 vm.runInContext(readPlugin("scripts/settings.js"), context);
+vm.runInContext(readPlugin("scripts/next-word.js"), context);
 vm.runInContext(readPlugin("scripts/layout-correction.js"), context);
 vm.runInContext(readPlugin("scripts/corrections.js"), context);
 const { getPrefix, indexDictionary, suggest } = vm.runInContext("completion", context);
@@ -37,6 +38,8 @@ test("Автоисправления независимы и учитывают 
   assert.equal(correct("рақметт", spelling), "рақмет");
   assert.equal(correct("ghbdtn", layout), "привет");
   assert.equal(correct("руддщ", layout), "hello");
+  assert.equal(correct("еру", layout), "the");
+  assert.equal(correct("нщг", layout), "you");
   assert.equal(correct("ghbdtn", { ...layout, language: "en" }), "");
   assert.equal(correct("hello", layout), "");
   assert.equal(correct("Қазақстан", spelling), "");
@@ -111,6 +114,153 @@ test("Пробел, пунктуация, короткие и смешанные
   assert.ok(!suggest("document", dictionaries).includes("document"));
 });
 
+test("Прогноз использует пробел и ближайшие слова на трёх языках", () => {
+  const models = Object.fromEntries(
+    ["en", "ru", "kk"].map((language) => [language, JSON.parse(readPlugin(`dictionaries/predict-${language}.json`))]),
+  );
+  const predict = (text, language = "auto") => vm.runInContext("nextWord", context).suggest(text, language, models);
+  assert.equal(predict("Thank "), "you");
+  assert.equal(predict("Thank you "), "for");
+  assert.equal(predict("Доброе "), "утро");
+  assert.equal(predict("Қайырлы "), "таң");
+  assert.equal(predict("Просим вас предоставить "), "документы");
+  assert.equal(predict("Қазақстан Республикасының Еңбек "), "кодексі");
+  assert.equal(predict("Please see the "), "attached");
+  assert.ok(Object.values(models).reduce((total, model) => total + Object.keys(model).length, 0) > 500_000);
+  assert.equal(predict("Thank"), undefined);
+  assert.equal(predict("Thank, "), undefined);
+  assert.equal(predict("Thank  "), undefined);
+  assert.equal(predict("СловоОтсутствуетВСловаре "), undefined);
+});
+
+test("Прогноз предпочитает длинный контекст и сохраняет составные слова", () => {
+  const { suggest: predict } = vm.runInContext("nextWord", context);
+  const models = {
+    en: {
+      free: "software", "the free": "space", "is the free": "version", "where is the free": "parking",
+      "can you tell me where is": "the", "don't": "worry", "the company": "has", "^the company": "announced",
+    },
+    ru: { план: "работы" },
+    kk: { план: "бойынша", жоспар: "бойынша" },
+  };
+  assert.equal(predict("Which is the free ", "auto", models), "version");
+  assert.equal(predict("Where is the free ", "auto", models), "parking");
+  assert.equal(predict("Can you tell me where is ", "auto", models), "the");
+  assert.equal(predict("Check the free ", "auto", models), "space");
+  assert.equal(predict("Check: free ", "auto", models), "software");
+  assert.equal(predict("  The company ", "auto", models), "announced");
+  assert.equal(predict("At the company ", "auto", models), "has");
+  assert.equal(predict("Don’t ", "auto", models), "worry");
+  assert.equal(predict("план ", "auto", models), undefined);
+  assert.equal(predict("план ", "ru", models), "работы");
+  assert.equal(predict("Қосымша жоспар ", "auto", models), "бойынша");
+});
+
+test("Редкий контекст, окончание и частотное слово дополняют уверенный прогноз", () => {
+  const { suggest: predict } = vm.runInContext("nextWord", context);
+  const precise = { en: { colour: "palette", "the colour": "green" } };
+  const fallback = {
+    en: {
+      contexts: {
+        "the colour": "blue", "my colour": "blue", "it varies": "with",
+        "~my colour": "changed", "~~my colour": "faded", "~~see colour": "faded",
+        "?my favourite shade": "is", "=ite shade": "matches", "=ite colour": "holds",
+        shade: "card",
+      },
+      suffixes: { ment: "of" },
+      defaultWord: "the",
+    },
+    ru: { contexts: { завтра: "будет" }, suffixes: { ние: "для" }, defaultWord: "и" },
+    kk: { contexts: { ертең: "келеді", "+жаңа дық": "ұйым" }, suffixes: { лық: "білім" }, defaultWord: "және" },
+  };
+  assert.equal(predict("See the colour ", "auto", precise, fallback), "green");
+  assert.equal(predict("See my colour ", "auto", precise, fallback), "blue");
+  assert.equal(predict("My favourite colour ", "auto", precise, fallback), "changed");
+  assert.equal(predict("My very favourite colour ", "auto", precise, fallback), "faded");
+  assert.equal(predict("See my favourite colour ", "auto", precise, fallback), "changed");
+  assert.equal(predict("My very favourite shade ", "auto", precise, fallback), "is");
+  assert.equal(predict("Favourite shade ", "auto", precise, fallback), "matches");
+  assert.equal(predict("Favourite colour ", "auto", precise, fallback), "palette");
+  assert.equal(predict("Favourite: shade ", "auto", precise, fallback), "card");
+  assert.equal(predict("My новая colour ", "auto", precise, fallback), "palette");
+  assert.equal(predict("it varies ", "auto", precise, fallback), "with");
+  assert.equal(predict("Pretendment ", "auto", precise, fallback), "of");
+  assert.equal(predict("quuxxyzzy ", "auto", precise, fallback), "the");
+  assert.equal(predict("псевдоизвание ", "auto", precise, fallback), "для");
+  assert.equal(predict("абвгдея ", "kk", precise, fallback), "және");
+  assert.equal(predict("Қазақша абвгдея ", "auto", precise, fallback), "және");
+  assert.equal(predict("Жаңа қоғамдық ", "auto", precise, fallback), "ұйым");
+  assert.equal(predict("абвгдея ", "auto", precise, fallback), "и");
+  assert.equal(predict("aб ", "auto", precise, fallback), undefined);
+  assert.equal(predict("42 ", "auto", precise, fallback), undefined);
+  assert.equal(predict("word, ", "auto", precise, fallback), undefined);
+});
+
+test("Прогноз применяется только на прежнем курсоре и сохраняет пробел", () => {
+  let position = 6;
+  let end = position;
+  let paragraphId = "paragraph";
+  let before = "Thank ";
+  let after = "";
+  const inserted = [];
+  const document = {
+    GetRangeBySelect: () => ({ GetStartPos: () => position, GetEndPos: () => end }),
+    GetCurrentParagraph: () => ({ GetInternalId: () => paragraphId }),
+    GetCurrentSentence: (part) => part === "before" ? before : after,
+    EnterText(text) { inserted.push(text); return true; },
+    InsertParagraphBreak() { inserted.push("\n"); return true; },
+  };
+  const commandContext = vm.createContext({ Api: { GetDocument: () => document }, Asc: { scope: {} } });
+  vm.runInContext(readPlugin("scripts/next-word.js"), commandContext);
+  const caret = vm.runInContext("readPredictionCaret()", commandContext);
+  commandContext.Asc.scope.tiltypePrediction = { caret, text: "you " };
+  const apply = () => vm.runInContext("applyPredictionAtCaret()", commandContext);
+
+  assert.equal(apply(), true);
+  end += 1;
+  assert.equal(apply(), false);
+  assert.equal(vm.runInContext("readPredictionCaret()", commandContext), null);
+  position = end;
+  assert.equal(apply(), false);
+  position = end = caret.position;
+  paragraphId = "another paragraph";
+  assert.equal(apply(), false);
+  paragraphId = caret.paragraphId;
+  before = "There ";
+  assert.equal(apply(), false);
+  before = "Thank ";
+  after = "you";
+  assert.equal(apply(), false);
+  after = "";
+  commandContext.Asc.scope.tiltypePrediction.text = "";
+  assert.equal(apply(), true);
+  assert.deepEqual(inserted, ["you ", "\n"]);
+});
+
+test("Enter создаёт абзац после закрытия списка, если префикс ещё у курсора", () => {
+  let word = "docu";
+  let end = 4;
+  let inserted = 0;
+  const editor = {
+    GetRangeBySelect: () => ({ GetStartPos: () => 4, GetEndPos: () => end }),
+    GetCurrentWord: () => word,
+    InsertParagraphBreak() { inserted += 1; return true; },
+  };
+  const sandbox = vm.createContext({
+    Api: { GetDocument: () => editor },
+    Asc: { scope: { tiltypeCompletionPrefix: "docu" } },
+  });
+  vm.runInContext(readPlugin("scripts/caret-prefix.js"), sandbox);
+  const pressEnter = vm.runInContext("insertParagraphAtCompletion", sandbox);
+  assert.equal(pressEnter(), true);
+  end = 5;
+  assert.equal(pressEnter(), false);
+  end = 4;
+  word = "";
+  assert.equal(pressEnter(), false);
+  assert.equal(inserted, 1);
+});
+
 test("Обработчик использует последний префикс и игнорирует старую подсказку", async () => {
   const events = new Map();
   const calls = [];
@@ -124,10 +274,11 @@ test("Обработчик использует последний префик�
     createWindow() {
       plugin.event_onKeyDown = (key) => {
         if (key.keyCode === 40) selected += 1;
-        if (key.keyCode === 13) plugin.inputHelper_onSelectItem(rows[selected]);
+        if (key.keyCode === 13) assert.fail("Enter reached the native suggestion handler");
       };
     },
     setItems(items) { rows = items; selected = 0; },
+    getSelectedItem() { return rows[selected]; },
     getItemsHeight(count) { return count; },
     show(width, height, takeKeyboard) {
       assert.ok(width > 0 && height <= 7);
@@ -166,6 +317,7 @@ test("Обработчик использует последний префик�
 
   Object.assign(context, {
     window: { Asc: { plugin } },
+    installFormatToolbar: () => ({configure() {}, dismiss() {}, close() {}}),
     Api: { GetDocument: () => ({ GetCurrentWord: (part) => caret[part] }) },
     XMLHttpRequest: LocalRequest,
     localStorage: { getItem: () => JSON.stringify(preferences) },
@@ -180,6 +332,8 @@ test("Обработчик использует последний префик�
   vm.runInContext(readPlugin("scripts/settings-toolbar.js"), context);
   vm.runInContext(readPlugin("scripts/caret-prefix.js"), context);
   vm.runInContext(readPlugin("scripts/proofing-controller.js"), context);
+  vm.runInContext(readPlugin("scripts/editor-command-queue.js"), context);
+  vm.runInContext(readPlugin("scripts/prediction-engine.js"), context);
   vm.runInContext(readPlugin("scripts/plugin.js"), context);
   plugin.init();
   await Promise.resolve();
@@ -202,7 +356,9 @@ test("Обработчик использует последний префик�
   events.get("onInputHelperInput")({ text: "Привет" });
   events.get("onKeyDown")({ keyCode: 40 });
   const highlighted = rows[1].text;
-  events.get("onKeyDown")({ keyCode: 13 });
+  events.get("onKeyDown")({ keyCode: 9, shiftKey: true });
+  assert.equal(calls.length, 1);
+  events.get("onKeyDown")({ keyCode: 9 });
   assert.deepEqual(calls.at(-1), ["InputText", highlighted, "Привет"]);
   assert.equal(helper.isVisible, false);
   events.get("onInputHelperClear")();
@@ -241,17 +397,20 @@ test("Обработчик использует последний префик�
   assert.deepEqual(calls.at(-1), ["InputText", "documents", "document"]);
 
   // Если список закрыт, Backspace может редактировать ранее набранное слово.
+  await Promise.resolve();
   events.get("onKeyDown")({ keyCode: 8 });
   caret = { before: "docu", after: "" };
   events.get("onInputHelperClear")();
   reads.shift()();
   assert.ok(helper.isVisible && rows.some(({ text }) => text === "document"));
+  await Promise.resolve();
   events.get("onInputHelperClear")();
   caret = { before: "doc", after: "u" };
   reads.shift()();
   assert.equal(helper.isVisible, false);
 
   // Поздний ответ редактора не перезаписывает ввод после удаления.
+  await Promise.resolve();
   events.get("onKeyDown")({ keyCode: 8 });
   events.get("onInputHelperClear")();
   events.get("onInputHelperInput")({ text: "Қаз" });
@@ -263,7 +422,7 @@ test("Обработчик использует последний префик�
   events.get("onInputHelperInput")({ text: "docu" });
   events.get("onKeyDown")({ keyCode: 40 });
   const keyboardChoice = rows[1].text;
-  events.get("onKeyDown")({ keyCode: 13 });
+  events.get("onKeyDown")({ keyCode: 9 });
   assert.deepEqual(calls.at(-1), ["InputText", keyboardChoice + " ", "docu"]);
 
   events.get("onInputHelperInput")({ text: "docu" });

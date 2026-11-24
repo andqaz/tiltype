@@ -30,7 +30,8 @@ const layoutCorrection = (() => {
   function convert(word, source, preferred, previous, spellcheckers, dictionaries) {
     const target = source === "en" ? "ru" : "en";
     if (preferred !== "auto" && preferred !== target) return null;
-    if (word.length < 3 && target !== previous) return null;
+    const establishedTarget = target === previous || preferred === target;
+    if (word.length < 3 && !establishedTarget) return null;
 
     let converted = "";
     for (const char of word) {
@@ -39,13 +40,16 @@ const layoutCorrection = (() => {
       converted += keys[target][index];
     }
 
-    if (word.length <= 3) {
+    if (word.length < 3) {
       if (!shortWords[target].has(converted) || shortWords[source].has(word)) return null;
-      if (target !== previous && preferred !== target) return null;
     } else {
-      const sourceLanguages = source === "en" ? /** @type {const} */ (["en"]) : /** @type {const} */ (["ru", "kk"]);
-      if (sourceLanguages.some((language) => isKnown(word, language, spellcheckers, dictionaries))) return null;
-      if (!isKnown(converted, target, spellcheckers, dictionaries)) return null;
+      const commonShort = word.length === 3 && shortWords[target].has(converted);
+      // Подтверждённая английская фраза позволяет отличить артикль от словарного «еру».
+      const englishArticle = source === "ru" && word === "еру" && establishedTarget;
+      if (!englishArticle && (shortWords[source].has(word) ||
+          isKnown(word, source, spellcheckers, dictionaries) ||
+          (source === "ru" && isKnown(word, "kk", spellcheckers, dictionaries)))) return null;
+      if (!commonShort && !isKnown(converted, target, spellcheckers, dictionaries)) return null;
     }
 
     return { text: converted, layout: target };

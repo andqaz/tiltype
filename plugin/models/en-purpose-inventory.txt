@@ -1,0 +1,3790 @@
+a and	0,6,265	b of,0,4,0
+a bachelor	7,0,1	of arts,4,0,0
+a bachelor's	5,0,5	degree in,2,0,2
+a beneficiary	1,5,0	which is,0,2,0|country and,0,2,0
+a better	5,2,338	understanding of,0,2,39
+a big	5,0,581	fan of,0,0,211
+a branch	3,1,40	of physics,0,0,8
+a brief	4,0,171	description of,0,0,30
+a broad	6,1,64	range of,1,0,12
+a business	1,2,200	center and,0,0,35
+a change	5,4,92	in the,0,3,12
+a close	2,2,48	match etc,0,0,11
+a collective	2,1,5	desire for,0,0,2
+a combination	7,3,256	of factors,0,1,27
+a common	9,38,171	organisation of,0,27,0
+a community	2,10,58	control system,0,7,0
+a complaint	0,9,1	lodged on,0,6,0
+a confirmation	0,0,415	to your,0,0,73
+a consequence	0,9,7	of the,0,3,4
+a considerable	2,1,9	amount of,1,0,4
+a continuation	2,3,13	of the,2,1,8
+a council	1,4,1	decision on,0,2,0
+a dashing	0,0,11	captain along,0,0,9
+a definitive	1,9,27	anti-dumping duty,0,6,0
+a description	2,0,81	of the,0,0,14
+a detailed	1,2,76	description of,0,2,5
+a distribution	2,1,13	that is,0,0,5
+a division	3,1,6	of the,0,1,2
+a european	2,15,26	diamond dealer,0,0,12
+a family	3,0,297	struck by,0,0,55
+a famous	1,0,410	diamond dealer,0,0,353
+a fellow	6,0,5	of the,4,0,2
+a football	5,0,15	stadium in,0,0,6
+a founding	5,0,0	member of,4,0,0
+a full	5,1,419	bar and,0,0,80|bar on,0,0,66
+a full-time	5,0,2	content creator,0,0,2
+a gradual	4,0,11	process that,1,0,5
+a greater	3,1,46	degree of,1,0,7
+a hat-trick	4,0,0	in a,2,0,0
+a hearing	0,5,1	with the,0,3,0|within the,0,2,0
+a high	11,9,396	level of,1,6,22
+a higher	6,4,230	level of,1,2,8
+a huge	2,1,164	fan of,0,0,45
+a leading	5,0,28	provider of,0,0,6
+a less	1,0,367	than genuine,0,0,325
+a letter	5,5,44	from the,0,3,0
+a limited	2,8,60	number of,0,2,15
+a list	11,9,800	of the,4,1,72
+a majority	4,0,25	of nodes,0,0,8|of the,0,0,6
+a master's	3,0,2	degree in,3,0,1
+a measure	1,2,39	of how,0,0,15|of the,0,0,11
+a mechanical	5,1,61	evaluation and,0,0,19
+a mechanism	1,2,12	for the,0,1,2
+a member	43,35,49	of the,33,2,26
+a mixed	3,1,18	baby lettuce,0,0,7
+a name	1,4,164	and phone,0,0,35
+a negative	2,2,54	impact on,0,2,9
+a neighborhood	3,0,8	in the,2,0,0
+a notice	0,7,2	published in,0,4,0
+a of	0,16,5	annex i,0,4,0
+a part	12,5,88	of the,8,2,28
+a partnership	3,1,3	between the,0,1,1
+a party	5,2,215	of four,0,0,37
+a percentage	1,3,12	of the,1,2,2
+a period	5,21,58	of time,0,0,11|of three,0,9,1
+a pilot	6,0,7	chris pine,0,0,3
+a place	14,0,1047	to eat,0,0,213
+a play	3,0,31	on words,0,0,13
+a portion	5,0,20	of the,3,0,11
+a positive	3,1,152	impact on,0,1,28
+a prerequisite	0,3,2	for the,0,2,0
+a product	1,12,96	manager community,0,0,19
+a professor	6,0,9	and researcher,0,0,3
+a prohibition	0,6,0	of fishing,0,5,0
+a prominent	7,0,21	figure in,0,0,5
+a proportion	0,3,1	of the,0,2,0
+a proposal	0,10,12	from the,0,6,0
+a provisional	0,9,0	anti-dumping duty,0,4,0
+a pub	3,0,12	a deli,0,0,4
+a quarter	3,0,10	of a,0,0,3
+a queen's	4,0,0	commendation for,4,0,0
+a quota	0,3,0	and that,0,2,0
+a reaction	1,3,6	to the,0,2,1
+a reduced	2,6,4	environmental impact,0,3,0
+a reduction	1,6,7	in the,1,2,0|of the,0,2,1
+a reference	3,12,78	to a,0,0,16|to the,2,0,11|to this,0,7,0
+a representative	1,3,7	of the,1,2,0
+a result	24,15,201	of the,10,3,29
+a retired	5,0,9	long-distance runner,0,0,3
+a review	5,6,49	of the,2,0,7
+a revision	2,1,1	of the,1,1,1
+a risk	1,5,44	that the,0,3,1
+a role	3,0,105	in the,1,0,18
+a rotten	1,0,494	tomatoes score,0,0,259|tomatoes rating,0,0,127
+a settlement	3,0,7	northeast of,2,0,0
+a significant	11,8,384	impact on,0,1,104
+a similar	5,5,246	song by,0,0,44
+a spanish	3,1,8	retired footballer,3,0,0
+a special	7,4,400	dinner at,0,0,66|legislative procedure,0,3,0
+a story	9,0,233	of two,0,0,45
+a subject	3,0,35	of debate,0,0,8
+a sufficient	1,3,10	amount of,0,1,4
+a term	4,0,38	used to,0,0,10
+a threat	2,4,25	to the,0,2,6
+a time	7,1,789	in hollywood,0,0,188
+a tour	6,0,51	of the,0,0,18
+a track	2,1,16	record of,0,0,4
+a traitor	1,0,448	on board,0,0,411
+a troubled	0,0,434	teen tries,0,0,261
+a two-year	8,0,1	contract with,3,0,0
+a view	0,35,74	of the,0,0,40|to the,0,10,4
+a village	7,0,6	in the,2,0,1
+a visiting	5,0,0	professor at,3,0,0
+a voluntary	0,5,2	basis before,0,2,0
+a week	6,0,160	from this,0,0,39
+a wide	7,6,539	range of,2,3,397|variety of,3,1,85
+a wider	3,2,64	range of,2,1,39
+about any	0,0,179	of these,0,0,32
+about beyond	0,0,106	the storm,0,0,105
+about fishing	0,0,100	the north,0,0,56|in the,0,0,23
+about no	0,0,188	time to,0,0,183
+about not	1,0,109	my problem,0,0,97
+about seeing	0,0,152	a movie,0,0,61
+about when	0,1,45	and where,0,1,7
+about yosemite	0,0,92	national park,0,0,55
+accession of	0,9,0	the republic,0,4,0
+accompanied by	6,20,45	her dragon,0,0,9
+accordance with	5,241,18	the opinion,0,74,0
+account biological	0,3,0	and socioeconomic,0,2,0
+account should	0,2,5	be taken,0,2,0|i confirm,0,0,2
+account variable	0,18,0	daily data,0,18,0
+achieved a	3,0,5	balance between,0,0,2
+achieved at	0,4,0	union level,0,4,0
+achieved by	1,5,50	the member,0,4,0
+achievement of	1,6,2	the objectives,0,3,0
+across a	3,0,99	closed european,0,0,57
+act to	1,16,4	the national,0,14,0
+acting in	0,14,12	accordance with,0,14,0
+action as	0,3,5	set out,0,3,0|well as,0,0,2
+action by	2,1,5	james cameron,0,0,2
+action films	0,0,229	are playing,0,0,57
+action in	1,5,40	the field,0,4,0
+action plan	1,4,4	to organize,0,0,3|for the,0,2,0
+activities for	0,11,6	that stock,0,5,0|the stock,0,5,0
+acts as	2,1,37	an acid,0,0,9
+acts in	0,7,3	accordance with,0,3,0
+acts of	2,4,22	the union,0,3,0
+adaptation of	2,2,45	jane austen's,0,0,10
+adaptation to	0,4,3	technical progress,0,2,0|technical and,0,2,0
+adapting to	0,3,18	technical progress,0,3,0
+additional subdivision	0,7,0	to it,0,7,0
+address and	1,2,123	phone number,0,0,26
+addressed to	0,39,4	the member,0,25,0
+adds any	0,7,0	additional subdivision,0,7,0
+administrative provisions	0,10,0	necessary to,0,7,0
+adopt in	0,5,0	the field,0,5,0
+adopt measures	0,11,0	concerning the,0,7,0|on the,0,3,0
+adopt the	2,1,10	gregorian calendar,0,0,6
+adopted in	0,9,2	accordance with,0,3,0
+adopted on	0,4,0	the basis,0,2,0|behalf of,0,2,0
+adopted pursuant	0,6,0	to article,0,4,0
+adopted the	3,4,9	metric system,0,0,3
+adopting the	1,2,3	bradac lens,0,0,2
+advisory committee	1,4,0	on state,0,2,0
+affairs and	0,11,8	security policy,0,11,0
+african american	3,0,25	vernacular english,0,0,6
+after consulting	0,16,0	the european,0,7,0|the advisory,0,6,0
+after having	3,4,6	a baby,0,0,3
+after transmission	0,14,0	of the,0,14,0
+after which	3,0,9	you must,0,0,4
+after world	5,0,8	war ii,4,0,4|war i,1,0,3
+again in	4,0,32	the future,0,0,13
+against certain	0,3,3	persons and,0,3,0
+against dumped	0,7,0	imports from,0,7,0
+against subsidised	0,3,0	imports from,0,3,0
+agencies of	3,1,1	the united,2,0,0
+agreed with	4,3,1	the host,0,2,0
+agreement between	2,18,3	the european,0,13,0
+agreement in	0,6,0	the form,0,2,0
+agreement is	0,3,1	attached to,0,2,0
+agreement on	1,11,4	the european,0,5,0
+agreements and	0,3,4	disagreements between,0,0,3
+agricultural markets	0,23,0	and on,0,22,0
+agricultural products	0,11,1	and repealing,0,5,0|and foodstuffs,0,3,0|and the,0,3,0
+aid and	3,3,22	justice authority,0,0,12
+air chief	5,0,0	marshal sir,4,0,0
+air officer	3,0,0	commanding no,2,0,0
+air vice	6,0,0	marshal and,3,0,0
+aircraft first	5,0,0	flown in,4,0,0
+album of	4,0,3	the year,2,0,0
+aligned with	2,3,33	human values,0,0,9
+all agreed	1,2,0	recommendations made,0,2,0
+all four	3,0,49	of them,0,0,14
+all information	0,4,19	it deemed,0,3,0
+all its	2,0,237	glory in,0,0,210
+all other	1,10,54	details the,0,0,10
+all over	4,1,72	the world,3,0,32
+all parties	1,9,9	agree on,0,0,3
+allocated a	2,2,1	fixed number,2,0,0
+allocated the	3,0,0	same number,2,0,0
+allocated to	1,17,2	the member,0,5,0
+allocation of	0,14,8	resources and,0,0,3
+allowed for	2,3,34	specific conditions,0,0,9
+allows managing	0,3,0	documents and,0,3,0
+allows the	3,4,106	model to,0,0,21
+almost all	4,0,26	of your,0,0,7
+already included	0,3,5	in the,0,2,2
+also announced	4,0,3	plans to,0,0,2
+also at	3,0,65	amc holiday,0,0,13
+also be	14,14,517	used to,3,0,35
+also claimed	2,1,2	that the,2,1,2
+also home	4,0,8	to the,3,0,1|to a,0,0,4
+also known	23,0,270	as the,7,0,67
+also part	3,0,4	of the,3,0,4
+also played	9,0,13	a role,0,0,4
+also produced	4,0,4	as a,1,0,2
+also referred	4,1,4	to as,3,0,3
+also serve	2,1,18	as a,0,1,4
+also served	5,0,3	as a,0,0,3
+also studied	3,0,3	at the,2,0,0
+also take	0,3,24	into account,0,2,4
+also to	1,14,26	any other,0,7,0
+alumni of	13,0,1	the university,4,0,0
+alumnus of	4,0,0	the year,2,0,0
+always a	1,0,148	good idea,0,0,80
+am interested	0,0,545	in seeing,0,0,91
+am located	0,0,62	in spring,0,0,12
+am looking	0,0,1185	for a,0,0,381
+amc holiday	0,0,3580	theater at,0,0,727
+amended as	0,7,0	set out,0,6,0
+amended in	0,20,0	accordance with,0,16,0
+amending and	0,5,0	repealing directives,0,2,0
+amending annex	0,12,0	i to,0,7,0
+amending the	0,5,3	annex to,0,3,0|articles of,0,0,2
+amendment to	0,6,9	the articles,0,0,3
+amendments in	0,3,0	question are,0,2,0
+american companies	3,0,0	established in,3,0,0
+american male	5,0,1	non-fiction writers,2,0,0
+amount intended	0,3,0	to cover,0,3,0
+an account	3,0,97	with them,0,0,18
+an active	3,4,38	area of,0,0,13
+an aggregate	3,0,7	score of,1,0,4
+an american	30,0,533	con artist,0,0,375
+an amount	1,5,4	of eur,0,3,0
+an apartment	3,0,16	with a,0,0,4
+an aspect	3,0,4	of esoteric,2,0,0
+an assessment	0,3,6	of the,0,0,5
+an association	2,3,2	between the,0,2,0
+an attack	3,0,15	on the,1,0,3
+an average	4,1,140	rating of,1,0,22
+an award	2,0,75	winning documentary,0,0,28|winning film,0,0,23
+an effective	1,4,38	way to,0,0,9
+an election	3,0,3	were required,2,0,0
+an end	4,1,32	to the,1,1,6
+an english	7,0,59	premier league,0,0,13|breakfast tea,0,0,12
+an equal	4,1,21	and opposite,0,0,9
+an equivalent	1,3,4	level of,0,2,0|of billion,0,0,2
+an essential	0,5,56	part of,0,1,13
+an example	4,0,495	of a,1,0,115
+an exchange	1,3,3	of letters,0,2,1
+an exemption	0,6,0	for lead,0,2,0
+an extension	2,4,18	of the,1,2,2
+an extensive	5,0,77	list of,1,0,23
+an impact	1,2,24	on the,0,1,7
+an important	11,2,259	part of,0,0,46
+an increase	5,7,41	in the,1,3,10
+an indication	1,2,5	that the,0,1,3
+an information	1,3,7	system that,0,3,0
+an initial	5,1,46	inspection fee,0,0,13
+an integral	1,2,15	part of,1,2,10
+an interest	3,0,22	in seeing,0,0,5
+an investigation	1,6,6	into the,0,0,3
+an officer	3,0,4	and a,0,0,3
+an operational	2,2,4	fighter jet,0,0,3|capacity under,0,2,0
+an overall	3,4,21	optimization of,0,0,5
+analysed the	0,3,0	potential related,0,2,0
+and administrative	1,12,1	provisions necessary,0,7,0
+and against	5,1,16	eliminating car,0,0,4
+and agreed	2,2,4	to be,0,2,0
+and allocation	0,3,0	of fishing,0,3,0
+and amc	0,0,194	holiday theater,0,0,57
+and amending	0,13,0	council directive,0,4,0
+and analyse	0,3,5	the toe,0,0,2
+and annex	0,4,0	ii to,0,2,0
+and appointed	6,0,1	deputy commander-in-chief,2,0,0|air officer,2,0,0
+and approved	0,3,5	by the,0,2,1|by rotten,0,0,2
+and at	11,5,399	what time,0,0,120
+and beyond	0,0,489	the storm,0,0,468
+and buildings	3,0,2	as part,3,0,0
+and buy	0,0,81	the tickets,0,0,29
+and collecting	0,4,5	definitively the,0,3,0
+and commission	0,5,0	implementing regulation,0,2,0
+and composition	0,3,9	of the,0,2,4
+and conclusions	0,3,0	of the,0,2,0
+and considerations	0,5,1	on the,0,5,0
+and construction	1,3,5	of the,1,1,0
+and could	6,3,311	you tell,0,0,80|impede the,0,3,0
+and currently	4,1,16	has a,0,0,5
+and designations	3,1,0	of squares,3,0,0
+and details	0,1,95	for how,0,0,52
+and developments	0,3,9	in the,0,0,4
+and did	7,2,306	you want,0,0,97|you have,0,0,87
+and directed	3,0,32	by james,0,0,12
+and directly	0,92,2	applicable in,0,92,0
+and director	5,0,12	of the,2,0,3
+and do	2,2,875	you have,0,0,213
+and documents	1,7,2	in implementation,0,3,0
+and early	3,0,31	th centuries,0,0,14
+and east	6,0,12	coast swing,0,0,4
+and effectiveness	0,3,8	of the,0,2,1
+and electronic	2,3,16	equipment placed,0,3,0
+and embryos	0,8,0	not subject,0,5,0
+and enforcement	0,5,2	of judgments,0,2,0
+and enjoy	0,0,440	your movie,0,0,68
+and entities	0,11,1	associated with,0,3,0|covered by,0,3,0|to whom,0,3,0
+and executive	3,0,4	chairman of,0,0,3
+and family	2,1,467	jewels is,0,0,85|jewels are,0,0,84
+and finished	8,0,2	with a,3,0,0
+and five	3,0,168	ways to,0,0,143
+and former	15,0,10	professional kickboxer,0,0,4
+and functioning	0,4,3	of the,0,2,1
+and graduated	5,0,0	from the,2,0,0
+and groups	1,7,12	of fish,0,7,0
+and have	6,5,1039	a great,0,0,173
+and having	2,8,49	regard to,0,4,0
+and ii	0,6,0	to regulation,0,2,0
+and implementation	0,5,10	of cbdcs,0,0,4|of the,0,3,0
+and imports	0,7,1	into the,0,5,0
+and imprisoned	3,0,3	in kamnik,2,0,0|in his,0,0,2
+and in	35,277,464	particular article,0,162,0
+and included	4,0,7	in ai,0,0,3
+and inclusive	0,3,5	growth in,0,2,0
+and injury	0,7,2	covered the,0,7,0
+and introduction	1,2,0	of products,0,2,0
+and ireland	0,4,0	in respect,0,3,0
+and its	25,21,500	member states,0,7,0
+and johann	3,0,0	gottlob theaenus,2,0,0
+and led	5,2,13	to the,1,0,5
+and let	1,0,370	me know,0,0,114
+and looted	3,0,0	the houses,2,0,0
+and methods	0,3,18	of administrative,0,3,0
+and national	5,6,12	media outlets,0,0,5
+and natural	0,5,36	language processing,0,0,19
+and no	4,2,288	time to,0,0,52
+and not	5,13,713	my problem,0,0,284
+and of	8,129,73	the council,0,94,0
+and on	10,49,239	specific provisions,0,22,0|the common,0,11,0
+and one	29,4,1353	of the,6,0,19
+and opened	3,1,6	up to,1,0,2
+and operated	6,2,8	by the,1,0,4
+and operators	0,3,5	for array,0,0,2
+and originating	0,3,0	in the,0,2,0
+and outside	2,1,13	of the,1,0,2
+and part	3,3,4	of the,2,1,1|b of,0,2,0
+and performed	4,1,9	by the,1,1,3
+and periods	0,18,4	stipulated in,0,18,0
+and placed	5,1,12	the order,0,0,4
+and played	14,0,16	a key,0,0,5
+and playing	2,0,48	with fire,0,0,11
+and private	4,5,32	patios or,0,0,9
+and processed	0,19,15	fruit and,0,19,0
+and protected	1,3,8	geographical indications,0,3,0
+and provisional	0,3,0	application of,0,2,0
+and purchase	0,0,199	these tickets,0,0,70|the tickets,0,0,43
+and put	2,1,102	it on,1,0,12
+and raised	6,0,3	in austria,0,0,2
+and received	6,1,22	a rotten,0,0,5
+and repealing	0,26,0	council regulation,0,8,0|council regulations,0,6,0
+and replaced	3,2,5	by regulation,0,2,0
+and requested	1,4,1	the opinion,0,2,0
+and restriction	0,3,0	of chemicals,0,3,0
+and resulted	4,0,4	in a,0,0,2
+and returned	7,0,9	to the,0,0,3
+and rules	0,6,16	applicable to,0,4,0
+and sent	2,1,220	to your,0,0,108
+and should	1,23,210	be ready,0,0,45
+and small	4,0,51	fluffy dog,0,0,10
+and society	3,0,19	as a,0,0,8
+and solid	2,1,3	areas of,0,0,2
+and spanish	1,2,3	texts are,0,2,0
+and spent	7,0,9	much of,0,0,3
+and staff	5,1,2	course in,2,0,0
+and state	1,0,99	are you,0,0,19
+and statistical	0,11,4	nomenclature and,0,11,0
+and subject	1,3,15	to change,0,0,4
+and supplied	2,1,0	by canoe,2,0,0
+and surveillance	0,5,1	zones in,0,2,0|zones established,0,2,0
+and taken	3,3,17	to the,1,0,4|into account,0,3,0
+and taking	1,9,43	into account,0,6,1
+and they've	0,0,326	been sent,0,0,318
+and time	2,0,360	would you,0,0,75
+and transferred	2,1,2	to the,2,0,0
+and union	1,9,5	with the,0,0,3
+and vegetables	0,22,28	and processed,0,19,0
+and verification	0,10,1	requirements set,0,3,0
+and went	9,0,17	on to,3,0,4
+and west	8,0,49	ham united,0,0,19
+and when	4,0,693	would you,0,0,110
+and where	1,6,982	are you,0,0,169
+and which	5,16,491	is established,0,7,0
+and white	3,2,195	mocha with,0,0,68
+and will	2,1,1009	be ready,0,0,249
+and won	6,0,46	with a,0,0,14|the game,0,0,10
+and would	8,5,543	you like,0,0,193|like to,0,0,99
+annex i	0,67,0	to regulation,0,17,0
+annex ii	0,40,0	to this,0,13,0
+annex iii	0,25,0	to this,0,6,0
+annex iv	0,19,0	to this,0,6,0|to regulation,0,6,0
+annex shall	0,12,0	be classified,0,7,0
+annex should	0,7,0	be classified,0,7,0
+annex to	0,96,0	this regulation,0,59,0
+annex v	0,4,0	to this,0,2,0
+annex vi	0,5,0	to regulation,0,3,0
+annexed to	0,10,0	the treaty,0,9,0
+annexes i	0,7,0	and ii,0,5,0
+annexes ii	0,4,0	and iv,0,2,0|and iii,0,2,0
+annexes iii	0,3,0	and iv,0,3,0
+announced a	3,1,2	new release,0,0,2
+announced his	6,0,0	retirement from,4,0,0
+announced in	0,3,1	the notice,0,2,0
+another member	1,4,1	state or,0,3,0
+anti-dumping duty	0,16,0	on imports,0,7,0
+antwerp to	0,0,335	pursue a,0,0,329
+any action	0,1,149	movies playing,0,0,32
+any additional	0,9,110	subdivision to,0,7,0
+any natural	0,3,1	or legal,0,2,0
+any one	1,2,77	of these,0,2,12
+any part	1,2,13	of the,0,0,7
+any tickets	0,0,217	available for,0,0,38
+any way	2,1,111	i can,0,0,22
+any will	0,0,6	be fine,0,0,5
+anyone who	2,1,47	wants to,1,0,8
+anything else	1,0,2207	i can,0,0,565
+appears to	6,2,112	be a,1,0,23
+applicable in	0,100,7	all member,0,88,0
+application of	3,84,31	council regulation,0,21,0
+application submitted	0,3,0	by spain,0,2,0
+applies to	0,5,27	member states,0,3,0
+apply also	0,7,0	to any,0,7,0
+apply from	0,5,0	the day,0,2,0
+apply only	0,4,1	to the,0,2,0
+appointed deputy	3,0,0	commander-in-chief personnel,2,0,0
+appointed head	4,0,0	of air,2,0,0
+appointment as	5,0,32	soon as,0,0,16
+appropriate consultations	0,3,0	during its,0,2,0
+appropriate in	0,4,3	order to,0,2,0
+approved in	0,3,0	accordance with,0,3,0
+approved on	0,5,0	behalf of,0,5,0
+architect and	4,0,3	founder of,0,0,2
+architects of	3,0,4	the th,0,0,3
+are among	3,0,13	the most,0,0,4
+are any	0,0,589	of those,0,0,100
+are applied	1,3,8	to the,0,0,3
+are at	1,3,395	pm pm,0,0,101
+are based	2,3,81	on the,0,3,19
+are being	2,1,244	sent to,0,0,95
+are closer	2,1,14	to the,1,1,4
+are confirmed	0,0,469	and they've,0,0,292
+are considered	3,3,88	to be,0,1,17
+are distinguished	1,2,0	by their,0,2,0
+are either	0,1,125	of them,0,0,30|of those,0,0,29
+are eligible	0,3,3	for the,0,1,2
+are expected	1,3,25	to be,0,2,5
+are fixed	0,20,4	in the,0,18,0
+are going	0,0,589	to be,0,0,113
+are in	8,81,1433	accordance with,0,74,0
+are included	5,7,9	in the,3,4,3
+are interested	0,0,183	in seeing,0,0,35
+are laid	2,5,3	down in,0,5,0|out in,2,0,0|off first,0,0,2
+are less	2,2,64	likely to,1,0,16
+are likely	0,5,68	to be,0,1,14
+are listed	1,3,29	as comedies,0,0,9
+are located	7,1,206	in the,3,0,10
+are normally	3,1,4	what we,0,0,2
+are not	16,45,1760	what they,0,0,360
+are part	1,2,47	of the,1,1,34
+are produced	1,2,10	and labelled,0,2,0
+are purchased	0,0,110	and details,0,0,52
+are relatively	2,1,34	easy to,0,0,11
+are replaced	0,8,7	by the,0,7,0
+are said	3,0,7	to have,2,0,0
+are set	0,9,36	out in,0,9,0
+are subject	2,17,18	to the,1,4,3
+are there	1,0,2906	any other,0,0,474
+areas that	3,0,33	need improvement,0,0,7
+army forces	4,0,0	escorted the,2,0,0
+army personnel	4,0,0	of world,3,0,0
+arrested for	3,0,3	collaboration with,2,0,0
+as an	72,17,861	ai language,0,0,177
+as at	2,1,5	pm and,0,0,2
+as captain	2,0,308	john's crew,0,0,301
+as defined	5,17,5	by the,5,2,4|in article,0,5,0
+as described	1,4,10	in the,0,1,3
+as executive	3,0,0	vice president,2,0,0
+as explained	0,5,1	in recitals,0,2,0
+as far	9,5,139	as i,0,0,29|back as,3,0,8
+as fast	3,0,29	as possible,0,0,6
+as from	0,6,4	the date,0,3,0
+as la	3,0,4	luna which,0,0,2
+as laid	0,11,0	down in,0,11,0
+as listed	0,4,2	in annex,0,3,0|in the,0,1,2
+as long	1,4,421	as it,0,0,86|as it's,0,0,83|as the,0,1,53|as they,1,0,37
+as much	3,1,230	as possible,1,0,44
+as no	5,4,9	time to,0,0,5
+as one	13,4,134	of the,11,2,80
+as opposed	5,1,50	to the,2,0,7
+as part	31,14,96	of the,13,8,34|of a,6,1,27
+as per	5,0,55	your preference,0,0,15
+as president	3,0,4	of the,2,0,0
+as provided	0,20,0	for in,0,15,0
+as referred	0,16,0	to in,0,16,0
+as required	4,7,2	by the,1,3,1|under the,2,1,0
+as set	0,30,2	out in,0,30,0
+as soon	2,7,677	as possible,0,5,476
+as specified	0,16,3	in the,0,5,2
+as stated	2,5,8	in the,1,5,1
+as well	104,82,1837	as the,17,23,226
+asking you	0,0,26	how many,0,0,6
+aspects whilst	0,3,0	ensuring fair,0,3,0
+assessed by	0,5,1	the commission,0,3,0
+assessment and	0,9,3	verification requirements,0,4,0
+assessment report	1,6,0	to the,0,2,0
+assiniboine river	4,0,0	fur trade,2,0,0|north-west to,2,0,0
+assist you	0,0,300	with that,0,0,56
+assistant professor	3,0,3	at tilburg,0,0,3
+association between	1,2,1	the european,0,2,0
+at amc	0,0,3808	holiday theater,0,0,1393
+at any	4,3,146	given time,2,1,9
+at cinemark	0,0,1130	downtown at,0,0,220
+at new	3,0,23	vision fitchburg,0,0,5
+at one	4,1,83	of the,0,0,16
+at some	2,0,57	of the,1,0,10
+at what	3,0,378	time would,0,0,66
+attached to	5,10,39	this decision,0,7,0
+audience and	0,0,205	critic ratings,0,0,79
+authorisation and	0,4,0	restriction of,0,3,0
+authorisations for	0,3,0	plant protection,0,2,0
+authorise imports	0,5,0	of live,0,2,0
+authorised the	0,4,0	commission to,0,3,0
+authorised to	0,9,0	designate the,0,3,0
+authorising the	0,4,0	placing on,0,2,0
+authorities have	0,3,4	denied authorization,0,0,2
+authorities involved	0,3,0	in the,0,3,0
+authorities of	2,26,0	member states,0,6,0|the member,0,6,0
+authorities or	0,3,6	individuals authorised,0,2,0
+autonomous community	2,1,1	of the,2,0,0
+available by	0,5,12	the slice,0,0,6|the commission,0,3,0
+award of	0,5,1	the eu,0,4,0
+award winning	0,0,281	film that,0,0,214
+awarded a	9,0,2	queen's commendation,3,0,0
+awarded the	14,1,16	nobel prize,0,0,6|nobel memorial,0,0,6
+awarded to	4,4,6	products which,0,3,0
+awarding the	0,3,0	eu ecolabel,0,3,0
+awards and	3,0,22	honors for,0,0,5
+b of	0,14,14	a card,0,0,7|the annex,0,6,0
+bachelor of	8,0,6	science in,1,0,4
+back of	5,0,98	the theater,0,0,32
+backcountry and	0,0,169	beyond the,0,0,103
+backcountry at	0,0,427	cinemark downtown,0,0,135|the cinemark,0,0,135
+backcountry is	0,0,658	a documentary,0,0,187
+backcountry which	0,0,52	is a,0,0,21
+bad boys	0,0,1897	for life,0,0,1488
+bank and	2,3,15	gaza strip,0,0,4
+bank of	14,3,54	america stadium,1,0,49
+banks and	5,1,15	financial institutions,0,0,4
+basque country	4,0,0	and in,2,0,0
+be accepted	1,2,5	in the,1,1,0|by the,0,1,1
+be accompanied	0,12,13	by such,0,6,0|by an,0,3,2
+be accountable	0,3,1	to the,0,2,0
+be achieved	2,3,67	by using,0,0,14
+be added	2,4,86	to your,0,0,30|to the,2,2,23
+be adopted	0,10,4	by the,0,4,1
+be agreed	0,6,1	with the,0,2,0|to by,0,2,0|by the,0,2,0
+be aligned	0,4,8	with the,0,2,1
+be allocated	1,5,0	to member,0,2,0
+be amended	0,14,2	to include,0,3,1
+be applied	3,22,96	to the,0,1,19
+be appointed	1,3,2	by the,0,2,0
+be awarded	2,4,1	to products,0,3,0
+be based	0,18,41	on the,0,6,7
+be better	0,4,162	achieved at,0,4,0
+be binding	0,92,0	in its,0,92,0
+be bound	0,4,2	by the,0,3,1
+be carried	3,14,6	out in,0,7,0|out by,0,4,2
+be classified	2,17,18	under the,0,7,0|within the,0,7,0
+be compatible	1,3,13	with the,1,2,5
+be completed	2,1,17	in two,0,0,5
+be consistent	1,4,20	consistency is,0,0,5|with the,1,2,1
+be construed	0,3,0	as references,0,2,0
+be controlled	3,1,14	by a,0,0,4
+be counted	0,3,4	towards the,0,1,2
+be covered	0,7,15	by the,0,4,1
+be deemed	0,11,5	to be,0,6,0
+be defined	1,5,23	as the,1,0,5
+be deployed	1,3,5	outside the,0,2,0
+be determined	0,7,20	by the,0,0,5
+be dissolved	3,0,3	and a,2,0,0
+be entered	0,3,1	in the,0,2,0
+be established	0,25,13	by a,0,1,6
+be excluded	1,9,0	from the,1,5,0
+be exempted	0,5,0	from the,0,4,0
+be exhausted	0,5,0	from the,0,5,0
+be found	7,1,134	in the,2,0,13
+be fulfilled	0,4,2	via that,0,3,0
+be happy	1,0,417	to help,0,0,153
+be heard	3,0,5	in the,0,0,2
+be included	3,16,37	in the,1,10,14
+be inserted	1,4,3	into the,0,0,2
+be investigated	1,4,0	by selecting,0,2,0
+be invoked	0,14,2	by the,0,7,0|in accordance,0,5,0
+be involved	3,2,18	in the,1,1,5
+be issued	3,3,1	no later,2,0,0
+be just	1,0,233	my friend,0,0,103
+be known	4,0,14	to have,0,0,6
+be laid	0,4,0	down in,0,2,0
+be limited	1,5,23	by the,0,1,6
+be managed	1,5,11	in accordance,0,5,0
+be my	0,0,194	friend and,0,0,46
+be no	3,0,80	more than,0,0,34
+be noted	0,5,20	that the,0,3,6
+be offered	2,1,9	to customers,0,0,5
+be one	3,1,145	of the,3,0,43
+be part	2,3,27	of the,2,3,14
+be placed	1,7,52	on the,0,6,7
+be prohibited	0,11,1	from the,0,5,0|to retain,0,5,0
+be published	2,9,1	in the,2,7,1
+be removed	2,3,7	from the,1,2,1
+be replaced	3,3,34	by a,1,2,2
+be responsible	1,10,28	for the,0,4,2
+be retained	0,3,3	on board,0,2,0
+be seeing	0,0,237	the movie,0,0,76
+be seen	4,1,204	as a,1,0,48
+be sent	1,5,985	to your,0,0,618|to you,0,0,164|to the,0,4,26
+be set	0,10,25	at three,0,5,0
+be subject	0,16,20	to a,0,6,0
+be sufficiently	0,4,1	achieved by,0,4,0
+be supplemented	0,3,0	by other,0,2,0
+be suspended	0,4,0	for the,0,2,0
+be taken	1,23,119	into account,0,9,8
+be understood	1,3,30	as a,0,1,6
+be valid	0,5,4	for four,0,3,0
+be without	0,7,7	prejudice to,0,7,0
+bearing in	0,4,0	mind the,0,3,0
+beauty and	3,0,107	the beast,0,0,82
+became involved	3,0,2	in the,2,0,2
+became known	9,0,16	as the,4,0,10
+became one	7,0,9	of the,5,0,8
+became part	3,0,3	of the,3,0,3
+became responsible	3,1,0	for the,2,1,0
+been available	3,1,6	in my,0,0,3
+been consulted	0,5,0	on the,0,2,0
+been developed	3,1,20	to study,0,0,5
+been found	5,1,24	to be,0,1,7
+been recorded	3,1,2	in the,1,0,1
+been removed	0,3,6	from the,0,2,2
+been sent	2,0,1076	to your,0,0,833
+been studied	3,0,9	for the,2,0,0
+been used	7,3,145	as a,2,0,11
+before his	4,0,7	death in,3,0,0
+before moving	6,0,17	on to,0,0,13
+began their	4,0,1	season at,2,0,0
+behalf of	5,30,19	the european,0,9,0|the union,0,8,0
+being one	3,0,9	of the,3,0,6
+being responsible	3,0,3	for the,1,0,1
+being sent	3,0,194	to your,0,0,143
+believed to	10,0,88	be the,4,0,5
+best known	9,0,48	for his,3,0,27
+best of	8,0,153	living across,0,0,55
+best two	1,0,10	options for,0,0,3
+better achieved	0,4,0	at union,0,4,0
+between member	0,3,0	states and,0,2,0
+between not	0,0,46	my problem,0,0,46
+between the	47,60,738	european union,0,12,0
+beyond the	1,1,3781	storm is,0,0,861|storm at,0,0,591
+beyond what	0,6,6	is necessary,0,6,0
+binding in	0,92,0	its entirety,0,92,0
+binding tariff	0,14,0	information issued,0,7,0|information which,0,7,0
+biocidal products	0,6,0	on the,0,2,0
+book that	2,0,605	for you,0,0,152
+book three	0,0,92	tickets for,0,0,47
+book two	0,0,414	tickets for,0,0,225
+books in	4,0,14	the library,0,0,4
+born and	3,0,11	raised in,2,0,3
+born or	5,0,1	lived in,5,0,0
+both in	3,2,70	terms of,0,2,5
+both sides	4,0,65	of the,2,0,24
+bring into	0,6,1	force the,0,6,0
+britain and	8,3,8	northern ireland,0,3,0
+british army	5,0,0	personnel of,2,0,0
+british television	7,0,1	series debuts,3,0,0
+broke out	5,0,3	in the,2,0,0
+brother of	5,0,6	a brother,0,0,4
+brought him	4,0,2	to the,2,0,0
+buddhist temples	5,0,2	in kyoto,2,0,0
+budget of	1,15,18	the union,0,8,0
+build on	1,3,11	top of,0,0,4
+building in	6,1,35	the world,0,0,20
+building was	13,0,4	designed by,1,0,2
+buildings and	17,1,18	structures in,11,0,0
+buildings as	3,0,2	part of,3,0,0
+built on	5,1,45	top of,0,0,15
+business model	3,1,17	around providing,0,0,6
+but a	8,0,530	traitor on,0,0,324
+but any	0,0,20	will be,0,0,5
+but as	6,0,147	an ai,0,0,24
+but can	0,1,392	you tell,0,0,74
+but none	2,1,24	of them,0,1,6
+but there	4,0,594	are no,1,0,71
+buy a	0,0,307	movie ticket,0,0,62
+buy movie	0,0,313	tickets for,0,0,205
+buy some	0,0,355	movie tickets,0,0,210|tickets for,0,0,67
+buy two	0,0,219	tickets for,0,0,102|tickets to,0,0,60
+buying a	1,0,67	movie ticket,0,0,12
+by commission	0,6,0	implementing decision,0,4,0
+by council	0,5,0	implementing decision,0,2,0|joint action,0,2,0
+by each	0,3,22	of them,0,0,7
+by marcus	3,0,1	elieser bloch,2,0,0
+by means	5,13,1	of a,1,3,1|of the,0,4,0
+by member	0,22,1	states to,0,5,0
+by playing	1,0,44	levels with,0,0,11|matchmaker for,0,0,9
+by slovenia's	3,0,0	postwar communist,3,0,0
+by specific	0,7,6	provisions of,0,7,0
+by such	1,10,2	a reference,0,5,0
+by this	3,15,23	regulation which,0,5,0
+by those	1,8,15	vessels after,0,5,0
+by various	3,0,28	factors such,0,0,8
+by vessels	0,7,0	flying the,0,6,0
+by virtue	0,9,2	of the,0,8,0
+by way	3,18,0	of derogation,0,12,0
+by west	5,0,0	midlands trains,2,0,0
+calculated each	0,18,0	working day,0,18,0
+calculated on	0,5,0	the basis,0,5,0
+called on	1,10,5	interested parties,0,5,0
+came in	4,0,10	the th,0,0,3
+campus of	4,0,7	university of,0,0,3
+can also	8,2,1171	be used,4,0,75
+can assist	0,0,203	you with,0,0,120
+can continue	0,3,30	to be,0,3,0
+can give	0,0,251	you a,0,0,51
+can go	1,1,446	ahead and,0,0,107
+can help	0,0,3294	you with,0,0,815
+can you	0,0,20003	tell me,0,0,4305
+canada and	6,0,14	the united,3,0,0
+canadian football	4,0,0	league and,3,0,0
+canadian province	5,0,1	of nova,3,0,0|of saskatchewan,2,0,0
+capital and	3,1,13	largest city,1,0,3
+captain along	0,0,8	the way,0,0,8
+captain and	4,0,18	his crew,1,0,9
+captain john's	0,0,323	crew faces,0,0,312
+career with	4,0,3	the company,0,0,2
+carniola region	6,0,0	of slovenia,6,0,0
+carried out	8,47,22	by the,1,10,4
+catches of	0,6,0	the stock,0,5,0
+caught by	1,6,5	those vessels,0,5,0
+certain aspects	1,2,10	of the,0,2,6
+certain conditions	0,7,8	functionally linked,0,3,0
+certain fish	0,7,3	stocks and,0,7,0
+certain fruit	0,18,1	and vegetables,0,18,0
+certain goods	0,8,1	in the,0,7,0
+certain hazardous	0,3,0	substances in,0,3,0
+certain live	0,3,0	animals and,0,2,0
+certain non-eu	0,5,0	waters for,0,4,0
+certain persons	0,3,0	and entities,0,3,0
+certain specific	0,5,0	restrictive measures,0,4,0
+certain third	0,6,0	countries not,0,2,0
+certificate issued	1,3,1	pursuant to,0,2,0
+cfl draft	4,0,0	took place,4,0,0
+chain and	1,19,11	animal health,0,19,0
+chairman of	15,0,3	the world,0,0,3
+championship in	3,0,3	the year,0,0,2
+changed its	7,0,0	name to,7,0,0
+changed on	3,0,1	the basis,3,0,0
+channel and	1,2,14	recognizes commands,0,0,4
+charged to	1,8,126	your card,0,0,25|your account,0,0,24
+charter of	0,5,0	fundamental rights,0,5,0
+check listings	0,0,9	at amc,0,0,7
+check to	0,0,299	see if,0,0,200
+chief executive	5,0,0	officer of,2,0,0
+chief of	10,0,1	the air,4,0,0
+chronicle of	3,0,1	gods and,2,0,0
+cinema in	0,0,477	petaluma california,0,0,211
+cinemark downtown	0,0,2015	at pm,0,0,338
+city are	0,0,198	you looking,0,0,42|you in,0,0,41|you located,0,0,35
+city lifestyle	0,0,278	to work,0,0,276
+city to	4,0,111	work on,0,0,23
+civil and	0,5,1	commercial matters,0,2,0
+clarifying the	0,3,1	situation as,0,2,0
+classification of	3,27,6	certain goods,0,7,0|the goods,0,7,0
+classified under	0,8,2	the cn,0,7,0
+classified within	2,7,0	the combined,0,7,0
+club for	3,0,6	a night,0,0,4
+cn code	0,6,0	indicated in,0,6,0
+code indicated	0,6,0	in column,0,6,0
+code number	0,3,5	assigned to,0,3,0|in the,0,0,2|and the,0,0,2
+collected from	2,1,6	the school,2,0,0
+collecting definitively	0,3,0	the provisional,0,3,0
+column on	2,1,0	the right,2,0,0
+combined nomenclature	0,22,0	annexed to,0,8,0|under the,0,7,0
+comedy starring	0,0,62	matt damon,0,0,28|melissa mccarthy,0,0,14|ryan reynolds,0,0,11
+comedy with	0,0,104	a rotten,0,0,18
+coming off	6,0,1	the bench,2,0,0
+coming on	3,0,19	as a,3,0,0
+command and	7,0,10	staff course,4,0,0
+commander of	11,0,2	the order,4,0,0
+commendation for	4,0,0	valuable service,4,0,0
+comments made	0,3,0	by the,0,2,0
+comments on	1,10,6	social media,0,0,3
+comments pursuant	0,5,0	to the,0,3,0
+comments submitted	0,3,0	by the,0,2,0
+commission after	0,4,0	having consulted,0,2,0|consulting the,0,2,0
+commission announced	0,5,0	in the,0,2,0
+commission considered	0,3,0	sufficient to,0,2,0
+commission considers	0,5,0	that the,0,3,0
+commission continued	0,3,0	to seek,0,3,0
+commission decided	0,4,0	to initiate,0,2,0
+commission decision	0,5,0	to initiate,0,2,0
+commission fixes	0,18,0	the standard,0,18,0
+commission in	0,21,0	accordance with,0,8,0
+commission is	0,8,3	the executive,0,0,2
+commission its	0,4,0	conclusion on,0,2,0
+commission published	0,3,0	the amendment,0,2,0
+commission received	0,11,0	a request,0,3,0
+commission selected	0,3,0	a sample,0,2,0
+commission the	0,9,6	text of,0,6,0
+commission took	0,3,0	due note,0,2,0
+commission within	2,4,0	ten days,2,0,0|the standing,0,2,0
+commissioned as	4,0,0	a university,2,0,0
+commitment and	0,3,7	payment appropriations,0,2,0
+committee established	0,18,0	by article,0,11,0
+committee for	0,17,0	the common,0,6,0|fisheries and,0,4,0
+committee of	10,21,3	the regions,0,6,0
+committee on	1,33,0	the food,0,19,0
+committee set	0,3,0	up by,0,3,0
+common fisheries	0,5,0	policy established,0,3,0
+common organisation	0,33,0	of agricultural,0,22,0|of the,0,11,0
+common principles	0,3,0	applying to,0,2,0
+commonly known	9,0,12	as the,1,0,3
+communicate to	0,9,5	the commission,0,7,0
+communicated to	1,2,1	the commission,0,2,0
+communication from	0,3,0	the commission,0,3,0
+communication on	0,3,0	eu state,0,2,0
+communist government	4,0,1	to remove,3,0,0
+community control	0,7,0	system for,0,7,0
+community rules	0,5,0	referred to,0,5,0
+companies in	4,1,26	the index,0,0,7
+companies of	5,0,0	the united,5,0,0
+companion of	3,0,1	the order,3,0,0
+company changed	3,0,0	its name,3,0,0
+company was	12,3,14	founded in,1,0,4|able to,0,0,5
+competent authority	0,14,0	of the,0,5,0
+complaint and	0,3,0	arriving at,0,2,0
+complaint contained	0,3,0	prima facie,0,3,0
+complete the	0,4,118	booking r,0,0,22
+completed and	3,2,15	will be,0,0,5
+completed in	3,0,12	two days,0,0,5
+completing his	4,0,6	nd job,0,0,3
+compliance with	3,25,18	the rules,0,7,0
+complies with	0,7,5	the requirements,0,3,0
+concerned and	0,11,0	like product,0,6,0
+concerned by	0,10,0	this regulation,0,5,0
+concerned to	0,4,1	the union,0,2,0
+concerning certain	0,3,0	protective measures,0,2,0
+concerning restrictive	0,3,0	measures in,0,2,0
+conditions functionally	0,3,0	linked thereto,0,3,0
+conditions laid	0,9,0	down in,0,9,0
+conditions provided	0,4,0	for in,0,3,0
+conditions set	0,9,0	out in,0,6,0
+conference of	2,1,14	the nba,0,0,12
+conferred on	0,3,0	the commission,0,2,0
+confirm that	0,1,1104	the movie,0,0,310
+confirmed and	0,0,615	they've been,0,0,309
+confirming the	1,2,49	details that,0,0,12
+conform to	2,5,8	this regulation,0,5,0
+consent of	1,10,3	the european,0,6,0
+considerations on	0,5,0	the basis,0,5,0
+considered and	0,3,8	taken into,0,3,0
+considered appropriate	0,4,5	in order,0,2,0
+considered one	5,0,64	of the,4,0,61
+considered sufficient	0,3,0	to justify,0,3,0
+considered to	6,10,190	be a,0,1,33|be one,2,0,23
+constitution and	1,2,7	composition of,0,2,0
+construction of	16,4,47	the pyramids,0,0,13
+construed as	0,3,0	references to,0,2,0
+consulted the	0,6,0	advisory committee,0,2,0
+consulting the	0,16,1	advisory committee,0,6,0|european union,0,4,0
+contain a	2,7,37	reference to,0,6,0
+contained prima	0,3,0	facie evidence,0,3,0
+continued to	24,3,97	seek and,0,3,0
+contrary to	2,6,9	popular belief,0,0,3
+contribution from	0,4,0	the union,0,2,0
+contributions to	4,5,124	the field,0,0,32
+control measures	0,3,1	to be,0,2,0
+control system	1,7,33	for ensuring,0,7,0
+convince his	0,0,393	depressed elderly,0,0,345
+coordination with	0,5,0	the european,0,2,0
+costs to	0,3,9	fix the,0,0,4
+could impede	0,3,1	the achievement,0,3,0
+could lead	0,5,112	to a,0,2,18
+could you	0,0,5424	tell me,0,0,1188
+council and	3,9,0	the commission,0,5,0
+council as	0,12,0	regards the,0,4,0|regards an,0,3,0
+council authorised	0,4,0	the commission,0,3,0
+council concerning	0,5,0	the placing,0,4,0
+council for	3,2,0	the exploration,0,2,0
+council is	0,6,1	hereby authorised,0,3,0
+council of	7,64,16	the european,0,56,2
+council shall	0,4,0	ensure that,0,2,0
+council to	1,7,1	adopt measures,0,3,0
+council with	0,4,1	regard to,0,3,0
+countries in	2,4,40	the world,1,0,6
+countries listed	0,4,0	in annex,0,3,0
+countries not	0,11,0	members of,0,9,0
+country and	6,2,51	beyond the,0,0,11
+country for	4,1,14	old men,0,0,7
+court of	1,8,10	justice of,0,2,4
+cousin's haunted	0,0,308	marijuana farm,0,0,307
+cover in	3,2,6	particular the,0,2,0
+cover of	3,0,42	the song,0,0,10
+covered the	2,7,3	period from,0,7,0
+created in	3,0,21	the late,0,0,5
+credit card	0,0,427	on file,0,0,119
+creek and	3,0,4	de anza,0,0,2|i'll be,0,0,2
+crew faces	0,0,322	not only,0,0,315
+criteria and	0,7,7	the related,0,4,0
+criteria are	0,5,13	to be,0,3,0
+criteria laid	0,3,0	down in,0,3,0
+criteria set	0,4,0	out in,0,4,0
+criteria whereby	0,18,0	the commission,0,18,0
+croatia to	0,4,1	the european,0,4,0
+cultures of	2,1,3	other countries,2,0,0
+current scientific	1,2,7	understanding of,0,0,3|and technical,0,2,0
+currently falling	0,7,0	within cn,0,7,0
+currently showing	0,0,237	in theaters,0,0,40
+customs authorities	0,6,0	of member,0,3,0
+damon and	0,0,313	noah schnapp,0,0,238
+dashing captain	0,0,9	along the,0,0,8
+data protection	0,5,20	regulation gdpr,0,0,6
+data referred	0,3,0	to in,0,3,0
+date of	7,58,116	entry into,0,13,0
+date on	1,3,26	which the,0,3,0
+date set	0,5,8	out in,0,5,0|for may,0,0,3
+day after	3,1,27	tomorrow at,0,0,10
+day are	0,0,140	you looking,0,0,33
+day do	0,0,131	you want,0,0,98
+day following	0,86,0	that of,0,80,0
+day in	4,0,306	the neighborhood,0,0,264
+day of	16,40,136	the appointment,0,0,38|the week,0,0,28|its publication,0,24,0
+day would	0,0,358	you like,0,0,318
+days after	4,1,12	which you,0,0,4
+days of	5,3,70	the week,0,0,17
+de facto	2,1,3	standard for,0,0,2
+dealer leaves	0,0,268	his european,0,0,255
+dealer who	0,0,105	leaves his,0,0,62
+december of	2,1,2	that year,2,0,0
+decide on	0,3,118	a movie,0,0,20
+decide whether	1,2,28	or not,1,0,3
+decided not	2,1,48	to buy,0,0,32
+decision are	0,23,0	in accordance,0,21,0
+decision as	0,4,2	well as,0,3,1
+decision is	0,38,4	addressed to,0,31,0
+decision may	0,3,0	be agreed,0,2,0
+decision shall	0,44,0	enter into,0,27,0
+decision should	0,10,4	be based,0,0,3
+decision was	5,1,6	made in,1,0,2
+decker moves	0,0,193	upstate from,0,0,191
+decker who	0,0,49	moves upstate,0,0,41
+deducted from	0,3,4	the cost,0,0,3
+deemed necessary	0,7,3	for its,0,3,0
+deemed to	0,16,3	be exhausted,0,5,0|have been,0,4,0
+defeating the	3,0,18	ender dragon,0,0,5
+definitive anti-dumping	0,10,0	duty on,0,5,0|duty and,0,3,0
+definitive countervailing	0,4,0	duty on,0,2,0
+definitively the	0,3,0	provisional duty,0,3,0
+degree from	3,0,6	sorbonne university,0,0,3
+degree in	11,0,16	computer science,0,0,5
+delivered to	3,0,106	your email,0,0,18
+delivery of	2,4,24	the tickets,0,0,8
+delves into	0,0,248	the wonders,0,0,232
+democratic republic	2,3,1	of the,1,1,0
+depressed elderly	0,0,357	neighbor that,0,0,347
+describes the	4,1,66	behavior of,0,0,13
+designated a	3,0,0	provincial park,2,0,0
+designations of	0,4,0	origin and,0,3,0
+destined for	1,3,1	human consumption,0,2,0
+detailed description	0,4,11	of the,0,2,4
+detailed rules	0,43,1	for the,0,29,0
+details for	0,0,170	how to,0,0,51
+deteriorate and	0,3,1	could impede,0,3,0
+determine how	0,5,34	such reference,0,5,0
+determining the	3,23,46	entry price,0,18,0
+developed an	2,3,4	information system,0,3,0
+diamond dealer	0,0,444	leaves his,0,0,263
+did you	0,0,5053	want to,0,0,1281
+die at	0,0,290	mountain amc,0,0,60|the mountain,0,0,60
+differences between	2,3,143	the two,1,0,21
+diploma in	3,0,5	computer science,0,0,5
+direct access	2,1,9	to the,1,0,2
+directed against	0,3,0	certain persons,0,3,0
+directed by	26,0,712	james cameron,0,0,350
+directive are	0,6,0	in accordance,0,3,0
+directive by	0,3,0	the last,0,2,0
+directive does	0,6,0	not go,0,2,0
+directive is	1,13,0	addressed to,0,8,0
+directive or	0,7,0	be accompanied,0,5,0
+directive provides	0,4,0	for the,0,2,0
+directive shall	0,13,0	enter into,0,8,0
+directly applicable	0,92,2	in all,0,88,0
+director of	36,0,128	the movie,0,0,26
+disciple of	4,0,3	the appalachian,0,0,2
+disclosure of	0,7,4	the essential,0,4,0
+disease in	0,4,4	poultry or,0,2,0
+disney seems	0,0,11	like a,0,0,11
+disproportionate to	0,3,2	the benefits,0,2,0|the amount,0,0,2
+distant cousin's	0,0,287	haunted marijuana,0,0,279
+distinguished by	1,2,4	their virulence,0,2,0
+distributed by	3,0,4	major hollywood,0,0,3
+division and	4,0,5	iron horse,2,0,0
+do either	0,0,209	of them,0,0,50|of those,0,0,47|of these,0,0,36
+do for	0,0,138	you today,0,0,45|dinner tonight,0,0,26
+do you	0,0,18592	want to,0,0,3361
+documentary about	2,0,117	yosemite national,0,0,35
+documents and	0,7,18	procedures electronically,0,3,0
+documents in	0,4,1	implementation of,0,3,0
+documents to	2,4,8	the press,0,0,3
+does any	0,0,38	of those,0,0,10
+dol pri	4,0,0	ljubljani in,4,0,0
+down animal	0,6,0	health requirements,0,5,0
+down detailed	0,33,0	rules for,0,29,0
+down provisions	0,3,0	for the,0,2,0
+down rules	0,7,0	on the,0,3,0
+downtown and	0,0,265	amc holiday,0,0,52
+downtown in	0,0,233	spring hills,0,0,156
+downtown theater	0,0,182	at pm,0,0,34
+draft decision	0,6,0	of the,0,4,0|may be,0,2,0
+draft legislative	0,14,0	act to,0,14,0
+draft took	4,0,0	place on,4,0,0
+drawing up	0,3,0	delegated acts,0,2,0
+drawn up	0,15,0	by the,0,7,0|in accordance,0,4,0
+due regard	0,4,0	to the,0,4,0
+dumped imports	0,7,0	from countries,0,7,0
+dumping and	0,8,0	injury covered,0,4,0
+duration of	1,6,185	the trip,0,0,107
+during and	3,0,17	after the,2,0,4
+during that	2,1,19	time frame,0,0,5
+during their	2,4,21	entire life,0,3,0
+during world	14,0,61	war ii,11,0,30|war i,3,0,24
+duties and	0,4,3	act in,0,2,0
+duty and	1,4,4	collecting definitively,0,3,0
+duty imposed	0,6,0	on imports,0,4,0
+duty on	0,14,0	imports of,0,9,0
+each fish	0,3,0	stock or,0,2,0
+each member	1,9,4	of the,0,1,2
+each to	2,0,14	help you,0,0,7|provide for,2,0,0
+early in	5,0,91	the morning,1,0,56
+early life	11,0,4	and education,8,0,0
+ec and	0,10,0	repealing council,0,3,0
+ec as	0,5,0	regards the,0,3,0
+ec is	0,11,0	replaced by,0,4,0
+ec lays	0,3,0	down the,0,2,0
+ec of	0,32,0	the european,0,32,0
+ec shall	0,4,0	continue to,0,2,0
+ec should	0,18,0	therefore be,0,10,0
+ecolabel criteria	0,7,0	are to,0,3,0
+ecolabel may	0,3,0	be awarded,0,3,0
+ecological criteria	0,6,0	for the,0,4,0
+economic and	3,20,64	social committee,0,12,0
+economic committee	0,4,0	for fisheries,0,4,0
+economic resources	0,9,1	under that,0,3,0|should apply,0,3,0
+education at	8,0,2	amc mountain,0,0,2
+eeas shall	0,3,0	grant all,0,2,0
+eec and	0,8,0	commission directives,0,3,0
+eec lays	0,5,0	down the,0,3,0
+effectiveness and	0,3,8	economic and,0,2,0
+efficient use	0,6,7	of the,0,2,1
+efforts by	3,0,6	slovenia's postwar,3,0,0
+either side	3,0,14	of the,2,0,4
+elderly neighbor	0,0,390	that things,0,0,357
+elected a	3,0,3	fellow of,1,0,1
+electoral commission	3,0,3	within ten,2,0,0
+electrical and	0,3,8	electronic equipment,0,3,0
+electronic equipment	0,3,0	placed on,0,3,0
+electronically in	0,3,0	its own,0,3,0
+else i	0,0,794	can help,0,0,311|can do,0,0,164
+else that	0,0,239	i can,0,0,59
+email will	0,0,36	be sent,0,0,16|provide up,0,0,10
+embryos not	0,5,0	subject to,0,5,0
+embryos of	0,3,0	the equine,0,2,0
+emma at	0,0,52	amc mercado,0,0,14
+emma is	0,0,34	playing at,0,0,18
+empowered to	0,4,2	sign the,0,2,0|adopt delegated,0,2,0
+enabled the	1,2,3	commission to,0,2,0
+energy from	3,1,43	the sun,0,0,13
+english footballer	3,0,0	who played,2,0,0
+enjoy the	1,1,428	rest of,0,0,87
+ensure uniform	0,10,0	application of,0,7,0
+ensuring compliance	0,8,3	with the,0,7,0|with safety,0,0,2
+ensuring fair	0,3,2	treatment between,0,3,0
+enter into	0,145,3	force on,0,130,0
+entered in	1,6,3	the register,0,3,0
+entered into	3,8,3	force on,0,3,0
+entertains herself	0,0,10	by playing,0,0,10
+entirety and	0,92,1	directly applicable,0,92,0
+entities associated	0,3,0	with the,0,3,0
+entities covered	0,3,0	by the,0,3,0
+entities to	0,4,2	whom the,0,3,0
+entry into	0,36,7	force of,0,28,0
+entry price	0,18,4	of certain,0,18,0
+environmental impact	0,4,35	during their,0,3,0
+equipment placed	0,3,0	on the,0,3,0
+esma in	0,5,0	accordance with,0,2,0
+essays in	4,0,3	institutional history,2,0,0
+essential elements	0,3,5	of a,0,0,4|of the,0,2,1
+essential facts	0,5,0	and considerations,0,5,0
+established according	0,3,0	to product,0,3,0
+established by	9,32,14	specific provisions,0,7,0|a root,0,0,5
+established for	2,10,1	a presumptively,2,0,0
+established in	2,28,13	accordance with,0,8,0
+established on	0,10,0	the basis,0,7,0
+established pursuant	0,4,0	to article,0,2,0
+established the	8,3,20	branches through,0,0,5
+established under	0,5,1	the stabilisation,0,2,0
+establishing a	0,64,16	common organisation,0,27,0
+establishing an	0,3,4	llc in,0,0,3|association between,0,2,0
+establishing the	0,48,9	standard import,0,18,0
+establishment and	0,4,3	operation of,0,2,0
+eu as	0,4,3	regards the,0,3,0
+eu is	0,11,23	amended as,0,7,0
+eu of	0,17,0	the european,0,17,0
+eu prohibits	0,3,0	the use,0,3,0
+eu should	0,8,0	therefore be,0,5,0|be repealed,0,3,0
+eu vessels	0,6,0	for fish,0,2,0|for certain,0,2,0
+europe in	2,1,8	the th,0,0,3
+european atomic	0,5,0	energy community,0,5,0
+european aviation	1,3,0	safety agency,1,3,0
+european central	0,6,7	bank and,0,1,2
+european community	0,9,0	and the,0,4,0
+european council	1,9,6	conclusions of,0,3,0
+european data	0,4,0	protection supervisor,0,4,0
+european economic	0,13,3	and social,0,12,0
+european external	0,4,0	action service,0,4,0
+european food	0,13,1	safety authority,0,13,0
+european life	0,0,336	in antwerp,0,0,321
+european parliament	0,127,8	and of,0,94,0
+european securities	0,5,0	and markets,0,3,0
+evaluation and	0,4,23	repair for,0,0,6
+evidence to	1,2,103	support the,0,0,24|suggest that,0,0,24
+evidence was	3,1,3	collected from,2,0,0|presented in,0,0,2
+examination of	2,14,17	trends relevant,0,5,0
+exceed a	0,4,2	maximum annual,0,2,0
+exception of	2,11,11	the balcony,0,0,6
+excluded from	1,9,1	the product,0,4,0
+executive director	3,0,0	of the,2,0,0
+executive vice	4,0,0	president of,2,0,0
+exercised in	0,3,0	accordance with,0,2,0
+exhausted from	0,5,3	the date,0,5,0
+exhausted the	0,5,1	quota allocated,0,5,0
+expansion of	7,1,33	the universe,0,0,7
+expatriate men's	13,0,0	footballers in,10,0,0
+expenditure related	0,3,0	to the,0,3,0
+expenditure shall	0,6,0	be managed,0,3,0|be subject,0,2,0
+experts in	1,2,37	the field,0,0,19
+expiry of	2,7,0	parliament and,2,0,0
+explore yosemite	0,0,189	in all,0,0,189
+explores yosemite	0,0,33	in all,0,0,22|national park,0,0,9
+exports of	0,10,0	the product,0,3,0
+exports to	0,5,0	the union,0,4,0
+expressed as	1,2,20	a percentage,0,2,1
+expressed during	0,3,0	the consultation,0,3,0
+extend the	2,8,46	life of,0,0,16
+external action	0,3,0	as set,0,3,0
+faced by	2,1,4	a fishing,0,0,2
+faces not	0,0,319	only severe,0,0,319
+facie evidence	0,4,0	of subsidisation,0,2,0
+facilitate a	0,4,3	comprehensive view,0,2,0
+facts and	0,5,14	considerations on,0,5,0
+fair treatment	0,4,1	between fishing,0,3,0
+fall of	4,0,50	the roman,0,0,16
+fall within	0,3,3	the scope,0,2,0
+falling in	0,0,36	love with,0,0,15
+falling into	2,2,7	the wrong,0,0,4
+falling within	0,12,0	cn codes,0,5,0|the product,0,3,0
+familiar with	3,1,321	no time,0,0,68
+famous diamond	0,0,362	dealer leaves,0,0,259|dealer who,0,0,66
+farm in	4,0,15	upstate new,0,0,4
+federal republic	1,5,3	of germany,1,4,2
+feed and	1,2,2	food law,0,2,0
+fellow of	5,0,2	the royal,2,0,2
+fellows of	6,0,0	the royal,4,0,0|the american,2,0,0
+few blocks	2,0,13	from the,0,0,5|away from,1,0,2
+field covered	0,5,0	by this,0,5,0
+film directed	7,0,51	by james,0,0,25
+film that	0,0,382	delves into,0,0,215
+films at	0,0,21	amc mountain,0,0,10
+films out	0,0,35	right now,0,0,16|in your,0,0,9
+films playing	0,0,105	in davis,0,0,23|at the,0,0,20
+final destination	0,4,5	of the,0,2,0
+financial and	0,5,9	humanitarian aid,0,0,3
+financial framework	0,3,0	for the,0,3,0
+financial reference	0,6,0	amount intended,0,3,0
+financial rules	0,4,0	applicable to,0,3,0
+financial services	4,3,6	companies established,3,0,0
+finding a	2,1,1523	movie to,0,0,365|hotel in,0,0,286|flight to,0,0,277
+finishing the	3,0,5	season with,2,0,0
+firm has	2,1,0	raised approximately,2,0,0
+first appeared	3,0,3	in the,1,0,1
+first day	4,2,11	of the,1,2,1
+first five	2,2,4	books of,1,0,1
+first goal	6,0,1	for the,2,0,0
+first in	4,0,47	the national,0,0,9
+first of	8,0,78	all i,0,0,17
+first paragraph	0,9,11	of article,0,4,0
+first place	5,0,771	in the,3,0,413
+first stage	2,1,5	of the,1,1,0
+first subparagraph	0,21,0	of article,0,13,0
+fish from	0,7,2	that stock,0,5,0
+fish stock	0,3,0	or fishery,0,2,0
+fish stocks	0,16,8	and groups,0,7,0|which are,0,5,0
+fisheries policy	0,4,0	established in,0,2,0
+fishery and	0,8,1	having due,0,3,0
+fishing activities	0,20,1	for that,0,5,0|for the,0,5,0
+fishing in	0,2,49	the north,0,0,40
+fishing quota	0,5,0	allocated to,0,5,0
+fishing the	0,0,301	north sea,0,0,300
+fishing vessels	0,8,0	engaged in,0,3,0
+five movies	0,0,108	playing in,0,0,20
+five tickets	0,0,173	for the,0,0,48
+five times	4,0,3	in all,2,0,0
+fixed in	0,24,3	the annex,0,18,0
+fixes the	0,19,0	standard values,0,18,0
+fixing and	0,3,1	allocation of,0,3,0
+flag of	1,11,16	or registered,0,5,0
+flying the	3,9,3	flag of,0,9,0
+focus of	2,0,19	this chill,0,0,8
+following a	14,9,36	complaint lodged,0,6,0
+following an	2,2,2	expiry review,0,2,0
+following day	3,0,7	in the,2,0,0
+following definitions	0,6,0	shall apply,0,6,0
+following its	0,6,0	publication in,0,4,0
+following that	0,81,5	of its,0,80,0
+follows the	3,1,88	story of,1,0,24|adventures of,1,0,11
+food chain	0,19,7	and animal,0,19,0
+foot of	3,0,5	the altitude,0,0,2
+football at	3,0,3	a young,0,0,2
+football league	15,0,17	fan and,0,0,8
+football manager	3,0,0	and former,3,0,0
+footballer who	14,0,2	played as,6,0,0|plays as,3,0,2
+footballers from	6,0,0	the province,2,0,0
+for agricultural	0,3,0	products and,0,3,0
+for as	0,4,53	long as,0,3,13|soon as,0,0,12
+for awarding	0,3,0	the eu,0,3,0
+for backcountry	0,0,323	at pm,0,0,79
+for beyond	0,0,649	the storm,0,0,631
+for calculating	0,5,10	the volume,0,0,3
+for certain	0,44,65	agricultural products,0,22,0|types of,0,0,18
+for determining	0,22,13	the entry,0,18,0
+for each	6,14,376	of the,0,3,35
+for emma	0,0,29	at amc,0,0,16
+for ensuring	0,10,17	compliance with,0,8,0
+for eu	0,4,1	vessels for,0,2,0
+for family	0,0,470	jewels at,0,0,178
+for fisheries	0,4,0	and aquaculture,0,4,0
+for five	4,0,144	ways to,0,0,54
+for foreign	0,11,1	affairs and,0,11,0
+for four	2,3,296	years from,0,3,0
+for guard	3,0,0	pete kendall,2,0,0
+for how	0,0,406	many people,0,0,154
+for imports	0,31,0	from third,0,18,0
+for in	0,105,336	this regulation,0,54,0|this decision,0,22,0
+for information	0,3,71	on the,0,0,15|about the,0,0,14
+for it	2,0,371	to be,0,0,113
+for just	2,0,118	mercy at,0,0,25
+for member	0,7,0	states to,0,3,0
+for mulan	0,0,379	at pm,0,0,98
+for myself	0,0,232	and my,0,0,55
+for no	0,0,514	time to,0,0,490
+for not	0,0,695	my problem,0,0,638
+for one	4,6,551	of the,0,3,17
+for part	2,1,2	of the,1,1,0
+for parties	2,1,24	of or,0,0,10
+for reasons	0,18,0	of clarity,0,6,0
+for scientific	3,0,14	computing and,0,0,7
+for shuttered	0,0,303	at pm,0,0,64
+for stocks	0,5,1	for which,0,2,0
+for tomorrow	0,0,829	at pm,0,0,149
+for tonight	0,0,1263	at pm,0,0,359
+for valuable	3,0,1	service in,3,0,0
+for vessels	0,3,0	flying the,0,2,0
+for women	4,0,27	with initial,0,0,9|are the,0,0,8
+force at	0,3,0	the latest,0,2,0
+force immediately	0,3,0	after its,0,2,0
+force of	6,26,38	this regulation,0,14,0
+force on	1,125,18	the day,0,52,0|the twentieth,0,49,0
+force personnel	3,0,0	of the,2,0,0
+forced into	3,0,5	a deadly,0,0,2
+forced the	4,0,4	villagers from,2,0,0
+foreign affairs	0,13,3	and security,0,11,0
+formal investigation	0,3,0	procedure laid,0,2,0
+former professional	6,0,1	footballer who,3,0,0
+forthwith communicate	0,4,0	to the,0,4,0
+forward with	0,2,32	the order,0,0,7
+found guilty	3,0,7	doesn't mean,0,0,3|and sentenced,2,0,0
+founders of	3,0,4	western philosophy,0,0,2
+founding member	4,0,0	of the,4,0,0
+four days	3,0,9	from now,0,0,4
+four tickets	0,0,870	for the,0,0,149
+four years	3,3,4	after the,2,0,0|from the,0,2,0
+fourth in	4,0,20	the national,0,0,7
+free and	2,1,124	open source,0,0,26
+free movement	0,4,2	of such,0,2,0|of goods,0,1,1
+free to	3,3,253	ask me,0,0,40
+freedom of	3,2,22	information act,2,0,1
+freezing of	1,4,0	funds and,0,4,0
+french texts	0,3,0	are authentic,0,3,0
+fresh meat	1,4,0	and the,0,2,0
+friday at	0,1,316	pm at,0,0,57
+from all	3,3,65	over the,1,0,17
+from around	3,0,30	the world,2,0,15
+from countries	0,10,1	not members,0,9,0
+from her	3,0,324	new york,0,0,279
+from new	2,2,247	york city,0,0,154|york to,0,0,41
+from some	2,1,18	of the,0,1,4
+from that	2,11,126	day on,0,0,25|stock caught,0,5,0
+from the	313,222,4381	european commission,0,37,0
+from there	6,0,60	you can,0,0,13
+from this	5,4,142	friday through,0,0,37
+fruit and	2,41,22	vegetables and,0,20,0|vegetables sectors,0,19,0
+fulfilled via	0,3,0	that system,0,3,0
+full use	0,3,2	of the,0,2,0
+functioning of	1,210,13	the european,0,191,1
+fund for	1,3,2	rural development,0,2,0
+fundamental rights	0,10,1	of the,0,5,0
+funds and	3,6,12	economic resources,0,5,0
+gaining the	3,0,7	ability to,0,0,3|rank of,2,0,0
+game of	4,0,112	the season,3,0,0
+game with	6,0,368	the score,0,0,249
+games for	5,0,20	the web,0,0,5
+games gold	3,0,0	medalists for,3,0,0
+games medalists	4,0,0	in football,2,0,0
+gauge railways	4,0,0	in japan,2,0,0
+general budget	0,10,0	of the,0,10,0
+general manager	7,0,12	for the,1,0,6|of the,2,0,2
+general provisions	0,4,0	on the,0,3,0
+general rules	0,7,0	for the,0,7,0
+general secretariat	0,3,0	of the,0,3,0
+genuine romance	0,0,327	with an,0,0,321
+geographical area	0,3,2	of responsibility,0,2,0|such as,0,0,2
+geography of	4,0,1	corpus christi,2,0,0
+german text	0,3,0	is authentic,0,3,0
+get back	2,0,274	to you,0,0,128
+get rid	3,0,35	of the,0,0,13
+get some	1,0,820	movie tickets,0,0,227
+get those	1,0,98	for you,0,0,20
+get tickets	0,0,848	for the,0,0,157
+gets ugly	0,0,311	as captain,0,0,297
+given time	2,1,6	and call,2,0,0
+glad to	0,0,241	help you,0,0,45
+global financial	2,2,15	crisis of,1,0,4
+glory in	0,0,212	this award,0,0,206
+go ahead	0,0,2201	and book,0,0,541
+go beyond	0,9,6	what is,0,6,1
+go out	0,0,393	to the,0,0,61
+go see	0,0,1298	a movie,0,0,412
+goods concerned	0,5,0	by this,0,5,0
+goods described	0,7,0	in column,0,7,0
+goods in	0,7,2	the combined,0,7,0
+goods referred	0,7,0	to in,0,7,0
+governing trade	0,5,0	in and,0,5,0
+government as	6,0,6	a contractor,0,0,3
+government to	6,2,24	remove religious,3,0,0
+graduate school	3,0,3	of arts,2,0,0
+graduating from	5,0,2	harvard bryan,0,0,2
+granted a	2,3,6	patent for,0,0,4|period within,0,2,0
+granted by	1,5,0	this decision,0,2,0
+granted the	0,4,0	opportunity to,0,3,0
+great britain	7,3,25	and northern,0,3,0
+greater than	2,1,56	or equal,0,0,14
+groups of	2,11,49	fish stocks,0,7,0
+guidance to	1,2,12	help you,0,0,5
+had also	4,0,4	been a,2,0,0
+had difficulty	4,0,1	keeping up,2,0,0
+had received	2,3,1	a properly,0,2,0
+halifax regional	3,0,0	municipality in,2,0,0
+hall of	5,0,14	fame and,0,0,7|fame in,3,0,3
+handbook of	3,0,0	federal police,2,0,0
+happy to	3,0,625	help you,0,0,142
+has adopted	0,172,0	this regulation,0,99,0|this decision,0,64,0
+has asked	0,3,3	the commission,0,2,0
+has concluded	0,3,1	that the,0,3,0
+has continued	3,0,16	to evolve,0,0,5
+has developed	3,3,11	an information,0,3,0
+has examined	0,4,0	italy's application,0,2,0
+has had	3,1,91	a significant,0,0,22
+has informed	0,3,1	the commission,0,2,0
+has its	7,1,139	own unique,0,0,29
+has laid	0,8,0	down the,0,8,0
+has led	4,1,64	to a,1,0,12|to the,0,0,12
+has one	2,1,170	stop for,0,0,29
+has served	6,1,4	as a,1,1,1
+has shown	2,5,39	that the,0,3,7
+has since	4,0,41	become a,0,0,11
+hat and	3,0,16	carrying a,0,0,4
+have adopted	0,5,7	this regulation,0,3,0
+have exhausted	0,5,1	the quota,0,5,0
+have never	3,0,93	heard of,0,0,23
+have not	4,5,345	my problem,0,0,84
+have submitted	0,3,11	your order,0,0,4
+have three	0,0,212	tickets for,0,0,50
+have two	0,1,969	tickets for,0,0,252
+have you	0,0,1894	heard of,0,0,331
+having called	0,5,0	on interested,0,4,0
+having consulted	0,3,0	the advisory,0,2,0
+having due	0,3,0	regard to,0,3,0
+having regard	0,389,0	to the,0,200,0|to council,0,90,0
+hazardous substances	0,5,1	in electrical,0,3,0
+he appeared	14,0,3	in the,3,0,1
+he believed	4,0,25	that the,0,0,7
+he chose	3,0,2	to remain,0,0,2
+he enlisted	4,0,0	in the,3,0,0
+he flew	3,0,5	to hong,0,0,2
+he graduated	4,0,2	from the,0,0,2
+he led	9,0,4	the team,3,0,0
+he remained	5,0,3	with the,2,0,0
+he returns	4,0,7	to the,1,0,2
+he scored	17,0,2	his first,4,0,0
+he spent	6,0,22	the next,0,0,6
+he transferred	4,0,1	to the,2,0,0
+he went	14,0,23	on to,7,0,2
+he worked	17,0,17	as a,8,0,4
+head coach	29,0,123	of the,2,0,50|for the,0,0,35
+health requirements	0,13,0	governing trade,0,5,0|laid down,0,5,0
+hearing with	0,3,0	the hearing,0,2,0
+help ward	0,0,9	off a,0,0,9
+help with	0,0,790	anything else,0,0,176
+helping them	5,1,3	improve their,0,0,2
+her distant	0,0,297	cousin's haunted,0,0,280
+her new	0,0,287	york city,0,0,279
+her smarts	0,0,9	to help,0,0,8
+hereby amended	0,4,0	as follows,0,4,0
+hereby approved	0,7,0	on behalf,0,5,0
+hereby authorised	0,3,0	to designate,0,3,0
+hereinafter referred	0,10,0	to as,0,10,0
+herself by	0,0,11	playing matchmaker,0,0,10
+hi i	0,0,2719	would like,0,0,697
+high representative	0,12,0	of the,0,11,0
+high standard	2,1,2	of living,1,0,1
+higher command	3,0,0	and staff,3,0,0
+higher level	1,2,14	of security,0,0,4
+him out	5,0,13	of the,3,0,3
+his depressed	0,0,373	elderly neighbor,0,0,359
+his european	0,0,336	life in,0,0,323
+his position	6,0,5	as a,2,0,1
+his professional	4,0,0	career in,2,0,0
+his retirement	7,0,0	from the,3,0,0
+his senior	4,0,0	career with,2,0,0
+his work	5,0,97	on the,2,0,5
+holder in	0,5,0	accordance with,0,5,0
+holders of	0,6,3	the stablecoin,0,0,2
+holiday theater	0,0,3059	at pm,0,0,595
+hope you	0,0,575	have a,0,0,127|enjoy your,0,0,100
+how can	1,0,801	i help,0,0,197
+how such	1,5,6	reference is,0,5,0
+i and	2,8,73	ii to,0,4,0
+i are	0,0,169	going to,0,0,33
+i came	3,0,23	up with,0,0,7
+i don't	2,0,5012	want to,2,0,601
+i go	0,0,422	ahead and,0,0,137
+i help	0,0,465	you with,0,0,192|with anything,0,0,117
+i of	1,4,1	the annex,0,3,0
+i to	0,29,26	this regulation,0,8,0
+i want	3,0,15047	to see,0,0,2397
+i wanted	1,0,1315	to see,0,0,254
+i would	4,0,19522	like to,0,0,9642
+i'll go	0,0,1230	with the,0,0,219|ahead and,0,0,201
+i'm going	0,0,1740	to be,0,0,289
+i'm in	0,0,1554	the mood,0,0,251
+i'm looking	0,0,6082	for a,0,0,2297
+identical to	3,2,7	that of,1,0,2
+identify a	0,3,15	bolt thread,0,0,5
+if no	0,3,35	time to,0,0,14
+if there	3,1,922	are any,0,0,238
+if this	1,1,242	is correct,0,0,41
+ii of	1,6,3	the annex,0,3,0|the essay,0,0,2
+ii to	1,21,1	this regulation,0,10,0
+iii and	0,5,2	iv to,0,3,0
+iii to	0,10,0	this regulation,0,4,0
+impact during	0,3,0	their entire,0,3,0
+impacts of	0,5,33	climate change,0,0,14
+impede the	0,4,1	achievement of,0,3,0
+import value	0,18,0	is calculated,0,18,0
+import values	0,36,0	for determining,0,18,0|referred to,0,18,0
+importance that	0,3,0	the commission,0,2,0
+important role	2,1,30	in the,1,0,8
+important to	0,6,1928	note that,0,0,480
+imported into	0,4,4	the union,0,3,0|england from,0,0,2
+imports from	0,36,0	third countries,0,20,0|countries not,0,9,0
+imports into	0,17,1	the union,0,8,0|the community,0,5,0|the european,0,4,0
+impose provisional	0,3,0	anti-dumping measures,0,3,0
+imposed a	0,7,4	provisional anti-dumping,0,4,0
+imposed on	2,4,11	imports of,0,4,0
+imposing a	0,7,2	definitive anti-dumping,0,5,0
+imposing certain	0,4,0	specific restrictive,0,4,0
+imposition of	0,6,4	taxes without,0,0,2
+improvement of	2,2,10	the health,0,0,3
+in accordance	5,309,20	with the,1,116,6|with article,0,88,0
+in action	0,0,31	films at,0,0,10
+in addition	33,12,373	to the,10,7,39
+in agreement	1,2,3	with the,1,1,0
+in agricultural	0,5,3	products and,0,5,0
+in all	19,102,398	its glory,0,0,244|member states,0,90,0
+in amc	0,0,335	holiday theater,0,0,186
+in and	7,8,533	imports into,0,5,0
+in annex	0,90,0	i to,0,23,0
+in annexes	0,5,0	i and,0,2,0|ii and,0,2,0
+in antwerp	0,0,336	to pursue,0,0,331
+in applying	0,3,2	reinforcement learning,0,0,2
+in areas	2,2,52	such as,0,0,28
+in buying	1,0,108	movie tickets,0,0,37
+in cases	0,4,15	where the,0,1,6
+in certain	1,17,60	non-eu waters,0,5,0
+in charge	14,0,19	of the,4,0,3
+in civil	1,2,3	and commercial,0,2,0
+in close	0,5,14	proximity to,0,0,9|cooperation with,0,3,0
+in combination	1,5,19	with other,0,0,8
+in commission	0,6,0	implementing regulation,0,3,0
+in comparison	3,2,36	to the,0,1,8|to other,2,0,2
+in compliance	1,4,4	with the,1,2,0
+in conformity	0,4,0	with the,0,2,0
+in conjunction	1,27,20	with article,0,23,0|with other,0,0,6
+in consultation	1,3,2	with the,0,2,1
+in cooperation	2,3,1	with the,1,3,1
+in eastern	2,1,9	conference with,0,0,3
+in electrical	0,3,4	and electronic,0,3,1
+in english	5,0,61	premier league,0,0,14
+in eu	0,9,3	waters and,0,5,0
+in excess	2,3,4	of the,0,3,0
+in favor	3,0,33	of the,0,0,10
+in four	5,0,26	hills california,0,0,11
+in front	4,0,151	of you,0,0,46|of the,1,0,34
+in half	2,1,39	an hour,0,0,15
+in honor	3,0,2	of the,1,0,1
+in humans	2,2,12	even though,0,2,0
+in implementation	0,4,0	of the,0,4,0
+in its	19,126,178	entirety and,0,92,1
+in light	2,7,16	of the,1,4,1
+in line	2,15,41	with the,2,10,9
+in london	3,0,94	at am,0,0,25
+in love	4,0,140	with a,2,0,28
+in major	4,0,7	league soccer,0,0,3
+in member	0,5,0	states in,0,2,0|states and,0,2,0
+in most	4,3,66	of the,2,1,7
+in new	11,0,783	york city,5,0,389
+in no	1,4,46	time to,0,0,15|particular order,0,0,11
+in not	0,0,65	my problem,0,0,60
+in one	10,7,166	of the,3,2,26
+in order	46,219,614	to ensure,1,42,13
+in other	9,8,223	parts of,3,0,11
+in parts	0,5,6	a and,0,3,0
+in relation	4,35,35	to the,3,14,13
+in respect	1,73,2	of the,0,40,0
+in response	6,4,80	to the,1,1,14
+in rural	3,0,10	nebraska called,0,0,4
+in search	4,0,30	of the,2,0,7
+in seeing	0,0,384	a movie,0,0,106
+in service	5,0,10	to others,0,0,4
+in seven	2,0,25	trees nebraska,0,0,13
+in so	1,9,42	far as,0,9,0
+in specific	1,6,21	community rules,0,5,0
+in spite	9,1,5	of the,2,1,0
+in spring	0,0,1408	hills kansas,0,0,1076
+in such	4,11,99	a way,1,5,27
+in support	5,5,3	of the,1,1,1
+in their	42,22,863	last game,0,0,327
+in third	2,5,130	place in,0,0,76|place of,0,0,30
+in this	34,115,1194	award winning,0,0,208|regulation are,0,52,0|decision are,0,21,0
+in tickets	0,0,17	for tonight,0,0,5
+in title	0,6,0	iii of,0,2,0|ii of,0,2,0
+in very	1,2,7	high mortality,0,2,0
+in view	0,30,0	of the,0,18,0
+in west	3,0,104	palm beach,0,0,53
+in world	2,2,25	war i,1,0,8|war ii,0,0,8
+in written	4,0,1	sources in,3,0,0
+include an	1,2,48	outdoor pool,0,0,12
+including at	2,2,3	expert level,0,2,0|least hours,0,0,2
+including certain	0,3,0	conditions functionally,0,3,0
+including some	3,0,13	health-conscious options,0,0,5
+incompatible with	1,2,15	each other,0,0,4
+increase the	5,3,253	risk of,1,0,34
+incumbent upon	0,3,1	the council,0,3,0
+individuals with	1,3,50	regard to,0,3,1
+industry for	2,1,8	national defense,2,0,0
+influenced the	3,0,15	development of,0,0,5
+information has	0,3,50	been sent,0,0,37
+information issued	0,7,0	in respect,0,5,0
+information it	0,4,21	deemed necessary,0,4,0
+information provided	0,9,20	by the,0,3,3
+information received	0,6,0	by the,0,5,0
+information referred	0,3,0	to in,0,3,0
+information system	0,3,0	that allows,0,3,0
+information systems	2,6,6	security professional,0,0,4
+information was	1,4,9	sent to,0,0,4
+information which	0,7,11	does not,0,5,0
+informed the	1,14,0	commission that,0,5,0
+initiate the	1,5,2	formal investigation,0,2,0
+initiated by	2,4,3	the commission,0,2,0|a notice,0,2,0
+initiated the	1,3,0	procedure laid,0,2,0
+initiation that	0,3,0	it might,0,2,0
+injury analysis	0,3,0	and to,0,2,0
+injury covered	0,7,0	the period,0,7,0
+injury to	3,5,5	the union,0,4,0
+inside the	4,0,248	arden fair,0,0,86
+installations of	3,0,0	the united,2,0,0
+institution of	1,2,1	the union,0,2,0
+integration of	3,1,27	renewable energy,0,0,6
+intended for	6,11,17	mature audiences,0,0,7|human consumption,0,4,0
+internal working	0,3,0	procedures and,0,3,0
+international negotiations	0,5,0	or agreements,0,5,0
+interpretation of	1,9,66	quantum mechanics,0,0,23|the combined,0,7,0
+interruption of	0,3,1	fishing activities,0,2,0
+intervention in	3,0,5	the economy,0,0,5
+into account	0,95,128	variable daily,0,18,0
+into being	3,0,4	by the,0,0,2
+into force	0,179,3	on the,0,126,0
+into the	80,45,1382	wonders of,0,0,238
+intra-community trade	0,5,0	with a,0,2,0|in certain,0,2,0
+introduced into	1,3,5	the union,0,2,0
+introduction into	0,8,1	the union,0,4,0
+introductory phrase	0,5,0	of article,0,3,0|and point,0,2,0
+investigation of	5,8,8	dumping and,0,3,0
+investigation period	0,5,0	and period,0,3,0|and led,0,2,0
+investigation procedure	0,3,0	laid down,0,2,0
+investigation that	0,2,3	led to,0,1,1|leads to,0,0,2
+invited interested	0,4,0	parties to,0,4,0
+invoked by	0,7,2	the holder,0,7,0
+invoked in	0,6,0	accordance with,0,5,0
+involves the	5,0,71	use of,1,0,13
+ireland and	4,1,2	the united,1,0,1
+ireland in	1,4,0	respect of,0,3,0
+irrespective of	1,3,3	whether those,0,2,0
+is addressed	0,39,3	to the,0,36,0
+is amended	0,38,0	as follows,0,17,0|in accordance,0,15,0
+is applied	3,4,25	to the,2,0,7
+is appropriate	0,57,44	for a,0,0,10
+is associated	3,0,37	with the,0,0,9|with a,0,0,8
+is attached	2,3,8	to the,1,0,4|to this,0,3,0
+is based	15,8,303	on the,3,6,106|on a,0,0,54
+is believed	10,0,63	to have,3,0,14|to be,3,0,13
+is best	7,0,249	for you,0,0,42|known for,4,0,31
+is beyond	0,0,225	the storm,0,0,200
+is calculated	0,18,22	each working,0,18,0
+is caused	1,2,28	by the,0,0,8
+is classified	6,0,42	as a,0,0,27
+is closer	0,0,263	to me,0,0,72|to my,0,0,52
+is closest	1,0,156	to me,0,0,39
+is compatible	1,3,26	with the,0,3,7|with your,0,0,9|with a,1,0,6
+is concerned	2,2,14	with the,0,0,7
+is considered	13,9,297	to be,2,3,52|one of,4,0,45
+is dedicated	8,0,16	to the,3,0,3
+is derived	4,0,26	from the,1,0,12
+is designed	4,0,204	to be,1,0,55
+is directed	0,0,127	by james,0,0,70
+is displayed	3,0,24	on the,0,0,7
+is distinct	2,1,4	from the,2,0,1
+is equipped	3,0,11	with a,1,0,4
+is established	0,10,5	by specific,0,7,0
+is expected	2,5,65	to be,0,0,16
+is family	0,0,158	jewels playing,0,0,30
+is four	0,0,53	tickets for,0,0,18
+is given	6,3,41	by the,1,0,16
+is hereby	0,15,1	approved on,0,5,0|amended as,0,4,0
+is important	0,11,818	to note,0,0,170
+is incumbent	0,4,1	upon the,0,3,0
+is intended	2,3,34	to be,1,0,5
+is known	22,0,424	for its,1,0,168
+is likely	2,2,189	to be,0,1,40
+is listed	1,6,67	as a,0,0,28
+is located	43,0,514	in the,7,0,60
+is made	6,5,146	up of,3,0,42
+is married	11,0,8	to a,0,0,3
+is most	3,0,105	important to,0,0,30
+is much	1,0,169	closer to,0,0,39
+is named	5,0,25	after the,1,0,9
+is needed	2,2,86	to fully,0,0,17|in order,0,2,4
+is one	27,1,1104	of the,19,1,229
+is only	3,6,992	playing at,0,0,372
+is part	6,2,65	of the,2,2,31|of a,3,0,17
+is particularly	2,1,62	useful in,0,0,13
+is placed	5,0,98	and will,0,0,18
+is playing	0,0,4851	at both,0,0,906|at the,0,0,757
+is provided	1,7,14	by the,0,1,4
+is rated	0,1,796	r and,0,0,149|pg and,0,0,136
+is referred	4,0,29	to as,4,0,23
+is regarded	4,1,13	as one,1,0,3|as a,1,1,2
+is replaced	1,30,5	by the,0,30,0
+is responsible	2,1,82	for the,2,0,12
+is revealed	6,0,12	to be,0,0,5
+is said	10,1,60	to be,3,0,24|to have,5,0,19
+is satisfied	0,3,1	that the,0,3,0
+is served	6,0,25	in a,0,0,11
+is set	3,6,233	out in,0,5,0
+is similar	3,1,118	to the,1,1,30
+is subject	0,7,21	to change,0,0,8
+is there	0,0,5861	anything else,0,0,1069
+is therefore	1,45,14	necessary to,0,16,0|appropriate to,0,14,0
+is thought	5,0,44	to be,1,0,13|to have,1,0,9
+is wholly	0,7,0	or partly,0,7,0
+is without	0,3,6	prejudice to,0,2,0
+issued in	0,8,2	respect of,0,5,0|accordance with,0,3,0
+issues as	1,2,6	required by,0,2,0
+issues within	0,3,2	the framework,0,2,0
+it allows	1,2,105	you to,0,0,20
+it and	6,9,961	which is,0,7,0
+it came	2,1,34	out in,0,0,8
+it consists	3,0,19	of a,0,0,5
+it currently	2,0,30	has a,0,0,11
+it deemed	0,4,0	necessary for,0,4,0
+it looks	0,0,2655	like the,0,0,510|like they,0,0,472
+it makes	1,1,162	me feel,0,0,30
+it ok	0,0,95	to go,0,0,49
+it or	1,9,118	which adds,0,7,0
+it refers	4,1,11	to the,0,1,4|to a,1,0,3
+it shall	0,38,4	apply from,0,13,0
+it stars	0,0,134	matt damon,0,0,23
+it will	2,3,2643	be ready,0,0,477
+it's playing	0,0,340	at the,0,0,73
+italian text	0,3,0	is authentic,0,3,0
+its adaptation	0,3,0	to technical,0,3,0
+its entirety	1,92,1	and directly,0,92,0
+its entry	0,6,0	into force,0,6,0
+its first	7,0,19	test flight,0,0,6
+its glory	0,0,223	in this,0,0,208
+its list	0,3,0	of persons,0,3,0
+its member	0,5,5	states of,0,3,0
+its publication	0,108,0	in the,0,108,0
+its relations	0,3,0	with the,0,3,0
+its rules	0,4,1	of procedure,0,3,0
+iv of	0,4,0	the annex,0,2,0
+iv to	0,9,0	this regulation,0,5,0
+jane austen's	0,0,11	classic novel,0,0,10
+jewels and	0,0,256	not my,0,0,96|shuttered are,0,0,50
+jewels at	0,0,525	the amc,0,0,207|amc holiday,0,0,154
+jewels is	0,0,706	a romantic,0,0,195
+jewish organizations	4,0,2	based in,2,0,0|established in,2,0,0
+john's crew	0,0,323	faces not,0,0,307
+journal of	9,127,10	the european,0,127,0
+journalist and	5,0,5	author who,1,0,2
+just asking	0,0,7	you how,0,0,5
+just me	0,0,223	and my,0,0,88
+just might	0,0,57	be your,0,0,51
+just my	0,0,179	friend and,0,0,130
+just to	2,0,1600	confirm you,0,0,514
+justice of	1,2,6	the european,0,2,4
+justify the	2,6,3	initiation of,0,4,0|use of,2,0,0
+kept at	3,1,5	the international,0,0,3
+king of	10,0,105	staten island,0,0,24
+kingdom and	1,4,34	ireland in,0,3,0
+knight commander	4,0,0	of the,4,0,0
+knights commander	3,0,0	of the,3,0,0
+knocked out	4,0,2	and wakes,1,0,1
+known by	4,1,4	the indians,0,0,2
+known in	1,2,10	ancient times,0,0,3|writing and,0,2,0
+labelling and	0,4,0	packaging of,0,2,0
+laid down	1,102,3	in article,0,22,0
+land fish	0,5,0	from that,0,5,0
+land is	3,0,51	playing at,0,0,10
+landings of	0,4,0	stocks subject,0,2,0
+large amounts	4,0,111	of data,0,0,47
+largest representative	0,4,0	volume of,0,3,0
+last day	1,3,12	of the,0,2,3
+later in	8,0,97	the evening,0,0,23|the day,0,0,20
+law on	3,1,2	names of,3,0,0
+law which	0,7,6	they adopt,0,5,0
+laying down	0,67,1	detailed rules,0,27,0
+league for	4,0,4	breach of,0,0,2
+least equivalent	0,5,0	to those,0,3,0
+least half	3,1,2	of the,1,0,2
+leaves his	0,0,362	european life,0,0,327
+led in	2,1,0	turn to,2,0,0
+leg of	3,0,18	the flight,0,0,7
+legislative act	0,14,0	to the,0,14,0
+less likely	2,1,46	to be,0,0,12
+less than	5,4,825	genuine romance,0,0,325
+let's go	0,0,1230	with the,0,0,257
+level in	0,8,34	d at,0,0,7
+life in	2,0,448	antwerp to,0,0,329
+life is	2,0,414	busy enough,0,0,89
+lifestyle to	0,0,287	work on,0,0,276
+like three	0,0,229	tickets for,0,0,76|tickets to,0,0,46
+like tickets	0,0,858	to see,0,0,203|to the,0,0,142
+like tonight's	0,0,28	remaining showtimes,0,0,27
+like two	0,0,696	tickets for,0,0,221|tickets to,0,0,202
+limited amount	1,2,5	of hazardous,0,2,0|of time,0,0,2
+line from	4,0,10	the center,0,0,5
+link with	1,4,5	the eusr,0,2,0
+listed in	3,59,25	annex i,0,13,0
+listings at	0,0,13	amc mercado,0,0,7
+literary and	3,0,1	historical research,2,0,0
+literature at	4,0,3	the time,0,0,2
+little is	2,0,4	known about,1,0,2|at a,0,0,2
+live animals	0,5,2	and products,0,2,0
+living and	2,1,21	dining areas,0,0,5
+ljubljani in	4,0,0	the upper,3,0,0
+local and	3,0,23	unique to,0,0,6|national media,0,0,5
+london school	3,0,0	of economics,3,0,0
+loss to	3,0,3	ohio state,2,0,0
+lost the	3,0,201	game with,0,0,125|last game,0,0,36
+lost their	6,0,74	last game,0,0,64
+lost with	3,0,43	a score,0,0,28|the score,0,0,10
+made a	14,1,165	reservation for,0,0,28
+made an	3,0,27	appointment for,0,0,10
+made available	3,9,9	by the,0,4,1
+made on	1,2,11	the basis,0,2,1
+made their	6,1,8	way through,0,0,3
+made up	10,0,121	my mind,0,0,22
+made written	0,4,0	submissions making,0,3,0
+main provisions	0,5,0	of national,0,5,0
+major league	8,0,126	soccer fan,0,0,25|soccer team,0,0,22
+major role	3,0,10	in the,1,0,3
+make a	3,2,1563	reservation for,0,0,390
+makes it	4,1,269	easier to,0,0,43
+makes use	2,2,9	of the,1,1,1
+making the	5,1,206	best of,1,0,57
+man is	2,0,129	playing at,0,0,37
+man with	3,0,41	will smith,0,0,10
+managed in	0,5,1	accordance with,0,5,0
+management committee	0,7,0	for the,0,5,0
+manager and	5,0,37	how long,0,0,17|former player,3,0,0
+manager of	9,0,75	the team,0,0,14
+managing documents	0,3,0	and procedures,0,3,0
+many people	1,0,928	will be,0,0,171
+many tickets	0,0,1231	would you,0,0,261|do you,0,0,257
+marked the	3,0,16	end of,0,0,7|first time,3,0,2
+market as	1,2,7	well as,0,1,2|many tasks,0,0,3
+markets and	2,24,19	on specific,0,22,0
+markets in	2,8,3	agricultural products,0,5,0
+marshal and	6,0,0	appointed deputy,2,0,0|appointed air,2,0,0
+matchmaker for	0,0,10	those around,0,0,9
+material injury	0,8,0	to the,0,3,0
+materials used	1,3,16	in electric,0,0,4
+matt damon	0,0,479	and noah,0,0,258
+may continue	0,8,5	to be,0,7,0
+may deteriorate	0,3,0	and could,0,3,0
+mccarthy and	0,0,370	ryan reynolds,0,0,358
+me know	0,0,1537	if you,0,0,352
+me more	0,0,952	about the,0,0,246
+me see	0,0,835	what i,0,0,148
+me two	0,0,407	tickets for,0,0,200|tickets to,0,0,64
+meaning of	1,6,162	life is,0,0,41
+means an	0,4,4	exhaustive list,0,0,2
+measures adopted	0,5,0	by the,0,2,0
+measures concerning	0,8,0	the classification,0,7,0
+measures directed	0,3,0	against certain,0,3,0
+measures laid	0,3,0	down in,0,3,0
+measures on	0,7,0	the fixing,0,3,0
+measures provided	0,80,0	for in,0,79,0
+measures referred	0,4,0	to therein,0,3,0
+measures relating	0,9,0	to trade,0,7,0
+measures set	0,5,0	out in,0,4,0
+measures would	0,4,0	be likely,0,2,0
+mechanical and	4,0,5	chemical digestion,0,0,3
+medical and	4,1,20	recreational use,0,0,16
+meet at	1,2,16	this relaxed,0,0,6
+meetings of	0,4,0	the regional,0,2,0
+melissa mccarthy	0,0,412	and ryan,0,0,357
+members of	57,26,101	the european,0,9,0
+men from	3,0,3	certain doom,0,0,2
+men's association	26,0,0	football forwards,9,0,0
+men's soccer	3,0,0	players in,3,0,0
+men's youth	6,0,0	international footballers,6,0,0
+merged into	3,0,2	the repository,0,0,2
+methodology for	0,4,3	implementing lean,0,0,2
+middle of	5,1,226	the theater,0,0,64
+miles away	3,0,187	in the,0,0,44|from the,1,0,24
+military equipment	2,1,2	introduced in,2,0,0
+million in	7,1,9	loses accounting,0,0,3
+mission of	3,4,2	the eusr,0,2,0
+model health	0,3,0	certificate for,0,2,0
+model of	7,1,251	your car,0,0,91|the car,0,0,41
+monastery in	3,0,2	platina california,0,0,2
+month after	1,2,0	entry into,0,2,0
+months from	0,9,0	the date,0,8,0
+more commonly	3,0,14	used in,0,0,5
+more efficient	0,3,149	use of,0,2,4
+more in	3,0,80	the mood,0,0,24
+most iconic	0,0,273	national parks,0,0,257
+movements of	1,5,9	your avatar,0,0,3
+moves upstate	0,0,285	from her,0,0,267
+movie are	0,0,408	you interested,0,0,110|you looking,0,0,71
+movie beyond	0,0,164	the storm,0,0,159
+movie currently	0,0,100	showing in,0,0,33
+movie do	0,0,339	you want,0,0,185
+movie i	0,0,642	want to,0,0,107
+movie tickets	0,0,2460	for tonight,0,0,498
+movie were	0,0,115	you thinking,0,0,38|you interested,0,0,33
+movie would	0,0,597	you like,0,0,406
+movie you	0,0,640	want to,0,0,166|would like,0,0,133
+movie you'd	0,0,73	like to,0,0,65
+movie you're	0,0,355	talking about,0,0,308
+movies currently	0,0,210	playing in,0,0,65
+movies do	0,0,253	you like,0,0,75
+movies out	0,0,284	right now,0,0,162
+much for	1,0,668	your help,0,0,181
+mulan and	0,0,110	no time,0,0,42
+mulan at	0,0,445	mountain amc,0,0,117|the mountain,0,0,72
+mulan is	0,0,201	playing at,0,0,42
+mulan uses	0,0,9	her smarts,0,0,9
+multiannual financial	0,3,0	framework for,0,3,0
+municipality of	6,0,0	dol pri,4,0,0
+museum of	8,0,43	modern art,1,0,10|natural history,3,0,3
+musical groups	4,0,0	established in,3,0,0
+my friend	0,0,1215	and i,0,0,376
+name and	1,5,485	phone number,0,0,181
+name for	3,0,192	the appointment,0,0,46
+name of	21,2,1192	the movie,0,0,207
+name was	11,0,21	chosen to,0,0,5
+named in	5,2,1	honor of,2,0,0
+national football	8,0,62	conference west,0,0,14
+national law	0,14,0	which they,0,5,0
+national library	4,0,0	of canada,2,0,0
+national register	4,0,0	of historic,4,0,0
+natural and	0,4,30	legal persons,0,3,0
+natural or	0,4,7	legal person,0,3,0
+nd season	5,0,0	for the,4,0,0
+near spring	0,0,87	hills kansas,0,0,69
+nearest theater	0,0,156	to you,0,0,27
+necessary in	0,11,5	order to,0,8,3
+necessary information	0,3,9	within the,0,2,0
+necessary measures	0,3,2	to ensure,0,2,0|to prevent,0,1,1
+need help	0,0,1023	finding a,0,0,291
+need three	0,0,252	tickets for,0,0,68
+need two	0,0,541	tickets for,0,0,122|tickets to,0,0,85
+neighbor that	0,0,388	things are,0,0,365
+new year	3,0,4	honours list,2,0,0
+next to	8,0,285	each other,0,0,62
+no comments	0,6,1	were received,0,5,0
+no showing	0,0,93	in davis,0,0,34
+no time	1,0,3232	to die,0,0,3135
+nomenclature and	0,11,0	on the,0,11,0
+nomenclature annexed	0,8,0	to regulation,0,8,0
+nomenclature under	0,7,0	the cn,0,7,0
+nomenclature which	0,7,0	is wholly,0,7,0
+non-eu waters	0,5,0	for certain,0,4,0
+non-profit organizations	3,0,2	based in,3,0,0
+north of	13,1,16	san diego,0,0,5
+north sea	0,0,405	gets ugly,0,0,281
+north side	5,0,11	of the,3,0,3
+north-west to	3,0,0	fort carlton,2,0,0
+northeast of	3,0,1	ljubljana in,2,0,0
+not appear	2,1,27	to be,0,1,12|to have,0,0,6
+not apply	0,6,8	to the,0,2,1
+not bound	0,4,0	by them,0,2,0
+not built	3,0,3	simply as,2,0,0
+not comply	0,4,2	with the,0,2,0
+not conform	0,5,5	to this,0,5,0
+not contribute	2,1,3	to the,1,1,1
+not covered	1,8,7	by the,1,3,1|by this,0,3,0
+not go	2,6,35	beyond what,0,6,0
+not in	2,4,233	the mood,0,0,41
+not included	2,6,15	in the,2,3,8
+not including	1,2,10	stainless steel,0,2,0
+not intended	1,4,8	to be,0,1,4
+not listed	2,4,11	in the,1,2,1
+not members	0,9,2	of the,0,9,0
+not much	0,0,86	of a,0,0,15
+not my	0,0,4131	problem is,0,0,785
+not only	20,6,519	severe weather,0,0,327
+not part	3,3,17	of the,2,2,10
+not play	4,0,128	on june,0,0,28
+not playing	0,0,377	right now,0,0,107
+not return	3,0,7	a value,0,0,3
+not showing	0,0,195	in davis,0,0,34
+not subject	0,10,3	to animal,0,5,0|to the,0,3,0
+not take	0,4,40	into account,0,0,8|part in,0,3,0
+not want	2,0,181	to see,0,0,36
+not what	0,0,455	they seem,0,0,357
+notable people	5,0,0	that were,5,0,0
+notice published	0,4,0	in the,0,4,0
+notification to	0,6,7	the commission,0,5,0
+notifications referred	0,3,0	to in,0,3,0
+notified by	0,6,1	the commission,0,2,0
+notified the	0,8,1	commission of,0,3,0
+notified to	0,5,1	the commission,0,2,0
+notified under	0,34,0	document c,0,34,0
+notify the	2,12,8	commission of,0,5,0
+nova scotia	4,0,2	on the,1,0,1
+novels and	3,0,6	short stories,0,0,3
+now in	3,0,182	your area,0,0,31
+number assigned	0,3,0	to the,0,3,0
+objective of	3,9,13	the game,0,0,5
+obligation for	0,3,1	the member,0,2,0
+obligation to	1,13,8	buy or,0,0,3
+obligations arising	0,3,0	from the,0,2,0
+obligations of	0,10,1	member states,0,3,0
+occasion of	0,5,0	their official,0,5,0
+occurred at	4,0,3	the overlook,0,0,2
+occurrence of	1,2,8	the value,0,0,3
+occurring in	2,3,8	the future,0,0,3
+of accession	0,4,0	of croatia,0,2,0|of the,0,2,0
+of adapting	0,4,3	to technical,0,3,0
+of adoption	0,3,2	of this,0,2,0
+of agricultural	0,27,1	markets and,0,22,0
+of amendments	0,3,0	to the,0,2,0
+of america	3,2,66	stadium and,0,0,15
+of american	12,0,35	football from,5,0,0
+of annex	0,47,0	i to,0,12,0
+of application	0,14,4	of the,0,6,0
+of applications	1,8,57	such as,0,0,12
+of arts	6,0,1	and sciences,2,0,0
+of at	5,7,265	least one,2,4,0
+of beyond	0,0,316	the storm,0,0,312
+of biodiversity	1,2,6	in the,0,1,2
+of certain	1,67,54	fruit and,0,18,0
+of commission	0,5,1	implementing regulation,0,4,0
+of compliance	0,4,1	with feed,0,2,0|with the,0,2,0
+of computer	5,0,53	science and,3,0,8
+of conservation	3,1,3	of energy,0,0,2
+of croatia	0,4,1	to the,0,4,0
+of denmark	0,4,1	on jurisdiction,0,2,0
+of derogation	0,12,0	from article,0,5,0|from paragraph,0,3,0
+of determining	2,3,4	whether a,0,0,2
+of dol	4,0,0	pri ljubljani,4,0,0
+of dumping	0,11,1	and injury,0,5,0
+of each	8,15,339	of the,0,4,16
+of education	18,0,37	in america,0,0,15
+of efforts	3,0,1	by slovenia's,3,0,0
+of entry	1,14,1	into force,0,13,0
+of expiry	2,1,0	of parliament,2,0,0
+of exporting	0,10,0	producers in,0,4,0
+of exports	0,6,0	to the,0,3,0|of the,0,2,0
+of family	1,0,267	jewels at,0,0,146
+of federal	2,1,1	police and,2,0,0
+of fish	0,10,40	stocks which,0,5,0
+of fishing	0,20,18	the north,0,0,5
+of five	7,4,147	ways to,0,0,32
+of french	3,0,48	fries and,0,0,13
+of fundamental	0,6,6	rights of,0,5,0
+of funds	1,5,3	and economic,0,4,0
+of further	0,7,5	assistance to,0,0,3
+of going	1,0,117	to the,0,0,34|to a,0,0,21|to see,0,0,20
+of goods	0,11,38	and services,0,0,22
+of great	6,4,65	britain and,2,3,1
+of health	5,2,18	problems including,0,0,5
+of historic	8,0,1	places in,4,0,0
+of individuals	0,4,38	with regard,0,3,0
+of injury	1,9,15	covered the,0,7,0
+of iowa	4,0,0	in the,2,0,0
+of its	35,144,225	publication in,0,104,0
+of jane	0,0,13	austen's classic,0,0,10
+of joint	2,1,0	capability at,2,0,0
+of justice	1,6,33	of the,0,2,4
+of king's	3,0,0	college london,3,0,0
+of less	0,3,20	than hours,0,0,8
+of living	2,1,120	across a,0,0,55
+of major	5,5,27	league baseball,1,0,11|league soccer,0,0,9
+of making	3,2,95	it to,0,0,26|the playoffs,0,0,17
+of mechanical	3,0,11	keyboard switches,0,0,5
+of member	0,21,3	states in,0,6,0|states located,0,0,3
+of members	4,0,5	of the,3,0,1
+of movies	0,0,643	do you,0,0,115
+of national	8,10,9	law which,0,5,0
+of natural	2,1,73	language processing,0,0,16
+of no	3,1,222	time to,0,0,193
+of north	9,0,26	fork and,0,0,7
+of not	0,1,336	my problem,0,0,307
+of nova	3,0,0	scotia on,2,0,0
+of one	9,9,431	of the,3,2,264
+of or	2,5,26	registered in,0,5,0
+of part	0,5,1	two of,0,2,0
+of particular	1,3,2	importance that,0,2,0
+of personnel	1,2,1	deployed outside,0,2,0
+of philosophy	5,0,38	deals with,0,0,8
+of plant	0,7,7	protection products,0,5,0
+of president	5,0,3	of the,2,0,1
+of producers	0,9,0	representing more,0,5,0
+of protected	2,3,1	designations of,0,3,0|areas of,2,0,0
+of protecting	2,1,9	estate income,2,0,0
+of queen	2,2,11	bees and,0,2,0
+of railway	3,3,0	lines in,2,0,0
+of school	3,0,8	of rock,0,0,4
+of seeing	1,0,90	a movie,0,0,32
+of settlements	3,0,2	and designations,3,0,0
+of shuttered	0,0,117	at the,0,0,35|at amc,0,0,26
+of some	4,3,152	of the,0,1,37
+of staff	4,5,1	of the,2,0,0
+of subsidiarity	0,4,0	as set,0,4,0
+of substances	0,5,2	and mixtures,0,2,0
+of supply	1,2,6	and demand,1,0,2
+of tariff	0,9,0	and other,0,7,0
+of three	18,11,144	months from,0,5,0
+of trends	0,5,1	relevant for,0,5,0
+of violent	3,0,4	incidents against,2,0,0
+of whether	0,4,65	or not,0,1,12
+of wild	1,2,3	fauna and,0,2,0|strawberry tea,0,0,2
+of world	19,0,48	war ii,13,0,30
+of yosemite	0,0,42	national park,0,0,30
+off in	3,0,46	the morning,0,0,15
+offered as	3,0,5	well as,0,0,3
+officer and	6,0,4	a spy,0,0,3
+officer in	1,2,0	trade proceedings,0,2,0
+official controls	0,4,0	performed to,0,2,0
+official journal	0,127,0	of the,0,127,0
+often referred	2,1,24	to as,1,1,22
+ok to	0,0,355	confirm you,0,0,153
+okay let	0,0,892	me see,0,0,173
+on all	5,5,179	of them,0,0,50
+on an	12,10,307	imax screen,0,0,79
+on behalf	4,27,17	of the,3,15,6|of producers,0,6,0
+on board	7,3,220	directed by,0,0,139
+on cooperation	0,4,1	in budgetary,0,2,0
+on european	0,11,8	union and,0,10,0
+on her	5,0,380	distant cousin's,0,0,282
+on imports	0,13,0	of certain,0,7,0
+on interested	0,5,0	parties to,0,5,0
+on it	1,7,186	or which,0,7,0
+on its	9,10,162	way to,3,0,17
+on names	3,0,0	of settlements,3,0,0
+on protection	0,11,1	against dumped,0,7,0|against subsidised,0,3,0
+on quality	0,3,3	schemes for,0,2,0
+on rotten	0,0,453	tomatoes and,0,0,151
+on safety	0,3,5	and performance,0,0,2
+on some	4,0,72	of the,2,0,4
+on specific	0,27,26	provisions for,0,22,0
+on state	0,5,16	aid sa,0,3,0
+on such	0,3,21	short notice,0,0,9
+on sundays	3,0,74	they are,0,0,16
+on tariffs	0,3,0	and trade,0,2,0
+on the	445,837,9895	functioning of,0,191,1
+on two	3,0,46	movies for,0,0,9
+on various	4,0,89	factors such,0,0,45
+once in	3,0,25	a while,1,0,8
+one action	0,0,40	movie playing,0,0,19
+one exporting	0,3,0	producer claimed,0,2,0
+one for	1,2,496	me and,0,0,81
+one half	1,3,76	pepperoni and,0,0,19
+one member	1,5,1	state to,0,3,0
+one over	2,0,23	the other,0,0,10
+one ticket	0,0,1044	for the,0,0,173
+one would	1,0,273	you like,0,0,105
+only score	3,0,0	of the,3,0,0
+only severe	0,0,328	weather but,0,0,326
+only within	1,3,2	the quantitative,0,2,0
+operation is	2,1,11	given by,0,0,5
+operational capacity	0,3,0	under title,0,2,0
+operators in	1,4,5	the reduced,0,0,3
+opinion of	1,95,8	the standing,0,25,0|the committee,0,22,0
+opinions expressed	0,3,0	during the,0,3,0
+opportunities available	0,8,2	in eu,0,4,0
+opportunities should	0,4,0	be allocated,0,2,0
+or be	1,6,22	accompanied by,0,5,0
+or fishery	0,3,0	and having,0,3,0
+or land	0,5,1	fish from,0,5,0
+or one	0,3,75	of the,0,2,8
+or partly	0,7,1	based on,0,7,0
+or parts	0,6,1	thereof authorised,0,2,0
+or registered	0,5,0	in the,0,5,0
+or subject	0,3,7	to their,0,2,0
+or upon	0,3,1	arriving in,0,2,0
+or where	2,3,25	there are,0,2,1
+or which	0,9,18	adds any,0,7,0
+or withdraw	2,3,1	it from,2,0,0
+or would	0,0,371	you like,0,0,291
+order has	0,0,386	been placed,0,0,168
+orders in	1,1,5	your cart,0,0,2
+organisation for	1,5,0	animal health,0,2,0|economic cooperation,0,2,0
+organisation of	1,41,0	agricultural markets,0,22,0|the markets,0,10,0
+organisational and	0,4,0	procedural security,0,2,0
+origin and	0,7,12	protected geographical,0,3,0
+origin for	0,4,1	human consumption,0,2,0
+original film	0,0,72	from the,0,0,47
+other comments	0,4,1	concerning the,0,2,0
+other interested	1,3,0	parties to,0,2,0
+other known	0,3,2	union producers,0,2,0
+other measures	0,9,7	relating to,0,7,0
+other member	0,14,1	states or,0,4,0
+other members	5,1,12	of the,2,1,4
+other nomenclature	0,7,0	which is,0,7,0
+other parts	3,0,32	of the,3,0,20
+other specific	0,3,4	community import,0,2,0
+other team	3,0,10	members to,1,0,2
+out appropriate	0,3,0	consultations during,0,2,0
+out in	6,138,404	the annex,0,35,0
+outbreak of	6,7,8	world war,3,0,4
+outcome of	0,22,55	the uruguay,0,18,0
+outermost regions	0,8,0	and the,0,3,0
+outskirts of	5,0,8	the city,1,0,4
+ova and	0,10,0	embryos not,0,5,0|embryos of,0,3,0
+over a	14,4,224	period of,1,2,13
+over and	3,0,98	over again,0,0,19
+over by	4,0,25	the coffee,0,0,7
+over to	12,0,177	the coffee,0,0,55
+own internal	0,3,0	working procedures,0,3,0
+owned and	4,0,20	controlled by,0,0,12
+paragraph is	0,5,2	replaced by,0,5,0
+parish church	3,0,0	in the,2,0,0
+parliament and	2,118,6	of the,0,94,0|the council,0,20,0
+parliament as	2,1,0	required under,2,0,0
+parliament of	3,2,3	the basque,2,0,0
+part a	0,9,1	of annex,0,4,0|of the,0,4,0
+part b	0,10,0	of the,0,5,0
+part ii	0,3,4	of the,0,2,0
+part in	16,7,36	the adoption,0,4,0
+participants in	0,3,3	the programme,0,2,0|the system,0,0,2
+participation of	0,7,2	citizens in,0,0,2
+particular it	0,5,1	shall be,0,5,0
+particular movie	0,0,127	in mind,0,0,23|you have,0,0,22
+particular the	0,45,11	first subparagraph,0,9,0
+particular those	0,3,0	provided for,0,2,0
+particular type	0,0,53	of movie,0,0,23
+particular with	1,10,3	regard to,0,4,0
+parties concerned	0,4,0	by the,0,3,0
+parties made	0,4,0	written submissions,0,4,0
+parties of	0,4,15	or less,0,0,6|or more,0,0,5
+parties to	0,21,5	submit their,0,6,0
+parties were	0,12,0	considered and,0,3,0
+parties who	0,5,3	so requested,0,4,0|are not,0,0,3
+partisan forces	3,0,0	took up,2,0,0
+partly based	0,7,1	on it,0,7,0
+partnership agreement	1,4,0	between the,0,2,0
+parts a	0,3,1	and b,0,3,0
+parts of	19,10,238	the world,3,0,38
+party to	3,2,9	legal proceedings,0,2,0
+pass to	10,0,3	tight end,3,0,0
+pay the	4,3,41	tickets using,0,0,10
+people that	6,0,72	were born,5,0,0
+people's liberation	6,0,0	army literature,2,0,0|army in,2,0,0
+people's republic	1,8,2	of china,1,8,0|on massachusetts,0,0,2
+percentages in	4,1,0	a poll,2,0,0|a smaller,2,0,0
+performing arts	10,0,4	center and,1,0,3
+period covered	0,3,0	by the,0,2,0
+period from	2,1,1	the parliament,2,0,0
+period of	8,33,108	three months,0,8,1
+period provided	0,5,0	for in,0,4,0
+period should	0,10,0	be set,0,5,0
+periods stipulated	0,18,0	in annex,0,18,0
+permitted to	3,1,0	return home,2,0,0
+personal staff	3,0,0	officer to,3,0,0
+personnel of	8,0,1	world war,5,0,0
+persons and	0,4,3	entities associated,0,3,0
+phase of	4,2,21	an ai,0,0,5|the carrier,0,0,5
+physical and	1,3,65	mental health,0,0,16|technical characteristics,0,3,0
+pick them	0,0,123	up at,0,0,76
+picked up	5,0,658	at the,0,0,178
+place in	15,5,1629	the western,0,0,264|the national,0,0,247
+place of	13,1,294	the national,0,0,48
+place on	7,1,142	the national,0,0,32
+place the	2,1,571	order for,0,0,100
+place where	4,2,75	i can,0,0,14
+placed on	5,13,47	the market,0,12,1
+placed the	3,0,127	order and,0,0,35|order for,0,0,22
+places in	12,0,48	the municipality,6,0,0
+placing of	0,7,0	plant protection,0,4,0
+placing on	1,5,0	the market,0,5,0
+plan by	1,2,7	otto von,0,0,3
+plant and	2,1,14	a weed,0,0,4
+plant protection	0,9,0	products on,0,4,0
+play and	4,0,72	what was,0,0,30
+play of	4,0,3	the game,2,0,0
+played a	9,0,137	total of,0,0,38
+played an	3,0,7	important role,2,0,5
+played college	4,0,0	football at,2,0,0
+played their	4,0,32	last game,0,0,25
+player of	9,0,21	all time,0,0,15|the year,5,0,2
+player who	7,0,15	has the,0,0,5
+players in	6,0,19	the united,4,0,0
+players of	6,0,9	american football,5,0,0|all time,0,0,3
+playing matchmaker	0,0,10	for those,0,0,9
+playing no	0,0,26	time to,0,0,23
+playing tonight	0,0,268	at the,0,0,78|at pm,0,0,44
+playoffs for	3,0,0	the first,2,0,0
+please give	0,0,399	me a,0,0,122|me the,0,0,72
+please purchase	0,0,152	two tickets,0,0,33|the tickets,0,0,26
+please tell	0,0,867	me the,0,0,216
+pm at	0,0,3412	the amc,0,0,530
+pm tonight	0,0,585	at the,0,0,155
+poet and	3,0,5	activist tupac,0,0,4
+pointed out	3,0,7	that the,2,0,1
+policy established	0,3,0	in regulation,0,2,0
+policy objectives	0,5,7	during the,0,0,3
+policy on	1,2,8	the other,0,0,6|the security,0,2,0
+political and	3,8,75	security committee,0,6,0
+popular films	0,0,13	out in,0,0,9
+populated places	9,0,0	in the,7,0,0
+position at	3,0,18	popular goods,0,0,5
+position he	3,0,0	held until,2,0,0
+position of	5,11,61	the union,0,5,0
+position to	0,7,23	be adopted,0,4,0
+possible after	0,3,2	the updated,0,2,0
+possible in	2,1,40	the day,0,0,8
+post of	8,0,3	her mother's,0,0,2
+postwar communist	3,0,0	government to,3,0,0
+practices in	1,2,19	the aerospace,0,0,5
+premier league	7,0,168	soccer fan,0,0,33
+preparation for	2,1,12	a future,0,0,5
+presented at	3,0,3	pm pm,0,0,2
+presented to	4,4,8	the commission,0,3,0
+president of	33,7,54	the united,2,0,29|the council,0,7,0
+pretty socialite	0,0,9	emma woodhouse,0,0,9
+prevention of	0,4,2	cruelty to,0,0,2
+preventive measures	0,4,1	relating to,0,2,0
+previously known	3,0,3	as microsoft,0,0,2
+pri ljubljani	4,0,0	in the,4,0,0
+price of	0,21,276	certain fruit,0,18,0
+prima facie	0,5,0	evidence of,0,3,0
+primary and	3,0,0	secondary education,3,0,0
+principle of	0,10,38	subsidiarity as,0,4,0
+private equity	6,0,0	firms of,2,0,0
+problem and	1,0,542	family jewels,0,0,251
+problem at	0,0,577	the amc,0,0,203|amc holiday,0,0,190
+problem has	0,0,204	a rating,0,0,34
+problem is	0,0,914	a comedy,0,0,213
+procedure laid	0,6,0	down in,0,5,0
+procedure provided	0,4,1	for in,0,3,0
+procedure should	0,3,2	be used,0,2,0
+procedures and	2,11,6	rules applicable,0,4,0
+procedures electronically	0,3,0	in its,0,3,0
+procedures laid	0,3,0	down in,0,3,0
+proceed have	0,0,55	been sent,0,0,55
+proceeding was	0,4,0	initiated by,0,3,0
+proceeding with	0,3,2	regard to,0,3,0
+processed fruit	0,20,0	and vegetables,0,20,0
+processing of	0,7,16	personal data,0,3,0
+produced as	2,1,3	a by-product,0,0,2
+producer claimed	0,5,0	that the,0,2,0
+producers in	2,9,5	the prc,0,4,0|the world,0,0,3
+producers representing	0,7,0	more than,0,6,0
+producers that	0,5,2	would be,0,2,0
+product concerned	0,20,0	and like,0,6,0
+product falling	0,3,0	within the,0,3,0
+product in	0,4,3	accordance with,0,2,0|terms of,0,0,2
+product with	0,3,10	the mass,0,0,4|high yield,0,0,3
+products and	1,34,63	periods stipulated,0,18,0
+products covered	0,5,0	by the,0,2,0
+products of	0,7,7	animal origin,0,3,0
+products on	0,7,1	the market,0,6,0
+products originating	0,6,0	in the,0,5,0
+products which	0,10,3	have a,0,3,0
+professional football	5,0,3	club based,0,0,2
+professional footballer	5,0,1	who played,3,0,0|who plays,2,0,1
+professor at	13,0,7	tilburg university,0,0,3
+profitability of	1,3,8	the coffee,0,0,3|poultry farming,0,2,0
+prohibit fishing	0,5,0	activities for,0,5,0
+prohibit the	1,3,4	introduction of,0,2,0|use of,0,0,2
+prohibited from	0,5,0	the date,0,5,0
+prohibited to	0,5,1	retain on,0,5,0
+prohibition of	0,5,0	fishing for,0,5,0
+prohibits the	0,4,2	use of,0,4,1
+proper functioning	0,4,1	of the,0,4,0
+proportion of	1,6,28	background data,0,0,14
+proposal from	0,48,1	the european,0,37,0
+proposal submitted	0,5,0	by the,0,5,0
+propose the	0,3,3	secondment of,0,2,0
+protected designations	0,3,0	of origin,0,3,0
+protection against	1,10,10	dumped imports,0,7,0
+protection products	0,6,0	on the,0,4,0
+protective measures	0,5,6	were implemented,0,0,3
+protocol should	0,3,0	be approved,0,3,0
+proved to	9,2,3	be a,3,0,0
+provide information	2,6,78	about the,1,0,10
+provide that	0,12,12	binding tariff,0,7,0
+provide their	2,1,4	workers with,0,0,2
+provide up	0,0,12	to three,0,0,10
+provided for	3,169,7	in this,0,80,0
+province of	6,0,3	nova scotia,3,0,0
+provisional anti-dumping	0,4,0	duty on,0,3,0
+provisional duty	0,4,0	imposed on,0,4,0
+provisional findings	0,6,0	in recitals,0,2,0
+provisional regulation	0,11,0	are hereby,0,3,0
+provisions for	1,26,1	certain agricultural,0,22,0
+provisions necessary	0,7,0	to comply,0,7,0
+provisions of	1,34,3	the union,0,7,0
+provisions relating	0,3,0	to the,0,2,0
+prudential requirements	0,4,0	for credit,0,2,0
+publication in	0,109,0	the official,0,109,0
+publications of	3,0,0	important campaigns,2,0,0
+published a	4,5,3	white paper,0,0,2
+published his	4,0,1	first book,2,0,0
+published in	12,19,42	the official,0,18,1|the journal,0,0,10
+published on	2,2,7	the following,2,0,0
+published the	2,2,4	amendment application,0,2,0
+publisher of	4,0,2	a major,0,0,2
+purchase a	2,1,191	ticket for,0,0,69|movie ticket,0,0,41
+purchase of	3,0,140	two tickets,0,0,35
+purchase some	0,0,185	movie tickets,0,0,123|tickets for,0,0,35
+purchase the	0,0,267	tickets for,0,0,74
+purchase tickets	0,0,976	for the,0,0,149
+purchase two	0,0,519	tickets for,0,0,239|tickets to,0,0,140
+purchased and	0,0,316	details for,0,0,52
+purchased the	5,0,61	tickets for,0,0,19|tickets and,0,0,13
+purposes of	3,40,7	this regulation,0,8,0
+pursuant to	1,50,1	the outcome,0,18,0
+pursue a	4,0,371	less than,0,0,326
+put forward	3,3,3	by the,2,0,0|in any,0,2,0
+put in	3,6,247	the order,0,0,43|place by,0,4,1
+put it	2,0,231	on my,0,0,47
+put the	2,1,215	order in,0,0,49
+put to	2,1,11	the test,0,0,5|good use,2,0,0
+queen's commendation	4,0,0	for valuable,4,0,0
+question are	0,4,11	there any,0,0,4
+quota allocated	0,6,0	to the,0,5,0
+quota and	0,3,0	that quota,0,2,0
+r and	2,0,236	has a,0,0,40
+railway lines	6,0,0	in japan,3,0,0|opened in,2,0,0
+ran from	3,0,1	fort ellice,2,0,0
+rate and	1,3,44	blood pressure,0,0,9
+rated r	0,0,760	rotten tomatoes,0,0,236
+rather see	0,0,189	no time,0,0,47
+rating on	0,0,369	rotten tomatoes,0,0,255
+ratings of	0,0,127	the movie,0,0,23
+ready for	2,0,1599	pickup in,0,0,385|pick up,0,0,322
+reasons set	0,7,0	out in,0,7,0
+receipt of	0,10,17	the order,0,0,6
+received a	22,7,200	on rotten,0,0,36
+received by	1,9,25	the commission,0,8,0
+received from	3,10,17	rotten tomatoes,0,0,8
+recipients of	13,3,0	the commendation,4,0,0
+recognised as	1,4,0	free from,0,2,0
+recognized as	3,0,16	one of,2,0,3
+recommendations made	1,2,0	following regular,0,2,0
+record for	6,0,155	this year,0,0,28
+record of	3,1,431	wins and,0,0,67
+recording of	1,3,4	catches and,0,2,0|a song,0,0,2
+reduce the	2,14,357	risk of,0,3,72
+reduced environmental	0,4,0	impact during,0,3,0
+reduces the	1,2,43	risk of,0,0,12
+reducing the	0,3,112	risk of,0,1,15
+reference amount	0,6,0	intended to,0,3,0
+reference is	0,5,4	to be,0,5,0
+reference on	0,6,0	the occasion,0,5,0
+reference to	6,9,74	this directive,0,6,0
+referred to	24,166,111	in article,0,63,0|as the,5,4,32
+reform of	0,5,4	the julian,0,0,4
+regard to	0,478,19	the treaty,0,197,0
+regarded as	11,4,67	one of,2,0,35
+regards an	0,3,0	exemption for,0,3,0
+regimes applicable	0,4,0	to the,0,3,0
+regional municipality	3,0,0	in the,2,0,0
+regions and	0,5,9	the smaller,0,3,0
+register of	6,7,0	historic places,4,0,0|protected designations,0,3,0
+registered as	1,2,3	an independent,0,0,3
+registered in	4,12,1	the member,0,5,0
+registration and	0,3,3	protection of,0,1,2
+regulation are	0,61,0	in accordance,0,50,0
+regulation by	0,6,2	vessels flying,0,5,0
+regulation does	0,5,0	not go,0,4,0
+regulation for	0,8,0	the stock,0,5,0
+regulation in	0,5,2	eu law,0,0,2
+regulation lays	0,5,0	down rules,0,2,0
+regulation may	0,7,1	continue to,0,5,0
+regulation shall	0,196,0	enter into,0,92,0|be binding,0,92,0
+regulation should	0,54,0	enter into,0,26,0
+regulation which	0,6,0	does not,0,5,0
+regulations and	0,11,37	administrative provisions,0,10,0
+related assessment	0,5,0	and verification,0,4,0
+relations with	0,4,7	the authorities,0,3,0
+relationship of	3,0,2	emperors shirakawa,2,0,0
+relative stability	0,3,1	of fishing,0,3,0
+released his	4,0,4	first album,0,0,2
+relevant for	0,8,12	the assessment,0,7,0
+relevant provisions	0,3,0	of regulation,0,2,0
+religious elements	3,0,0	from toponyms,3,0,0
+remaining showtimes	0,0,49	for mulan,0,0,17|for no,0,0,9
+remains the	3,2,20	same as,0,1,3
+remove religious	3,0,0	elements from,3,0,0
+repealed and	0,3,0	replaced by,0,2,0
+replaced by	18,43,34	the following,0,26,0|the text,0,11,0
+report to	0,12,5	the commission,0,6,0
+reports drawn	0,3,0	up by,0,3,0
+reports on	0,4,3	their implementation,0,2,0
+representative of	4,20,18	the union,0,13,0
+representative volume	0,3,0	of exports,0,2,0
+representatives of	3,10,2	the union,0,3,0
+request of	3,8,4	a member,0,3,0
+requested were	0,4,0	also granted,0,2,0
+require a	1,3,178	lot of,0,0,31
+required in	0,9,4	order to,0,3,0
+required under	2,3,0	the regional,2,0,0
+requirements governing	0,5,0	trade in,0,5,0
+requirements laid	0,12,0	down in,0,12,0
+requirements relating	0,4,0	to the,0,2,0
+requirements resulting	0,3,0	from the,0,2,0
+requirements set	0,13,0	out in,0,13,0
+resources under	0,4,0	that regulation,0,3,0
+respect of	1,92,2	the fruit,0,19,0|the products,0,18,0
+responsibilities of	1,2,12	each team,0,0,4
+responsibility for	4,4,36	my actions,0,0,9
+rest of	16,0,395	your day,0,0,90
+restriction of	0,4,3	the use,0,3,0
+retired footballer	3,0,0	who played,3,0,0
+return of	3,2,81	xander cage,0,0,47
+review in	2,3,3	accordance with,0,2,0
+reviewed in	0,3,3	the light,0,2,0
+reviews on	0,0,133	rotten tomatoes,0,0,29
+reynolds and	0,0,88	melissa mccarthy,0,0,57
+right in	1,2,84	the middle,0,0,21
+rights in	1,4,4	the united,0,0,2
+rights of	2,14,29	the european,0,5,0
+risk assessment	0,8,3	and management,0,0,2
+risk for	0,5,11	institutional investors,0,0,4
+romance with	0,0,386	an american,0,0,367
+romantic comedy	0,0,751	rated r,0,0,145
+rotten tomato	0,0,145	score for,0,0,24
+round multilateral	0,18,0	trade negotiations,0,18,0
+route from	3,0,4	runs order,0,0,2
+rules applicable	0,12,0	to the,0,7,0
+rules apply	0,7,3	also to,0,7,0
+rules for	1,67,43	the application,0,24,0
+rules in	1,3,6	the field,0,2,0
+rules laid	0,5,0	down in,0,4,0
+rules of	0,15,54	the game,0,0,12|the common,0,9,0
+rules referred	0,5,0	to in,0,5,0
+ryan reynolds	0,0,225	and melissa,0,0,58
+s british	4,0,3	comedy television,2,0,0|police box,0,0,2
+sales volume	0,3,2	of the,0,2,0
+sampling of	0,7,2	union producers,0,4,0
+sanctions committee	0,3,0	of the,0,3,0
+sarah decker	0,0,272	moves upstate,0,0,189|who moves,0,0,47
+scheduled to	4,0,309	play today,0,0,108
+schemes for	0,3,2	agricultural products,0,2,0
+school of	42,0,52	witchcraft and,0,0,11
+scientific and	3,5,24	technical knowledge,0,3,0
+scientific opinion	0,3,0	on the,0,2,0
+score of	4,0,565	the last,0,0,92
+scored a	10,0,31	on rotten,0,0,13
+scored his	9,0,0	first goal,3,0,0
+scored the	5,0,13	most goals,0,0,5|most points,0,0,4
+scored two	5,0,1	goals in,1,0,1
+scoring a	6,0,4	goal is,0,0,2
+sea gets	0,0,281	ugly as,0,0,276
+season at	5,0,1	giants stadium,2,0,0
+season for	5,0,0	the team,4,0,0
+season of	12,0,11	the year,0,0,5
+season with	9,0,25	salt and,0,0,9
+seats available	0,0,320	for the,0,0,59
+seats in	3,0,210	the middle,0,0,45
+second day	3,0,0	of the,2,0,0
+second half	9,0,8	of the,3,0,4
+second paragraph	0,7,8	is replaced,0,5,0
+second season	3,0,0	of the,3,0,0
+second subparagraph	0,9,0	of article,0,7,0
+second time	5,0,3	in a,2,0,0
+secretariat of	0,3,0	the council,0,3,0
+sect of	3,0,2	generic bad,0,0,2
+section is	3,0,36	playing at,0,0,8
+securities and	1,5,0	markets authority,0,3,0
+see a	0,0,3482	movie tonight,0,0,700
+see beyond	0,0,207	the storm,0,0,201
+see family	0,0,159	jewels at,0,0,87
+see how	4,0,203	to train,0,0,45
+see no	1,0,392	time to,0,0,376
+see what	0,0,1052	i can,0,0,199
+seeing a	0,0,378	movie tonight,0,0,79
+seek and	0,3,1	analyse all,0,2,0
+seems to	4,0,513	be the,0,0,107
+segment of	3,0,4	the carlton,2,0,0
+segunda división	7,0,0	b players,3,0,0
+selected a	0,5,6	sample of,0,4,0
+selected for	2,1,27	your reservation,0,0,16
+send your	0,0,169	order to,0,0,50
+senior officer	3,0,0	of the,2,0,0
+sent by	2,3,7	text message,0,0,5
+sent the	0,4,200	receipt to,0,0,37
+sent to	10,13,2609	your email,0,0,929|your phone,0,0,460|your mobile,0,0,409
+series based	3,0,1	on the,1,0,1
+served on	5,0,14	the flight,0,0,5
+services companies	4,0,0	established in,3,0,0
+set about	3,0,3	rebuilding the,0,0,2
+set at	0,8,14	three months,0,5,0|a price,0,0,4
+set out	3,166,38	in the,0,41,2
+sets out	0,11,22	on a,0,0,7
+settlement in	5,0,3	the hills,2,0,0|the area,0,0,2
+settlement was	5,0,2	changed from,4,0,0
+settlements and	3,0,9	designations of,3,0,0
+seventh day	0,5,0	following that,0,5,0
+several interested	0,4,0	parties made,0,4,0
+severe weather	2,0,369	but a,0,0,322
+shall be	0,308,18	binding in,0,92,0
+shall bring	0,6,1	into force,0,6,0
+shall carry	0,4,0	out their,0,2,0
+shall communicate	0,7,0	to the,0,6,0
+shall contain	0,7,0	a reference,0,6,0
+shall continue	0,4,0	to apply,0,3,0
+shall contribute	0,3,0	to the,0,2,0
+shall determine	0,8,0	how such,0,5,0
+shall ensure	0,10,0	that the,0,5,0
+shall enter	0,130,0	into force,0,129,0
+shall forthwith	0,5,0	communicate to,0,4,0
+shall include	0,5,2	the expertise,0,2,0
+shall not	0,26,18	grow old,0,0,6
+shall notify	0,10,0	the commission,0,4,0
+shall remain	0,3,0	under the,0,2,0
+shall respect	0,3,0	the security,0,2,0
+shall submit	0,3,0	to the,0,2,0
+shall work	0,3,0	in close,0,2,0
+ship in	3,0,8	the north,0,0,6
+should adopt	0,4,0	a decision,0,2,0
+should comply	0,3,1	with the,0,1,1
+should continue	0,12,5	to be,0,4,1
+should contribute	0,4,0	to the,0,2,0
+should ensure	0,14,12	that you,0,0,5
+should enter	0,33,0	into force,0,32,0
+should take	0,13,119	about minutes,0,0,21|into account,0,7,6
+should therefore	0,114,1	be amended,0,45,0
+showing in	0,0,765	davis california,0,0,120
+showtimes are	0,0,372	pm pm,0,0,111
+showtimes at	0,0,302	pm pm,0,0,54
+shuttered and	0,0,219	beyond the,0,0,79|family jewels,0,0,47
+shuttered at	0,0,362	the amc,0,0,127|amc holiday,0,0,93
+shuttered is	0,0,605	a horror,0,0,217
+shuttered playing	0,0,55	at the,0,0,13|at amc,0,0,12
+shuttered showing	0,0,22	at amc,0,0,11|at the,0,0,5
+signature of	2,1,7	at least,2,0,0
+signed a	16,0,2	two-year contract,4,0,0
+signed in	0,3,3	cotonou on,0,2,0
+significant impact	0,3,117	on the,0,2,50
+signing for	4,0,0	more than,2,0,0
+silver medal	3,0,0	in the,2,0,0
+since this	2,2,41	is a,0,0,9
+sites which	3,0,4	will cause,0,0,2
+situation as	0,4,4	regards the,0,2,0
+situation which	0,6,4	may deteriorate,0,3,0
+slovenia's postwar	3,0,0	communist government,3,0,0
+smarts to	0,0,8	help ward,0,0,8
+smith and	7,0,82	martin lawrence,0,0,45
+so as	5,12,37	to be,3,0,0
+so far	2,10,242	as the,0,4,0
+so let's	0,0,263	go with,0,0,72
+so much	1,0,871	for your,0,0,172
+so requested	0,5,0	were also,0,2,0|were granted,0,2,0
+so to	0,0,497	confirm you,0,0,224
+soccer players	3,0,1	in the,3,0,0
+some help	0,0,405	finding a,0,0,68
+some information	0,1,438	about the,0,0,68
+some movie	0,0,858	tickets for,0,0,486
+some tickets	0,0,631	for a,0,0,145
+song was	3,0,27	written by,1,0,5
+soon as	2,6,349	possible after,0,3,2
+south african	11,0,1	rugby union,3,0,0
+south and	4,0,15	central america,0,0,4
+south side	5,0,15	of town,0,0,8
+southern part	3,0,4	of the,3,0,0|of asia,0,0,3
+spain submitted	0,3,0	an application,0,2,0
+spanish retired	3,0,0	footballer who,3,0,0
+speaker of	3,0,1	the house,2,0,0
+special provisions	0,3,0	on allocations,0,2,0
+specific community	0,7,1	rules referred,0,5,0
+specific eu	0,3,0	ecolabel criteria,0,3,0
+specific provisions	0,33,0	for certain,0,22,0|of the,0,7,0
+specific requirements	0,3,102	of the,0,0,25|of your,0,0,20
+specific restrictive	0,4,0	measures directed,0,3,0
+specifically would	0,0,18	you like,0,0,15
+specified in	0,29,13	the annex,0,9,0
+spent a	3,0,5	lot of,0,0,2
+spent most	3,0,4	of his,3,0,1
+spent the	6,0,19	next few,0,0,6
+sponsored by	5,0,4	nvidia or,0,0,2
+sportspeople in	6,0,0	the united,3,0,0
+spread from	1,2,1	one member,0,2,0
+st-century american	5,0,0	male musicians,2,0,0
+staff and	1,3,14	a diverse,0,0,5
+staff of	14,2,0	the eusr,0,2,0
+staff officer	3,0,0	to the,3,0,0
+staff to	2,2,4	work with,0,2,0
+stages of	3,2,31	development and,0,0,10
+standard import	0,54,0	values for,0,18,0|value is,0,18,0|values referred,0,18,0
+standard values	0,18,0	for imports,0,18,0
+standards in	4,4,3	a basic,0,0,2
+standing committee	0,26,0	on the,0,19,0
+starring matt	0,0,75	damon and,0,0,62
+starring melissa	0,0,48	mccarthy and,0,0,45
+stars matt	0,0,136	damon and,0,0,128
+stars melissa	0,0,232	mccarthy and,0,0,229
+state are	0,3,19	you located,0,0,6|you in,0,0,5
+state for	6,3,3	each fish,0,2,0
+state referred	0,10,0	to therein,0,5,0|to in,0,5,0
+state where	1,2,15	the theater,0,0,4
+state's most	0,0,246	iconic national,0,0,244
+states adopt	0,6,0	those provisions,0,6,0
+states department	3,0,2	of justice,1,0,1
+states in	0,31,20	accordance with,0,7,0
+station commander	3,0,0	of raf,2,0,0
+statistical nomenclature	0,11,0	and on,0,11,0
+status of	1,12,124	your ride,0,0,29
+stipulated in	0,18,0	annex xvi,0,18,0
+stock caught	0,5,0	by those,0,5,0
+stock or	0,3,2	fishery and,0,3,0
+stock referred	0,10,0	to in,0,5,0|to therein,0,5,0
+stocks and	0,9,4	groups of,0,7,0
+stocks in	0,4,5	january and,0,0,3
+stocks that	0,3,1	are subject,0,3,0
+stocks which	0,7,0	are subject,0,4,0
+storm and	0,0,277	backcountry are,0,0,72
+storm at	0,0,531	the cinemark,0,0,178|cinemark downtown,0,0,161
+storm is	0,0,849	an action,0,0,215
+storm playing	0,0,75	at cinemark,0,0,19|at the,0,0,17
+streamline the	0,4,6	injury analysis,0,2,0
+street and	4,0,189	th street,0,0,69
+strengthening of	0,4,0	economic and,0,2,0
+structure and	2,1,70	function of,0,0,13
+studied at	9,0,1	the university,2,0,1
+studies from	4,0,1	the university,3,0,0
+studio album	4,0,1	by the,2,0,0
+subdivision to	0,7,0	it and,0,7,0
+submissions making	0,3,0	their views,0,2,0
+submit a	1,2,5	deposit to,0,0,2|pull request,0,0,2
+submit their	0,9,3	comments pursuant,0,5,0
+submit to	0,4,4	the commission,0,2,0|your friends,0,0,2
+submitted an	2,4,0	application to,1,2,0
+submitted by	2,24,5	the european,0,7,0
+submitted in	0,5,1	accordance with,0,3,0
+submitted the	0,5,20	order for,0,0,6|order it'll,0,0,6
+submitted to	1,12,12	the commission,0,7,0
+subsequent to	1,5,1	the disclosure,0,4,0
+subsidiarity as	0,4,0	set out,0,4,0
+subsidised imports	0,5,0	from countries,0,3,0
+substances in	1,9,8	order to,1,1,1|electrical and,0,3,0
+substitution of	0,4,1	lead in,0,2,0
+such reference	0,7,0	is to,0,5,0
+sufficient time	0,4,3	to adapt,0,2,0
+sufficient to	1,4,12	justify the,0,3,0
+sufficiently achieved	0,4,0	by the,0,4,0
+supplies for	3,0,5	beauty care,0,0,2
+surveillance and	0,4,6	the early,0,2,0
+surveillance of	0,3,0	member states,0,2,0
+survived by	3,0,1	his wife,2,0,0
+suspension is	1,2,1	not appropriate,0,2,0
+sustainable and	0,3,21	inclusive growth,0,3,0
+system for	5,13,58	ensuring compliance,0,7,0
+system that	1,3,174	allows managing,0,3,0
+systems as	2,1,18	well as,1,0,9
+table below	3,0,1	lists voting,2,0,0
+table set	0,8,0	out in,0,8,0
+tacs should	0,4,0	be established,0,2,0
+take a	3,2,967	look at,0,0,157
+take account	0,14,0	of the,0,7,0
+take appropriate	0,4,13	measures to,0,2,1
+take effect	0,5,0	as from,0,2,0
+take into	1,17,56	account the,0,9,16
+take over	3,0,51	the world,0,0,22
+take part	1,4,10	in the,0,4,3
+take place	3,5,46	in the,0,0,11
+take two	0,0,155	tickets for,0,0,64|tickets to,0,0,34
+taken into	0,16,17	account in,0,6,0
+taken over	4,0,22	most jobs,0,0,6
+taken place	1,2,6	in the,0,0,3
+taken up	3,1,2	in the,1,1,0
+takes place	3,3,125	in the,0,0,33
+takes the	1,2,43	form of,0,2,1
+taking account	0,6,1	of the,0,4,1
+taking into	0,56,43	account the,0,17,15|account variable,0,18,0
+taking over	3,0,15	the world,0,0,12
+taking part	1,3,2	in the,1,2,0
+taking place	4,1,15	in the,0,0,6|on the,2,0,1
+tamil eelam	4,0,0	liberation organization,2,0,0
+tariff and	0,18,0	statistical nomenclature,0,11,0|other measures,0,7,0
+tariff information	0,14,0	issued in,0,5,0|which does,0,5,0
+team in	14,0,44	the english,0,0,11
+team represented	4,0,0	the university,2,0,0
+technical characteristics	0,5,0	and end,0,2,0
+technical progress	0,4,0	and developments,0,2,0
+teen tries	0,0,273	to convince,0,0,270
+teen who	0,0,77	tries to,0,0,68
+television channels	3,1,0	and stations,2,0,0
+television shows	5,0,5	set in,3,0,0
+tells the	4,0,85	story of,2,0,50
+ten days	3,0,0	of the,2,0,0
+tens of	3,0,6	thousands of,2,0,3
+term of	5,0,17	endearment for,0,0,5
+territory of	2,12,2	the union,0,4,0|the united,0,0,2
+territory or	0,4,3	part thereof,0,2,0
+territory thereof	0,3,0	from which,0,2,0
+text in	1,6,55	the annex,0,4,0
+text of	3,14,18	those provisions,0,5,0|the main,0,5,0
+text set	0,5,0	out in,0,5,0
+text with	1,63,57	eea relevance,0,63,0
+th anniversary	7,0,7	of the,4,0,1
+th grey	3,0,0	cup championship,2,0,0
+th overall	3,0,1	in the,1,0,1
+th season	4,0,1	of the,2,0,0
+than genuine	0,0,324	romance with,0,0,322
+thanks for	2,0,976	your help,0,0,161
+that allows	3,5,232	you to,0,0,70
+that binding	0,7,0	tariff information,0,7,0
+that date	1,4,48	and time,0,0,19
+that delves	0,0,224	into the,0,0,220
+that led	4,1,33	to the,2,0,14
+that make	2,1,260	me feel,0,0,42|up the,2,0,17
+that mulan	0,0,34	is showing,0,0,16
+that no	5,11,122	time to,0,0,33
+that not	2,3,85	my problem,0,0,18
+that of	13,87,94	its publication,0,80,0
+that one	3,2,1193	of the,2,0,11
+that part	0,3,18	of the,0,2,2
+that period	1,7,4	should be,0,5,0
+that specific	0,4,15	eu ecolabel,0,3,0
+that stock	0,5,0	caught by,0,5,0
+that system	0,4,1	in accordance,0,2,0
+that there	5,12,684	is a,0,1,121|is no,0,3,51
+that things	1,0,401	are not,0,0,377
+that two	2,1,47	tickets for,0,0,9
+that were	15,8,148	born or,5,0,0
+that work	2,0,271	for you,0,0,203
+that you'd	0,0,149	like three,0,0,43|like to,0,0,42
+that's all	0,0,799	i need,0,0,212
+that's five	0,0,10	tickets for,0,0,10
+that's two	0,0,241	tickets for,0,0,136|tickets to,0,0,52
+the absence	2,19,29	of any,0,5,1
+the accession	0,7,0	of the,0,4,0
+the achievement	1,7,1	of the,0,5,0
+the activities	2,10,10	of the,0,4,0
+the activity	0,6,29	of the,0,0,7
+the adoption	1,28,21	of a,0,4,5
+the advisory	1,5,0	committee on,1,3,0
+the aftermath	4,0,30	of the,2,0,16
+the age	13,1,106	of the,1,1,23
+the agreement	3,50,2	between the,0,8,1
+the al	1,2,23	central with,0,0,6
+the allocation	0,12,7	of resources,0,0,4|and deallocation,0,0,3
+the amc	0,0,5119	holiday theater,0,0,2263
+the amendment	0,9,3	to the,0,2,1
+the amendments	0,10,0	to the,0,4,0
+the american	28,0,487	league west,0,0,99|league east,0,0,91|league central,0,0,86
+the amount	7,19,405	of time,2,0,30
+the analysis	4,1,16	of the,0,0,4
+the animal	19,9,29	health requirements,0,4,0
+the annex	0,141,0	to this,0,75,0
+the appearance	3,2,42	of the,0,0,11
+the application	1,91,70	of council,0,21,0
+the approval	2,25,0	of the,1,6,0
+the approximation	0,3,6	of the,0,2,3
+the armed	4,0,1	forces and,2,0,0
+the arrangement	2,1,15	of atoms,0,0,4
+the arrival	5,1,29	of the,3,0,6
+the assessment	0,20,8	of the,0,7,0|of injury,0,6,0
+the attached	0,4,1	draft decision,0,4,0
+the attack	6,0,26	on pearl,0,0,6
+the audience	1,0,277	and critic,0,0,68
+the auspices	3,0,0	of the,3,0,0
+the austrian	3,1,8	school of,1,0,5
+the autonomous	2,3,1	community of,2,1,0
+the award	2,4,6	of the,0,4,0
+the back	6,0,296	of the,0,0,63
+the bank	12,1,62	of america,0,0,37
+the base	7,0,102	of the,5,0,14
+the basis	7,67,59	of the,3,21,4|of sex,0,0,17
+the beginning	10,2,106	of the,7,2,40
+the benefit	3,5,25	of the,1,1,5
+the bilateral	0,3,0	safeguard clause,0,2,0
+the black	2,1,153	and white,0,0,28
+the blessed	3,0,0	virgin mary,2,0,0
+the boston	3,0,102	red sox,1,0,55
+the bottom	5,0,170	of the,1,0,77
+the budget	0,3,18	of the,0,3,2
+the calculation	0,12,24	of the,0,5,3
+the canadian	15,0,23	province of,5,0,0
+the capacity	1,6,54	of the,1,0,10
+the captain's	2,0,2	crew faces,0,0,2
+the catch	2,1,513	and two,0,0,82
+the cemetery	5,0,4	would serve,0,0,2
+the center	13,0,250	of the,2,0,116
+the centre	6,1,6	of the,1,0,5
+the chairman	4,0,0	of the,3,0,0
+the charter	0,5,1	of fundamental,0,5,0
+the chicago	5,0,272	white sox,1,0,63
+the chief	12,1,5	of the,4,0,0
+the china	4,1,4	happy either,0,0,2
+the cif	0,3,0	union frontier,0,2,0
+the cinemark	0,0,1531	downtown theater,0,0,296
+the circumstances	0,4,12	of the,0,2,3
+the civil	5,0,57	rights movement,0,0,22
+the classification	0,25,5	of certain,0,7,0|of the,0,7,0
+the cn	0,10,1	code indicated,0,6,0
+the coach	3,0,74	of the,0,0,27|for the,1,0,18
+the coaching	3,0,0	staff at,2,0,0
+the codes	0,3,7	to be,0,2,0
+the collapse	4,0,22	of the,3,0,8
+the college	14,0,18	admissions process,0,0,6
+the color	5,0,136	of the,1,0,39
+the combination	2,3,46	of these,1,0,7|of the,0,2,4
+the combined	4,21,11	nomenclature annexed,0,8,0|nomenclature under,0,7,0
+the commendation	4,0,0	for valuable,4,0,0
+the comments	0,7,7	submitted by,0,3,0
+the committee	2,43,1	of the,1,6,0
+the common	0,55,55	customs tariff,0,13,0|fisheries policy,0,12,0
+the competent	0,40,0	authorities of,0,12,0
+the competitiveness	0,3,1	of the,0,1,1
+the complaint	0,6,0	contained prima,0,3,0|and arriving,0,2,0
+the completion	6,6,4	of the,2,4,2
+the composition	1,2,26	of the,1,1,8
+the comprehensive	0,3,3	training and,0,0,2
+the conclusion	1,15,17	of the,0,7,2
+the conclusions	0,5,2	of the,0,2,0
+the condition	1,3,30	of the,0,1,5
+the consent	1,7,3	of the,0,7,2
+the conservation	0,8,9	of energy,0,0,3
+the construction	13,2,50	of the,3,1,25|of a,2,1,6
+the consultation	0,4,0	of stakeholders,0,3,0
+the content	6,8,94	of the,0,3,18
+the contents	0,3,37	of the,0,2,18
+the context	7,23,223	of the,2,10,39|of a,2,4,14
+the continental	4,1,17	united states,1,0,4
+the control	9,11,26	of the,1,3,3
+the cost	2,9,570	of the,2,0,67
+the costs	3,14,35	associated with,0,1,7
+the council	8,179,22	of the,2,55,4
+the course	6,7,76	of the,2,4,15|of history,0,0,17
+the court	4,9,24	of justice,0,5,4|of auditors,0,4,0
+the creation	6,3,120	of the,1,1,22|of a,3,0,10
+the creator	3,0,16	of the,2,0,5
+the credit	0,4,90	card on,0,0,40
+the criteria	1,40,56	whereby the,0,18,0
+the customs	1,18,7	code committee,0,12,0
+the date	9,68,277	to tomorrow,0,0,52
+the day	8,61,428	of its,0,32,0|following that,0,19,0
+the deadline	0,6,2	for the,0,1,1
+the decision	6,16,79	of the,1,5,0|was made,3,0,2
+the declaration	3,0,28	of independence,0,0,14
+the defence	1,2,0	committee of,0,2,0
+the definition	2,17,47	of the,0,7,5|of a,0,2,9
+the demands	2,1,14	of the,1,0,6
+the democratic	3,3,7	republic of,2,1,0
+the description	2,5,144	of the,1,4,15
+the details	3,2,1147	of the,2,2,114
+the determination	0,9,5	of the,0,3,1
+the development	17,16,397	of the,4,4,27
+the difference	2,4,272	between the,0,3,35
+the differences	2,3,97	in the,0,2,11|between the,1,1,9
+the different	3,10,249	types of,0,0,71
+the direction	10,0,84	of the,1,0,20
+the director	7,0,305	of the,4,0,38
+the disclosure	0,5,1	of the,0,4,0
+the distinguished	5,0,0	flying cross,3,0,0|service order,2,0,0
+the draft	1,29,2	legislative act,0,14,0
+the drive	4,0,178	from santa,0,0,32|from fairfield,0,0,31
+the duration	1,2,112	of the,1,1,75
+the earlier	1,2,113	the better,0,0,25
+the eastern	14,2,181	conference with,0,0,90
+the ecological	0,6,2	criteria for,0,4,0
+the edge	3,0,160	of my,0,0,51|of your,0,0,33|of the,1,0,31
+the effect	1,3,70	of the,0,2,5
+the effects	7,5,86	of the,2,1,12
+the eighth	2,1,14	place with,0,0,4
+the elimination	2,1,5	of the,1,0,1
+the end	54,21,599	of the,27,16,205
+the english	9,1,315	premier league,0,0,243
+the entries	1,4,3	set out,0,2,0|under please,0,0,2
+the entry	0,43,12	into force,0,18,0|price of,0,18,0
+the environmental	2,3,24	impact of,0,0,18
+the equivalent	2,1,13	of vacuum,0,0,4
+the essential	0,8,10	elements of,0,2,4|facts and,0,5,0
+the establishment	6,16,45	of a,2,4,17|of the,2,2,10
+the estimated	0,3,179	duration of,0,0,48
+the euro	0,3,4	area experiencing,0,2,0
+the european	17,314,101	parliament and,0,94,2
+the eve	4,0,3	of the,3,0,0|of their,0,0,2
+the event	16,9,94	of a,0,1,19|of an,2,3,8
+the events	3,0,69	of the,1,0,11
+the evolution	3,3,31	of the,1,3,5
+the examination	0,16,2	of trends,0,5,0
+the exception	2,12,14	of the,0,2,9
+the exchange	2,4,9	of information,1,2,0
+the existence	11,13,137	of a,4,3,22|of the,2,3,18
+the expenditure	0,11,0	related to,0,3,0
+the expertise	0,3,9	of the,0,1,2|on specific,0,2,0
+the exploration	0,3,11	of yosemite,0,0,5|of the,0,2,2
+the exports	0,5,0	of the,0,2,0
+the extension	3,10,27	of the,1,5,5
+the extent	2,10,34	to which,0,2,12|of the,0,0,8
+the extinction	4,0,14	of the,1,0,6
+the fact	17,15,206	that the,3,4,31
+the failure	5,3,18	of the,2,1,2
+the fall	5,0,83	of the,3,0,29
+the federal	4,7,37	republic of,1,5,1
+the financing	0,7,2	of the,0,4,0
+the findings	1,10,11	of the,0,3,1
+the fixing	0,3,1	and allocation,0,3,0
+the flag	0,14,25	of or,0,5,0
+the focus	2,0,44	of this,1,0,8
+the food	0,24,241	chain and,0,19,4
+the form	14,20,140	of a,5,5,26
+the format	3,8,33	of the,1,3,7
+the formation	9,0,68	of the,3,0,11
+the formula	4,3,84	for the,0,1,12
+the fort	6,0,18	worth area,0,0,6
+the forward	5,0,23	function is,0,0,6
+the foundation	7,1,64	for the,0,0,16|of the,2,1,7
+the founder	9,0,36	of the,1,0,7
+the founders	5,0,7	of the,3,0,1
+the framework	0,17,16	of the,0,8,0
+the free	7,4,57	energy principle,0,0,16|movement of,0,4,2
+the freezing	0,4,12	of funds,0,4,0
+the front	8,0,209	of the,3,0,35
+the fruit	0,19,23	and vegetables,0,19,0
+the functioning	1,194,13	of the,1,192,8
+the fundamental	1,4,58	rights and,0,3,0
+the game	40,0,936	with the,0,0,235
+the general	20,48,189	budget of,0,10,0
+the genus	3,3,3	varroa and,0,2,0
+the geographical	1,4,0	area of,0,2,0
+the german	14,3,45	text is,0,3,0
+the global	3,6,102	financial crisis,2,0,13
+the goal	8,1,164	is to,0,0,35
+the golden	5,0,228	state warriors,0,0,79
+the goods	1,21,12	referred to,0,7,0|described in,0,7,0|concerned by,0,5,0|or services,0,0,5|and services,0,0,4
+the governing	4,2,3	body of,2,0,1|council of,0,2,0
+the government's	3,0,10	ability to,0,0,4
+the green	7,0,92	bay packers,2,0,30
+the grounds	2,4,52	of the,1,0,31
+the growth	3,0,58	of the,1,0,9
+the guidance	6,0,14	of a,0,0,7
+the guidelines	0,5,8	for the,0,2,1
+the gulf	3,2,8	of mexico,1,1,3
+the head	15,5,146	coach of,0,0,46|of the,7,2,8
+the headquarters	4,0,2	of the,2,0,0
+the heart	4,0,103	of the,0,0,38
+the help	5,0,157	of a,0,0,28
+the high	11,19,86	representative of,0,11,0
+the history	10,0,173	of the,1,0,41
+the holder	1,8,7	in accordance,0,5,0|the right,0,0,5
+the home	9,1,54	of the,4,0,2
+the house	14,1,187	of commons,5,0,0
+the idea	10,0,391	of a,3,0,34
+the impact	2,8,210	of the,0,7,24
+the implementation	0,59,56	of the,0,25,8
+the importance	4,4,270	of the,2,1,26
+the importation	0,4,1	into the,0,2,0|of equidae,0,2,0
+the imposition	0,6,4	of taxes,0,0,2
+the inaugural	6,0,2	visits to,0,0,2
+the independence	4,1,9	of the,0,0,3
+the indiana	3,0,44	pacers are,0,0,9
+the initiation	0,14,3	of an,0,4,1|of the,0,3,1
+the initiative	1,2,5	of the,0,2,0|and its,0,0,2
+the injury	0,5,7	analysis and,0,3,0
+the institute	5,0,3	for the,0,0,2
+the institution	0,3,3	of the,0,2,0
+the institutions	1,4,1	of the,0,2,0
+the integrated	1,2,6	maritime policy,0,2,0
+the intellectual	3,1,7	property rights,0,1,4
+the interest	1,11,15	of the,0,4,3
+the interested	0,6,0	parties to,0,3,0|parties were,0,2,0
+the interests	0,5,27	of the,0,2,9
+the interior	8,0,38	of the,1,0,8
+the interoperability	0,3,0	of the,0,2,0
+the interpretation	0,7,14	of the,0,7,4
+the introduction	4,16,44	of the,2,3,7|into the,0,6,0
+the introductory	0,6,1	phrase of,0,3,0|phrase and,0,2,0
+the investigation	2,22,9	into the,1,0,3
+the investment	2,1,10	in ergonomic,0,0,3
+the island's	3,1,8	mystery in,0,0,3
+the italian	4,24,79	homemade company,0,0,31
+the king	8,0,97	of staten,0,0,18
+the large	5,2,104	number of,1,2,5
+the largest	31,4,194	representative volume,0,3,0
+the late	8,0,184	th century,0,0,39
+the laws	1,4,65	of physics,0,0,23|of the,0,3,6
+the leader	6,0,38	of the,4,0,17
+the league's	5,0,1	top scorer,2,0,0
+the legal	2,15,54	aid and,0,0,12
+the level	3,16,80	of the,1,6,1
+the life	7,2,118	of the,2,0,12
+the light	3,23,114	of the,0,13,2
+the limits	0,5,39	of the,0,3,3
+the location	13,0,542	of the,6,0,81
+the los	8,0,208	angeles dodgers,0,0,55|angeles times,5,0,1
+the louis	3,0,3	street pizza,0,0,3
+the majority	15,1,62	of the,2,0,18
+the making	1,2,10	available on,0,2,0
+the management	4,27,6	committee for,0,6,0
+the mandate	0,10,1	of the,0,3,0
+the markets	0,8,6	in agricultural,0,5,0
+the meaning	2,21,193	of life,0,0,118|of article,0,13,0
+the measures	0,114,2	provided for,0,80,0
+the meetings	0,4,0	of the,0,2,0
+the members	6,14,11	of the,4,6,8
+the metropolitan	12,0,16	museum of,0,0,5
+the middle	17,2,475	of the,5,1,153
+the ministry	21,1,9	of defence,6,0,0
+the money	5,0,88	in the,0,0,19
+the mood	2,0,663	for a,0,0,154
+the moral	3,0,25	of the,0,0,7
+the mother	5,0,28	and baby,0,0,6
+the motor	4,0,13	is making,0,0,4
+the mountain	4,0,471	amc theater,0,0,131
+the mouth	4,0,20	of the,3,0,1
+the movement	4,3,79	of the,0,0,19
+the multiannual	0,7,0	financial framework,0,4,0
+the municipality	6,0,0	of dol,4,0,0
+the name	50,9,1618	of the,12,0,708
+the names	7,1,166	of the,2,0,56
+the national	65,20,531	league east,0,0,124|league central,0,0,121|league west,0,0,111
+the nature	4,6,220	of the,2,1,58
+the north	45,3,491	sea gets,0,0,280
+the northeastern	5,0,2	part of,2,0,1
+the northern	8,2,31	part of,0,1,5
+the notice	0,5,0	of initiation,0,4,0
+the notifications	0,4,0	referred to,0,3,0
+the number	18,20,863	of tickets,0,0,135
+the objective	3,10,27	of the,0,3,5|is to,1,0,6|of this,0,3,3
+the objectives	0,26,10	of the,0,13,3
+the obligation	0,12,5	to buy,0,0,4
+the obligations	0,12,0	of member,0,3,0
+the occasion	2,5,7	of their,0,5,0
+the off-season	4,0,0	prior to,2,0,0
+the official	12,130,53	journal of,0,127,0
+the ohio	4,0,5	casino control,0,0,3
+the operator	0,6,8	norm is,0,0,3
+the opinion	0,92,2	of the,0,90,1
+the opinions	2,3,8	expressed during,0,3,0
+the ordinary	0,13,5	legislative procedure,0,11,0
+the origin	3,6,61	of the,2,1,18
+the origins	3,0,39	of the,2,0,11
+the outbreak	7,3,5	of world,3,0,1|of the,2,0,2
+the outcome	0,23,61	of the,0,21,16|of a,0,0,12
+the outermost	0,6,4	regions and,0,3,0
+the outskirts	5,0,13	of the,2,0,5|of town,0,0,5
+the owner	4,0,72	of the,1,0,26
+the parallel	1,2,5	postulate which,0,0,2
+the parliament	10,1,5	of the,0,0,3
+the part	9,6,56	of the,6,5,14
+the participation	0,5,0	of the,0,2,0
+the parties	3,14,5	to the,0,4,0|who so,0,4,0
+the peak	5,0,10	of ripeness,0,0,3
+the people's	5,9,5	republic of,1,8,0|liberation army,3,0,0
+the performance	3,11,176	of the,0,2,49
+the personal	4,0,42	history of,0,0,9
+the placing	0,11,0	on the,0,5,0|of plant,0,4,0
+the planet	3,0,148	of the,0,0,47
+the playoffs	4,0,47	this year,0,0,25|for the,3,0,0
+the political	8,10,47	and security,0,6,0
+the position	9,19,74	of the,0,9,19
+the powers	0,7,13	of the,0,3,1
+the preferential	0,4,0	customs duty,0,2,0
+the premier	6,0,72	league standings,0,0,37|league with,0,0,20
+the premises	1,3,3	of the,0,2,0
+the president	14,7,27	of the,7,7,10
+the prevention	0,5,2	of the,0,2,0|of cruelty,0,0,2
+the prime	5,1,39	minister of,2,0,4
+the principle	3,17,33	of proportionality,0,6,0|of subsidiarity,0,5,0
+the prior	1,2,4	distribution over,0,0,2
+the procedure	5,14,9	provided for,0,4,0
+the procedures	0,12,4	and rules,0,4,0
+the proceeding	0,7,1	was initiated,0,4,0
+the processing	0,7,16	of personal,0,3,0
+the products	1,36,11	and periods,0,18,0
+the progress	0,7,32	of the,0,1,9
+the proposal	1,52,23	from the,0,43,0
+the protection	1,23,18	of the,1,5,2
+the psc	0,5,0	shall provide,0,2,0
+the purpose	5,30,140	of the,1,2,31
+the purposes	5,49,7	of this,0,12,1
+the qualities	3,1,7	of the,2,1,0
+the quality	3,9,209	of the,0,3,69
+the quota	0,11,4	allocated for,0,5,0
+the raf	5,0,0	during the,2,0,0
+the real	5,0,205	salt lake,0,0,53
+the reason	6,1,183	for the,0,1,34
+the reasons	5,11,39	set out,0,7,0
+the receipt	0,2,568	will be,0,0,115|to your,0,0,98
+the recommendation	0,4,10	of the,0,2,1
+the record	5,0,355	of the,0,0,135|for the,1,0,68
+the recovery	2,4,2	of the,0,2,0
+the reduction	2,3,11	of the,1,2,2
+the regimes	0,3,0	applicable to,0,3,0
+the register	0,4,6	of protected,0,3,0
+the registration	0,12,3	and protection,0,1,2
+the regulation	1,8,18	of cell,0,0,5
+the regulatory	1,6,5	environment for,0,0,3
+the related	0,9,2	assessment and,0,4,0
+the relationship	3,2,134	between the,0,2,34
+the release	1,1,136	date for,0,0,28
+the remainder	7,1,13	of the,3,1,6
+the remains	5,0,8	of a,2,0,1|of dead,0,0,3
+the removal	7,4,8	of the,2,1,4
+the replacement	1,3,5	of the,1,1,2
+the representative	0,6,0	of the,0,2,0
+the representatives	1,5,1	of the,0,5,0
+the rescue	2,2,4	of the,1,0,1|of three,0,0,2
+the responsibilities	0,3,4	of the,0,2,0
+the responsibility	2,3,11	of the,2,2,3
+the rest	19,0,404	of the,11,0,179|of your,0,0,93
+the restriction	0,4,2	of the,0,3,0
+the result	15,6,165	of the,3,2,18
+the results	5,17,121	of the,0,11,20
+the revision	0,5,1	of the,0,3,0
+the risks	0,5,41	associated with,0,0,8
+the river	6,0,157	until an,0,0,101
+the role	11,2,211	of the,2,2,37
+the roof	5,0,29	of your,0,0,8
+the rotten	0,0,348	tomatoes score,0,0,103
+the royal	24,1,49	air force,7,0,0
+the rules	1,36,105	of the,0,9,12
+the ruling	3,0,14	class and,0,0,5
+the sake	0,5,21	of clarity,0,4,0
+the sampled	0,7,1	exporting producers,0,3,0
+the san	4,0,377	jose earthquakes,0,0,107|francisco giants,0,0,77
+the sanctions	0,4,1	committee of,0,3,0
+the scope	1,21,46	of the,0,6,14
+the second	105,35,2774	is called,0,0,548
+the secret	5,0,62	life of,0,0,19
+the secretary	4,0,3	of the,2,0,0
+the security	2,13,44	of the,1,1,5
+the senior	3,2,8	citizen discount,0,0,3
+the separation	3,0,20	of powers,0,0,9
+the settlement	11,0,12	was changed,4,0,0
+the seventh	2,9,21	place with,0,0,8|day following,0,5,0
+the ship	27,0,31	of theseus,0,0,9
+the show	19,0,953	times for,0,0,187
+the signing	4,2,1	of the,3,0,0
+the silver	5,0,19	king hotel,0,0,5
+the sixth	4,5,32	place with,0,0,10
+the smaller	2,3,19	aegean islands,0,3,0
+the specifications	2,1,21	of the,1,0,5
+the spread	4,1,44	of the,2,0,3
+the stabilisation	0,3,0	mechanism for,0,2,0
+the stability	0,6,30	of the,0,3,17
+the standard	5,61,639	import values,0,18,0|values for,0,18,0|import value,0,18,0
+the standing	1,29,5	committee on,0,26,0
+the start	17,0,95	of the,13,0,17
+the starting	6,0,267	point guard,0,0,59|small forward,0,0,49|center for,0,0,43
+the state	38,9,232	of the,0,3,41
+the status	2,4,201	on your,0,0,62|of your,0,0,53|of the,0,1,31
+the stock	1,8,54	referred to,0,5,0
+the stocks	1,6,0	that are,0,3,0
+the strengthening	0,4,0	of economic,0,2,0
+the structure	3,1,112	of the,1,0,21
+the subject	7,7,80	of the,0,3,3
+the submission	1,6,2	of the,0,3,1
+the substitution	0,4,2	of lead,0,2,0
+the success	4,0,61	of the,2,0,20
+the sum	1,6,95	of the,0,0,45
+the surveillance	0,5,0	and the,0,2,0
+the table	3,10,187	set out,0,8,0
+the tac	0,6,0	allocated to,0,2,0
+the tampa	3,0,109	bay rays,0,0,72|bay buccaneers,3,0,24
+the tariff	0,14,0	and statistical,0,11,0
+the ten	7,0,15	o five,0,0,4
+the term	4,0,109	of the,3,0,1
+the termination	1,2,0	of the,1,1,0
+the terms	1,3,40	of the,1,1,12
+the territory	1,8,3	of the,1,4,0|back for,0,0,2
+the text	3,25,188	of the,0,9,4
+the time	34,27,1376	of the,5,6,65
+the timing	2,2,93	of the,0,1,17
+the tip	3,0,33	of the,2,0,9
+the title	20,1,261	of the,1,0,57
+the toronto	5,0,70	blue jays,0,0,40
+the town	26,0,126	of north,0,0,30|of butte,0,0,30
+the transition	0,3,34	to a,0,0,7
+the transitional	0,6,0	period provided,0,2,0
+the treaty	2,248,14	on the,0,191,0|of versailles,0,0,9
+the trends	0,3,2	relevant for,0,2,0
+the true	2,1,82	story of,0,0,15|nature of,1,0,10
+the turn	5,0,19	of the,5,0,7
+the twentieth	0,49,0	day following,0,49,0
+the uk	11,0,46	to the,0,0,10
+the ultimate	3,1,78	goal is,1,0,10
+the united	83,28,701	state's most,0,0,245
+the university	79,0,273	of texas,1,0,82
+the update	0,3,11	of the,0,3,0
+the uruguay	0,18,0	round multilateral,0,18,0
+the use	24,61,471	of the,7,8,23
+the validity	0,9,19	of the,0,4,8
+the valley	3,0,16	of the,2,0,9
+the value	2,5,302	of the,0,3,51
+the vast	6,0,43	majority of,5,0,11
+the verification	0,4,1	of compliance,0,2,0
+the veterinary	0,5,0	certification requirements,0,4,0
+the vicinity	2,1,6	of the,1,0,2
+the victims	2,1,3	of the,1,0,2
+the view	3,1,32	of the,0,1,5
+the villages	3,0,0	toward vače,2,0,0
+the wake	4,0,7	of the,3,0,2
+the wall	5,0,49	street journal,3,0,5
+the walls	3,0,33	of the,1,0,8
+the way	13,2,955	in which,1,2,17
+the weight	2,2,84	of the,2,0,21
+the welsh	3,0,5	mathematician william,0,0,2
+the western	16,1,240	conference with,0,0,89
+the winner	6,0,15	of the,2,0,6
+the winnipeg	3,0,0	blue bombers,2,0,0
+the withdrawal	2,3,0	of the,1,1,0
+the wonders	0,0,261	of one,0,0,240
+the working	1,2,21	class and,0,0,6
+the year	13,6,243	make and,0,0,70
+theater do	0,0,251	you want,0,0,164
+theater in	2,0,1777	spring hills,0,0,343
+theater it	0,0,48	is playing,0,0,22
+theater would	0,0,534	you like,0,0,414
+their comments	0,8,2	pursuant to,0,5,0
+their entire	0,3,1	life cycle,0,3,0
+their final	2,2,3	destination is,0,2,0
+their implementation	0,3,5	in the,0,0,3|and on,0,2,0
+their last	5,0,878	game was,0,0,301
+their place	3,0,27	in the,1,0,13
+their potential	1,2,8	impact on,0,2,1
+their views	1,8,7	on the,0,3,0
+them up	1,0,150	at the,0,0,72
+then have	3,0,36	a great,0,0,11
+then moved	3,0,5	into the,0,0,3
+then ordered	3,0,0	to collect,2,0,0
+there anything	0,0,1649	else i,0,0,409|else you,0,0,288
+there has	1,3,51	been a,1,2,17|to be,0,0,10
+there to	3,0,240	be a,0,0,59
+there's three	0,0,20	of us,0,0,5
+therefore be	1,91,7	amended accordingly,0,42,0
+therefore necessary	0,17,0	to prohibit,0,5,0
+therefore this	0,19,3	regulation should,0,18,0
+therein have	0,5,1	exhausted the,0,5,0
+therein shall	0,5,0	be prohibited,0,5,0
+thereof and	0,3,0	in the,0,2,0
+thereof from	0,4,0	which member,0,2,0
+these are	10,3,789	just a,0,0,204
+they adopt	0,5,0	in the,0,5,0
+they comply	0,4,0	with the,0,4,0
+they did	5,1,185	not play,0,0,39
+they do	5,5,1318	not have,0,0,211
+they lost	3,0,414	the game,0,0,86
+they make	2,1,119	me feel,0,0,21
+they received	3,0,9	from the,1,0,3
+they seem	0,0,125	to be,0,0,47
+they shall	0,23,7	contain a,0,6,0|not grow,0,0,6
+they won	5,0,469	the game,0,0,104|their last,0,0,78
+they've been	0,0,344	sent to,0,0,326
+things are	0,0,454	not what,0,0,364
+think action	0,0,8	movies are,0,0,5
+think i'd	0,0,545	like to,0,0,266
+think i'll	0,0,902	go with,0,0,201
+think we'll	0,0,134	go with,0,0,29
+think we're	0,0,71	going to,0,0,22
+third day	1,8,0	following that,0,8,0
+third in	4,0,22	the national,0,0,5
+third subparagraph	0,4,0	of article,0,3,0
+this adaptation	0,1,14	of jane,0,0,8
+this award	0,0,214	winning film,0,0,213
+this became	3,0,1	known as,1,0,1
+this decision	1,138,12	is addressed,0,31,0|shall enter,0,27,0
+this led	6,0,20	to the,3,0,3|to a,0,0,6
+this measure	0,3,1	applies as,0,2,0
+this regulation	0,369,0	shall enter,0,92,0|shall be,0,92,0
+those laid	0,4,0	down in,0,4,0
+those measures	0,11,0	should be,0,3,0
+those provided	0,4,2	for in,0,4,0
+those referred	0,3,0	to in,0,3,0
+those rules	1,13,3	apply also,0,7,0
+those vessels	0,5,0	after that,0,5,0
+three games	5,0,25	back from,0,0,9
+three months	1,12,3	from the,0,5,0
+three options	2,0,43	for your,0,0,11|for you,0,0,9
+three tickets	0,0,1444	for the,0,0,255
+through trade	1,2,0	in live,0,2,0
+tickets are	0,0,1461	confirmed and,0,0,384
+tickets available	0,0,737	for the,0,0,186
+tickets do	0,0,309	you need,0,0,149|you want,0,0,122
+tickets have	0,0,731	been purchased,0,0,230|been booked,0,0,122
+tickets will	0,0,751	be sent,0,0,165
+tickets would	0,0,339	you like,0,0,271
+time did	0,0,342	you want,0,0,195
+time do	0,0,681	you want,0,0,418
+time would	0,0,1170	you like,0,0,881
+timely and	0,4,3	appropriate transmission,0,2,0
+times are	0,0,609	pm pm,0,0,109
+times is	0,0,211	it playing,0,0,43
+times it	1,0,48	is playing,0,0,20|is showing,0,0,10
+times of	3,0,99	pm pm,0,0,28
+times throughout	3,0,2	the world,2,0,0
+title of	11,1,119	the movie,0,0,33
+title v	0,3,0	of the,0,2,0
+titles of	2,0,27	the movies,0,0,8
+to act	4,2,96	as a,1,0,23
+to adapt	2,7,59	to the,1,2,12
+to adopt	3,24,22	measures concerning,0,7,0
+to air	13,0,17	vice marshal,4,0,0
+to animal	0,5,1	health requirements,0,5,0
+to any	3,22,137	other nomenclature,0,7,0
+to assist	4,6,213	you with,0,0,61
+to benefit	1,6,22	from the,1,2,5
+to bring	10,2,641	it in,0,0,153
+to buy	2,0,2233	tickets for,0,0,347
+to care	4,0,21	for and,0,0,5
+to carry	4,9,57	out the,0,4,2
+to comment	0,5,2	on the,0,3,0
+to commission	1,28,0	implementing regulation,0,24,0
+to compete	6,1,19	with the,1,1,2
+to comply	1,19,13	with the,0,8,4|with this,0,6,0
+to conclude	0,5,9	that the,0,1,3
+to confirm	2,1,3526	you would,0,0,592|you want,0,0,585
+to contribute	2,9,55	to the,1,4,22
+to convince	0,0,438	his depressed,0,0,352
+to deal	4,0,83	with the,1,0,12
+to designate	2,7,2	the person,0,3,0
+to encourage	1,2,42	people to,0,0,8
+to ensure	8,109,796	that the,3,13,124
+to esma	0,3,0	in the,0,2,0
+to eu	0,5,0	vessels for,0,2,0
+to fill	1,2,68	in the,0,1,7
+to flying	4,0,2	officer on,2,0,0
+to fulfil	0,5,4	a particular,0,0,2
+to go	8,2,7225	to the,0,0,1331
+to group	4,0,5	captain on,2,0,0
+to head	3,0,66	over there,0,0,12
+to hear	1,0,1665	more about,0,0,255
+to imports	0,9,0	into the,0,3,0
+to impose	1,6,3	provisional anti-dumping,0,3,0
+to in	5,45,76	the annex,0,14,0
+to indicate	3,3,44	that the,0,1,7
+to inform	3,7,59	you that,0,0,30
+to initiate	1,7,10	the procedure,0,3,0
+to international	2,6,5	negotiations or,0,5,0
+to it	3,12,218	and which,0,7,0
+to justify	3,6,18	the initiation,0,4,0
+to lead	6,5,37	to a,0,2,4
+to learn	3,0,750	more about,1,0,82
+to leave	8,0,1656	in the,0,0,299
+to meet	7,9,180	the requirements,0,4,0
+to member	0,9,0	states in,0,3,0
+to name	3,0,36	a few,1,0,21
+to new	2,2,249	york city,0,0,100
+to not	3,0,267	my problem,0,0,108
+to participate	3,8,34	in the,2,4,9
+to pick	0,0,1540	it up,0,0,298|you up,0,0,290
+to place	1,2,693	an order,0,0,278|the order,0,0,127
+to proceed	1,1,111	have been,0,0,53|with the,1,1,15
+to products	0,8,0	which have,0,3,0
+to prohibit	0,9,1	fishing activities,0,5,0
+to prolong	0,5,5	their life,0,0,4
+to purchase	4,0,2699	tickets for,0,0,475
+to pursue	7,1,415	a less,0,0,327
+to qualify	5,1,7	for the,5,1,0|for a,0,0,4
+to rally	4,0,1	in the,2,0,0
+to reserve	0,1,506	a table,0,0,78
+to retain	2,8,17	on board,0,6,0
+to set	7,9,325	up a,1,2,34
+to settle	2,0,15	for the,0,0,4
+to shuttered	0,0,67	at pm,0,0,13|playing at,0,0,12
+to sign	4,2,23	up for,0,0,8
+to sit	3,0,346	in the,1,0,86
+to squadron	3,0,0	leader in,2,0,0
+to state	1,2,11	aid in,0,2,0
+to streamline	0,4,6	the injury,0,2,0
+to strike	2,1,24	a balance,0,0,10
+to submit	2,14,30	the order,0,0,9|their comments,0,5,0
+to technical	0,5,2	and scientific,0,2,0
+to that	6,18,316	of the,3,0,4
+to the	650,1079,13141	treaty on,0,197,0
+to therein	0,13,0	have exhausted,0,5,0|shall be,0,5,0
+to those	11,23,80	general rules,0,7,0
+to three	2,0,45	options for,0,0,10
+to trade	1,19,22	in goods,0,7,0
+to verify	1,4,153	that is,0,0,33
+to west	5,0,15	palm beach,0,0,5
+to whom	1,3,2	the freezing,0,3,0
+to wing	4,0,0	commander in,2,0,0|commander on,2,0,0
+to work	15,3,871	on her,0,0,316|with the,0,2,9
+to your	0,0,3360	email address,0,0,603
+tonight in	0,0,267	spring hills,0,0,54
+tonight's remaining	0,0,27	showtimes for,0,0,24
+took part	9,0,3	in the,7,0,1
+took place	14,2,40	in the,1,0,9|on may,5,0,0
+total number	1,4,27	of possible,0,0,8
+total union	0,9,0	production of,0,8,0
+total value	1,2,2	of the,0,1,2
+total volume	0,4,13	of the,0,1,4
+touchdown of	3,0,0	the game,2,0,0
+touchdown pass	10,0,0	to tight,3,0,0
+tour as	4,0,2	part of,0,0,2
+town of	5,0,98	north fork,0,0,31|butte crest,0,0,30
+track on	3,0,3	the album,1,0,1
+trade between	1,2,4	member states,0,2,0
+trade in	1,19,3	and imports,0,5,0
+trade within	0,3,0	the union,0,3,0
+training for	5,0,24	a k,0,0,7
+transfer to	4,2,10	a wire,0,0,3
+tranship or	0,5,0	land fish,0,5,0
+transmission of	0,22,13	the draft,0,14,0
+treatment between	0,3,0	fishing sectors,0,3,0
+treaty establishing	0,7,0	the european,0,7,0
+treaty on	0,215,0	the functioning,0,191,0
+treaty provides	0,3,0	that the,0,3,0
+trends relevant	0,7,0	for the,0,7,0
+tries to	9,0,493	convince his,0,0,355
+trouble but	0,0,5	i wanted,0,0,4
+troubled teen	0,0,414	tries to,0,0,265
+turn of	4,0,8	the screw,0,0,5|the century,3,0,1
+twentieth day	0,49,0	following that,0,47,0
+two films	1,0,105	playing at,0,0,20
+two games	5,0,25	back from,0,0,11
+two kinds	3,1,0	of fates,2,0,0
+two main	4,2,44	types of,0,0,11
+two movie	0,0,213	tickets for,0,0,60
+two teams	4,0,33	in the,2,0,5
+two tickets	0,0,5976	for the,0,0,950
+ugly as	0,0,311	captain john's,0,0,301
+uniform application	0,9,0	of the,0,7,0
+union are	0,7,9	currently in,0,0,3
+union for	1,17,1	foreign affairs,0,11,0
+union from	0,3,1	third countries,0,2,0
+union institutions	0,5,0	and bodies,0,2,0
+union may	0,6,0	adopt measures,0,4,0
+union production	0,8,0	of certain,0,4,0
+union waters	0,3,0	of iia,0,2,0
+union's external	0,3,0	action as,0,3,0
+united state's	0,0,247	most iconic,0,0,246
+united states	73,3,334	of america,0,3,23
+universities and	8,0,8	colleges in,5,0,0
+university college	3,0,1	of law,2,0,0
+university is	5,0,10	located in,0,0,3
+university of	72,0,211	texas campus,0,0,44
+unless it	2,3,10	was dissolved,2,0,0
+unrelated importers	0,6,0	and union,0,2,0
+until his	10,0,13	death in,3,0,6
+until the	31,15,358	end of,9,4,8
+up in	12,5,491	accordance with,0,4,0
+upon a	2,4,326	time in,0,0,232
+upon his	5,0,5	return to,1,0,2
+upper carniola	5,0,0	region of,5,0,0
+upstate from	0,0,283	her new,0,0,274
+uruguay round	0,18,0	multilateral trade,0,18,0
+us navy	4,0,3	captain in,0,0,2
+uses her	0,0,14	smarts to,0,0,8
+v of	0,4,3	the treaty,0,2,0|the annex,0,2,0
+v to	0,3,7	this regulation,0,2,0
+valid for	1,5,9	you to,0,0,4|four years,0,3,0
+validation of	0,3,7	the access,0,2,0
+value is	0,18,47	calculated each,0,18,0
+value was	1,4,3	based on,0,2,0
+values for	0,37,23	determining the,0,18,0|imports from,0,18,0
+values referred	0,18,0	to in,0,18,0
+various measures	0,3,2	referred to,0,3,0
+vast majority	6,0,12	of the,1,0,3
+vegetables and	1,20,43	processed fruit,0,19,0
+verification of	0,5,0	compliance with,0,2,0
+verification requirements	0,7,0	set out,0,3,0
+verification visits	0,3,0	were carried,0,3,0
+verify that	1,3,97	is ticket,0,0,22
+vessels after	0,5,0	that date,0,5,0
+vessels flying	0,8,0	the flag,0,8,0
+vessels in	0,3,4	the kidneys,0,0,2
+veterinary and	1,3,0	zootechnical checks,0,2,0
+veterinary certification	0,3,0	requirements for,0,2,0
+vi of	1,2,0	the annex,0,2,0
+via a	5,1,33	text message,0,0,12
+vice marshal	4,0,0	and appointed,2,0,0
+vice president	7,0,6	of the,2,0,1
+view to	0,32,9	the application,0,7,0
+views known	0,3,0	in writing,0,2,0
+village of	5,0,15	truth-tellers is,0,0,4
+virtue of	0,8,2	the reasons,0,7,0
+visiting professor	4,0,0	at the,2,0,0
+visits were	0,3,1	carried out,0,3,0
+voluntary basis	0,3,0	before the,0,2,0
+want amc	0,0,27	holiday theater,0,0,6
+want two	0,0,437	tickets for,0,0,139|tickets to,0,0,127
+war i	6,0,40	two british,0,0,8
+ward off	0,0,17	a hun,0,0,9
+was able	19,0,412	to find,0,0,218
+was added	5,0,11	to the,3,0,1
+was admitted	4,0,0	to the,2,0,0
+was adopted	1,2,8	by the,1,1,1
+was allocated	2,1,1	the same,2,0,0
+was another	3,0,32	movie i,0,0,7
+was assigned	6,0,1	to the,4,0,1
+was awarded	24,0,15	the nobel,0,0,11
+was based	4,3,25	on the,2,3,8|on a,0,0,7
+was built	22,0,14	in the,4,0,5
+was buried	7,0,2	in the,3,0,0
+was cast	3,0,2	out of,0,0,2
+was chosen	9,0,23	as the,3,0,2
+was collected	3,0,2	from the,2,0,0
+was concluded	0,6,0	that the,0,2,0
+was decided	4,5,3	to impose,0,3,0
+was described	5,0,2	as a,0,0,2
+was designated	4,1,1	a provincial,2,0,0|as the,0,1,1
+was elected	17,0,18	to the,5,0,4|as the,0,0,6
+was engaged	4,0,3	as a,2,0,0
+was established	10,6,13	in and,0,0,6
+was featured	6,0,6	on the,2,0,1|in the,1,0,2
+was formed	5,0,5	as a,1,0,2
+was found	15,4,22	to be,0,2,5
+was founded	18,0,46	in and,0,0,12
+was granted	4,2,4	a patent,0,0,2
+was hired	4,0,5	by the,1,0,2
+was hoping	0,0,618	you could,0,0,121
+was included	6,2,1	in the,4,0,1
+was inducted	3,0,2	into the,3,0,2
+was initiated	0,6,1	by the,0,2,1|by a,0,2,0|following a,0,2,0
+was inspired	4,0,10	by the,3,0,3|by a,0,0,5
+was intended	4,1,12	to be,1,0,4
+was invited	4,1,2	by the,2,0,0
+was involved	7,0,8	in a,2,0,2
+was killed	3,0,8	in a,1,0,2
+was known	11,0,66	for his,1,0,29|as the,3,0,5
+was listed	3,0,1	on the,2,0,0
+was located	6,0,12	in santa,0,0,4
+was moved	7,0,2	to the,3,0,0|to edo,0,0,2
+was noted	3,0,2	as the,2,0,0
+was one	31,0,124	of the,18,0,55
+was only	4,1,34	able to,0,0,8
+was part	13,0,14	of the,11,0,4|of a,1,0,4
+was placed	3,0,8	on the,1,0,2
+was played	5,0,87	yesterday against,0,0,17
+was presented	3,0,4	in the,0,0,2
+was provided	4,1,3	to the,2,0,0
+was published	14,4,6	in the,3,4,1
+was removed	5,0,4	after his,0,0,2
+was required	4,1,0	to be,2,0,0
+was responsible	9,0,6	for the,4,0,1
+was restored	3,1,0	in the,1,1,0
+was said	6,2,21	to be,2,1,4
+was seen	6,0,18	as a,1,0,9
+was sent	1,0,59	to your,0,0,44
+was serving	3,0,2	more than,0,0,2
+was shut	4,0,2	down in,1,0,1
+was submitted	1,5,0	to the,0,2,0
+was succeeded	4,0,2	by his,2,0,1
+was traded	4,0,0	to the,2,0,0
+was transferred	5,1,2	to the,2,0,1
+was unable	6,0,44	to find,0,0,13
+watch from	0,0,10	our choices,0,0,5
+waters for	0,4,0	certain fish,0,4,0
+way of	7,17,179	derogation from,0,11,0
+we look	0,0,68	forward to,0,0,22
+we want	0,0,789	to see,0,0,294|to go,0,0,146
+we would	0,0,733	like to,0,0,381
+weapons of	2,2,4	mass destruction,0,2,3
+weather but	0,0,335	a traitor,0,0,322
+weight as	1,2,6	well as,1,0,1
+weighted average	0,8,6	of the,0,0,4
+welcome to	0,0,171	the jungle,0,0,48
+well that's	0,0,255	pretty much,0,0,73
+were born	5,0,7	or lived,5,0,0
+were built	8,0,10	by skilled,0,0,4
+were carried	2,4,2	out at,0,2,0|out by,0,0,2
+were causing	1,2,0	material injury,0,2,0
+were considered	0,3,6	and taken,0,3,0
+were elected	3,0,0	using the,2,0,0
+were found	5,3,4	to be,0,2,0
+were granted	2,5,3	a patent,0,0,2
+were informed	0,3,0	of the,0,2,0
+were intended	3,0,0	to be,2,0,0
+were located	4,0,1	in the,2,0,0
+were no	4,1,22	match for,1,0,6
+were not	23,8,111	scheduled to,0,0,19
+were part	3,0,5	of a,1,0,4
+were placed	4,0,1	in service,2,0,0
+were released	5,0,8	last week,0,0,3
+were said	3,0,5	to have,3,0,0|by a,0,0,3
+were sent	2,6,20	to your,0,0,12|to the,1,3,0
+were taken	2,3,5	into account,0,2,0
+were up	3,0,1	for election,2,0,0
+west side	3,0,14	of town,0,0,4|of the,2,0,1
+what can	1,0,514	i do,0,0,115|you tell,0,0,108
+what city	0,0,663	are you,0,0,141|would you,0,0,124
+what day	0,0,733	would you,0,0,238|and time,0,0,113
+what did	0,0,484	you want,0,0,117
+what do	0,0,1216	you want,0,0,235
+what genre	0,0,291	of movie,0,0,49
+what movie	0,0,1308	would you,0,0,217
+what movies	0,0,943	are playing,0,0,366
+what specifically	0,0,28	would you,0,0,10
+what theater	0,0,813	would you,0,0,179
+what theatre	0,0,90	would you,0,0,28
+what time	0,0,3890	would you,0,0,740
+what times	0,0,751	are available,0,0,115
+what was	7,1,1229	the score,0,0,291
+what would	1,0,1255	you like,0,0,754
+what's not	0,0,13	my problem,0,0,7|my problem's,0,0,5
+what's playing	0,0,340	at the,0,0,69
+when it	16,2,508	comes to,0,0,184
+when member	0,6,0	states adopt,0,6,0
+when preparing	0,4,3	and drawing,0,2,0
+when she	12,0,176	gets unexpected,0,0,102
+where a	3,23,177	member state,0,7,0
+where are	0,0,883	you located,0,0,160
+where do	0,0,693	you want,0,0,463
+where it	14,3,228	is playing,0,0,64
+where there	7,15,54	is a,1,4,6
+where will	0,0,203	you be,0,0,123
+where would	0,0,914	you like,0,0,811
+where you	0,0,678	want to,0,0,109
+whereby the	1,18,0	commission fixes,0,18,0
+whether or	2,11,81	not the,1,1,9
+which adds	0,7,7	any additional,0,7,0|to the,0,0,3
+which allowed	3,1,20	him to,0,0,5
+which allows	1,2,98	them to,0,0,17
+which at	2,2,3	the time,1,0,1|least one,1,1,0
+which day	0,0,195	would you,0,0,65
+which do	1,3,72	you prefer,0,0,27|you want,0,0,14
+which does	1,9,12	not conform,0,5,0
+which gave	5,0,4	them a,0,0,2
+which led	8,3,21	to the,1,2,9
+which made	3,0,11	it difficult,1,0,3
+which meant	6,0,2	tall or,0,0,2
+which movies	0,0,172	are playing,0,0,38
+which resulted	6,0,6	in the,2,0,3|in a,2,0,1
+which shall	0,4,3	be provided,0,2,0|i check,0,0,2
+which theater	0,0,877	would you,0,0,156
+which time	2,0,233	would you,0,0,82|do you,0,0,42
+which would	18,9,333	you like,0,0,100|you prefer,0,0,67
+whichever is	0,3,17	closest to,0,0,5|the latest,0,2,1
+while at	7,2,22	the same,3,2,2
+whilst ensuring	0,3,0	fair treatment,0,3,0
+who directed	1,0,145	the movie,1,0,59
+who do	1,2,230	they play,0,0,110
+who leaves	0,0,84	his european,0,0,55
+who made	2,2,26	significant contributions,1,0,8
+who moved	3,0,4	from new,0,0,2
+who moves	0,0,106	upstate from,0,0,57
+who played	17,0,15	as a,6,0,0
+who plays	5,0,81	as a,3,0,3
+who served	8,0,7	as the,2,0,2
+who so	0,5,0	requested were,0,4,0
+who they	3,0,90	played last,0,0,22
+who tries	1,0,89	to convince,0,0,69
+who won	3,0,63	the last,0,0,12
+who would	6,0,120	be king,0,0,36
+wholly or	0,7,0	partly based,0,7,0
+whom the	1,3,8	freezing of,0,3,0
+wider range	2,1,41	of applications,1,0,5
+will allow	1,2,96	you to,0,0,49
+will implement	0,3,1	the mandate,0,2,0
+will provide	0,2,118	you with,0,0,27
+win their	3,0,31	last game,0,0,20
+winning film	0,0,232	that delves,0,0,209
+with a	173,73,6846	view to,0,30,2
+with an	43,9,1279	american con,0,0,371
+with annex	0,10,0	ii to,0,5,0
+with beyond	0,0,75	the storm,0,0,75
+with financial	2,1,5	data such,0,0,2
+with five	3,0,50	wins and,0,0,19
+with full	3,0,40	bar on,0,0,19
+with no	7,0,390	time to,0,0,147
+with not	0,0,111	my problem,0,0,89
+with one	7,4,386	or more,0,3,2
+with regard	0,53,11	to the,0,21,1
+with respect	0,14,76	to the,0,5,28|to x,0,0,15
+with serious	1,2,0	difficulties with,0,2,0
+with the	329,418,5938	opinion of,0,74,0
+with third	0,3,5	party systems,0,0,3
+with this	2,9,196	directive by,0,5,0
+with whom	3,0,109	did they,0,0,26|they are,0,0,19
+within and	1,2,2	outside the,0,1,1
+within cn	0,6,0	codes ex,0,4,0|code ex,0,2,0
+within two	2,3,4	months of,0,2,0
+within which	0,3,2	they could,0,3,0
+without further	0,3,4	decision of,0,2,0|information i,0,0,2
+without prejudice	0,27,0	to the,0,13,0
+without the	8,6,178	need for,0,0,37
+woman named	1,0,36	sarah decker,0,0,16
+women are	3,0,36	the perfect,0,0,8
+won an	5,0,22	award and,0,0,6
+won the	42,0,305	game with,0,0,141
+wonders of	0,0,268	one of,0,0,242
+work on	12,1,581	her distant,0,0,285
+working procedures	0,3,0	and in,0,3,0
+world karate	5,0,0	federation official,2,0,0
+world trade	1,2,13	patterns due,0,2,0
+would allow	0,5,56	you to,0,0,14
+would also	5,2,502	like to,0,0,106
+would go	3,0,122	on to,2,0,4
+would lead	2,3,23	to a,0,1,6|to the,0,0,6
+would love	1,0,539	to see,0,0,128
+would need	1,1,346	to be,1,0,61
+would prevent	0,4,4	you from,0,0,2
+would you	0,0,17506	like to,0,0,8908
+written submissions	0,4,0	making their,0,2,0
+wrote a	7,1,9	letter to,1,1,1
+yard touchdown	10,0,0	pass to,3,0,0
+yards for	6,0,0	a touchdown,4,0,0
+year in	2,5,19	the fall,0,0,5
+year of	17,3,146	your car,0,0,46|birth missing,11,0,0
+years after	6,2,23	the civil,0,0,6
+years from	1,7,13	the date,0,6,0
+years prior	3,0,0	to the,2,0,0
+yes i	0,0,3574	would like,0,0,604
+york city	8,0,837	lifestyle to,0,0,276
+york times	10,0,17	square hotel,0,0,5
+yosemite in	0,0,243	all its,0,0,237
+you could	1,0,1975	help me,0,0,317
+you give	0,0,1823	me the,0,0,435|me a,0,0,393
+you going	0,0,327	to be,0,0,73
+you help	0,0,1956	me find,0,0,443|me with,0,0,343
+you interested	0,0,414	in seeing,0,0,114
+you like	0,0,16324	me to,0,0,2619
+you please	0,0,2293	tell me,0,0,380
+you ready	0,0,272	for me,0,0,143
+you show	0,0,252	me the,0,0,95|me a,0,0,47
+you tell	0,0,5787	me what,0,0,1123|me the,0,0,929
+you would	1,0,4137	like to,0,0,1820
+your order	0,0,2816	will be,0,0,687
+your tickets	0,0,1934	are confirmed,0,0,367|have been,0,0,317
+your total	1,0,382	will be,0,0,75
+zones in	0,5,2	the event,0,2,0

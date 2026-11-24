@@ -57,7 +57,7 @@ function addSettingsButton(plugin, WindowClass, onSave) {
       isVisual: true,
       isModal: true,
       EditorsSupport: ["word"],
-      size: [485, 350],
+      size: [500, 510],
       buttons: [],
     });
   });

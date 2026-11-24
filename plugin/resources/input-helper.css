@@ -1,0 +1,10 @@
+/* Метка клавиши следует за выделением, которым управляет штатный список ONLYOFFICE. */
+#ih_elements_id > li:not(.li_selected):hover {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+#ih_elements_id > .li_selected::after {
+  content: "  [Tab]";
+  white-space: pre;
+}

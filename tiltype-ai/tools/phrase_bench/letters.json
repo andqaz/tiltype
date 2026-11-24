@@ -1,0 +1,66 @@
+{
+  "development": [
+    [
+      ["Переносим пуск линии на понедельник. От поставщика поступил новый график поставок. По нему последнюю партию деталей привезут вечером в пятницу. Бригаде нужно заранее заказать транспорт. Просим согласовать", "график поставок до конца рабочего дня и прислать копию диспетчеру."],
+      ["Желіні дүйсенбі күні іске қосамыз. Жеткізуші жеткізу кестесін кеше өзгертті. Соңғы бөлшектер жұма күні кешке келеді. Бригада көлікке алдын ала тапсырыс беруі керек. Бүгін сағат беске дейін", "жеткізу кестесін бекітіп, көшірмесін диспетчерге жіберуіңізді сұраймыз."],
+      ["We are moving the launch to Monday. The supplier has revised the delivery schedule. The last shipment of parts will arrive on Friday evening. The crew needs to book transport in advance. Please confirm", "the delivery schedule by noon and send a copy to dispatch."]
+    ],
+    [
+      ["Отдел кадров завершил расчёты. На рассмотрение направлен бюджет поездки. В расходы включены билеты и две ночи в гостинице. Завтра бухгалтерия закрывает приём заявок. Просим согласовать", "бюджет поездки и сообщить сумму аванса нашему координатору."],
+      ["Кадр бөлімі шығындарды есептеп шықты. Іссапар бюджетін қарауға жібердік. Оған жол ақысы мен қонақүйде екі түн қону құны кіреді. Ертең бухгалтерия өтінімдерді қабылдауды тоқтатады. Бүгін сағат беске дейін", "іссапар бюджетін қарап, аванс сомасын үйлестірушіге хабарлауыңызды сұраймыз."],
+      ["Finance has reviewed the travel budget. It covers rail tickets and two nights at the hotel. The team will book the rooms as soon as approval comes through. Please confirm", "the travel budget before accounts closes tomorrow."]
+    ],
+    [
+      ["Для новой мастерской подготовили план эвакуации. На схеме отмечены оба выхода и место сбора у ворот. После проверки документа инструктор проведёт занятие с ночной сменой. Во вложении вы найдёте", "план эвакуации с пояснениями инженера по безопасности."],
+      ["Жаңа шеберханаға арнап эвакуация жоспарын әзірледік. Сызбада екі шығу жолы мен қақпа жанындағы жиналу орны белгіленген. Құжат тексерілген соң нұсқаушы түнгі ауысымға сабақ өткізеді. Осы хатқа", "эвакуация жоспарын және қауіпсіздік инженерінің түсіндірмесін қоса жібердік."],
+      ["The safety team has drawn up an evacuation plan for the new workshop. Both exits and the assembly point by the gate are marked. The night shift will practise the route next week. Attached is", "the evacuation plan with notes from the safety engineer."]
+    ],
+    [
+      ["Преподаватели прислали расписание занятий на следующую неделю. Первая группа начинает утром, а вечерний поток переезжает в соседний корпус. Пожалуйста, предупредите студентов об изменениях заранее. Во вложении вы найдёте", "расписание занятий с номерами аудиторий и временем начала."],
+      ["Оқытушылар келесі аптаның сабақ кестесін дайындап қойды. Бірінші топ таңертең келеді, ал кешкі топ көрші ғимаратқа ауысады. Студенттерге өзгеріс туралы алдын ала хабарлаңыздар. Осы хатқа", "сабақ кестесін аудитория нөмірлерімен бірге тіркеп жібердік."],
+      ["The tutors have revised the class timetable for next week. The morning group starts earlier and the evening group moves to the next building. Please let the students know before Friday. Attached is", "the class timetable with room numbers and starting times."]
+    ],
+    [
+      ["Спасибо за предоставленные образцы ткани. После стирки цвет сохранился, однако край одного образца немного растянулся. Мы повторим проверку в другой лаборатории. Если результат подтвердится, предложим заменить материал для летней формы.", "Ответ сообщим на следующей неделе."],
+      ["Жіберген мата үлгілеріңіз үшін рақмет. Жуғаннан кейін түсі өзгерген жоқ, бірақ бір үлгінің шеті сәл созылып кетті. Тексеруді басқа зертханада қайталаймыз. Нәтиже расталса, жазғы киімге басқа мата таңдауды ұсынамыз.", "Жауабын келесі аптада хабарлаймыз."],
+      ["Thank you for sending the fabric samples. The colour held after washing, although the edge of one sample stretched slightly. A second laboratory will repeat the test. If the result holds, we will suggest a different fabric for the summer uniform.", "Expect our reply next week."]
+    ],
+    [
+      ["Добрый день! Читатели просят продлить выдачу книг по субботам. Предлагаем открыть стойку на час раньше и посмотреть, сколько человек придёт до обеда. Через месяц сравним данные с обычным расписанием.", "Будем рады вашим замечаниям."],
+      ["Сәлеметсіз бе! Оқырмандар сенбі күні кітап беру уақытын ұзартуды сұрап жүр. Қызмет көрсету орнын бір сағат ерте ашып, түске дейін қанша адам келетінін байқап көрсек дейміз. Бір айдан соң нәтижені бұрынғы көрсеткіштермен салыстырамыз.", "Пікіріңізді күтеміз."],
+      ["Readers have asked for longer library hours on Saturdays. We propose opening the desk an hour earlier and counting visits before lunch. After a month we can compare attendance with the usual timetable.", "Please send us your comments."]
+    ]
+  ],
+  "test": [
+    [
+      ["В учебном центре появился свободный зал. Мы предварительно забронировали дату семинара, чтобы участники успели купить билеты. После ответа центра разошлём приглашения региональным коллегам. Пожалуйста, подтвердите", "дату семинара в ответном письме до вторника."],
+      ["Оқу орталығында зал босады. Қатысушылар билет алып үлгеруі үшін семинар күнін алдын ала белгілеп қойдық. Орталықтан жауап келген соң өңірлердегі әріптестерге шақыру жібереміз. Сейсенбіге дейін", "семинар күнін растап, бізге жауап жазуыңызды сұраймыз."],
+      ["A room has become available at the training centre. We have provisionally booked the seminar date so delegates can buy their tickets. Once the centre replies we will send invitations to our regional colleagues. Could you confirm", "the seminar date in writing by Tuesday?"]
+    ],
+    [
+      ["Механик осмотрел насос и подготовил смету ремонта. Стоимость запасных частей указана отдельно от работы мастера. Чтобы цех не простаивал ещё неделю, мы готовы передать оборудование завтра. Пожалуйста, подтвердите", "смету ремонта и время приёмки оборудования."],
+      ["Механик сорғыны қарап шығып, жөндеу сметасын әзірледі. Қосалқы бөлшектердің құны шебердің еңбекақысынан бөлек көрсетілген. Цех тағы бір апта тоқтап қалмауы үшін жабдықты ертең тапсыруға дайынбыз. Сейсенбіге дейін", "жөндеу сметасын және жабдықты қабылдау уақытын растаңыз."],
+      ["The mechanic has inspected the pump and drawn up a repair estimate. Parts and labour are listed separately. We can send the pump tomorrow to avoid another week of lost production. Could you confirm", "the repair estimate and the time for delivery?"]
+    ],
+    [
+      ["Архив завершил оцифровку старых фотографий. Для каждой папки составили список файлов с указанием года и автора снимка. Если подпись плохо читается, поле оставлено пустым. Направляем вам", "список файлов для сверки с бумажным каталогом."],
+      ["Архив ескі фотосуреттерді цифрлауды аяқтады. Әр бума үшін түсірілген жылы мен авторы көрсетілген файлдар тізімі жасалды. Жазуы анық көрінбеген суреттердің тиісті жолы бос қалдырылды. Сізге тексеру үшін", "файлдар тізімін қағаз каталогпен бірге жіберіп отырмыз."],
+      ["The archive has finished scanning the old photographs. Each folder has a file list with the date and the name of the photographer. Where a caption was illegible the field was left empty. We are sending", "the file list for comparison with the paper catalogue."]
+    ],
+    [
+      ["Полевые работы завершены. На основании замеров составили карту глубин для северного берега. Несколько точек осмотрим повторно, когда спадёт вода. Для планирования летнего маршрута этих сведений достаточно. Направляем вам", "карту глубин и краткие пояснения к отметкам."],
+      ["Дала жұмыстары аяқталды. Өлшеу нәтижелері бойынша солтүстік жағалаудың тереңдік картасы жасалды. Су қайтқан кезде бірнеше нүктені қайта тексереміз. Жазғы бағытты жоспарлауға әзірге осы мәлімет жеткілікті. Сізге тексеру үшін", "тереңдік картасын және белгілердің қысқаша түсіндірмесін жолдаймыз."],
+      ["The field survey is complete. Using the measurements we produced a depth chart for the northern shore. We will revisit a few points once the water level falls. There is enough information to plan the summer route. We are sending", "the depth chart with a short explanation of the markings."]
+    ],
+    [
+      ["Благодарим за экскурсию по станции. Особенно запомнилось, как диспетчер распределяет поезда при задержке состава. После поездки дети нарисовали схемы путей и написали несколько вопросов. Передайте, пожалуйста, наши письма дежурной смене.", "Ответ можно отправить на адрес школы."],
+      ["Станцияны аралатып көрсеткеніңізге рақмет. Пойыз кешіккенде диспетчердің қозғалысты қалай реттейтіні балалардың есінде қалыпты. Сапардан кейін олар жолдардың сызбасын салып, бірнеше сұрақ жазды. Хаттарымызды кезекші ауысымға табыстауыңызды өтінеміз.", "Жауапты мектептің мекенжайына жібере аласыз."],
+      ["Thank you for showing our class around the station. The children especially enjoyed watching the dispatcher handle a delayed train. Back at school they drew track diagrams and wrote a few questions. Please pass their letters to the team on duty.", "Replies can be sent to the school office."]
+    ],
+    [
+      ["Во дворе после дождя скапливается вода. Жильцы уже прочистили решётку, но лужа у подъезда стала больше. Просим прислать специалиста, чтобы проверить уклон дорожки. Утром во вторник консьерж откроет служебную калитку.", "При необходимости пришлём фотографии."],
+      ["Жаңбырдан кейін аулаға су жиналады. Тұрғындар торды тазалап шықты, алайда кіреберістегі шалшық ұлғайып барады. Жолдың еңісін тексеруге маман жіберуіңізді сұраймыз. Сейсенбі күні таңертең кезекші қызметтік қақпаны ашып береді.", "Қажет болса фотосуреттерді жібереміз."],
+      ["Water collects in the courtyard after rain. Residents cleared the drain cover but the puddle by the entrance has grown. Please send someone to check the slope of the path. The caretaker can open the service gate on Tuesday morning.", "We can provide photographs if needed."]
+    ]
+  ]
+}

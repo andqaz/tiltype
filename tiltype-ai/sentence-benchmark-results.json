@@ -1,0 +1,283 @@
+{
+  "sample": {
+    "partition": "evaluation",
+    "perLanguage": 3000,
+    "longPerLanguage": 1500,
+    "languages": [
+      "en",
+      "ru",
+      "kk"
+    ],
+    "sha256": "7ad53b9b66cfd9037a0df55cd0af1cd6b56777e17875e59936f9113e2e954f0f"
+  },
+  "repeats": 3,
+  "dictionary": {
+    "sha256": "812269929c8ae8ee22d5aaf4f0f1f10469485837d1fd8a77fb56e4c1984267da",
+    "packageBytes": 17447440,
+    "version": "1.7.0",
+    "quality": {
+      "en": {
+        "tested": 3000,
+        "matched": 813,
+        "covered": 3000,
+        "predictionsSha256": "9bb76f5e119ab61112deb72074b8882cd3b4e8738601df8355f70f40e25e50f6",
+        "optionsSha256": "8efeaf7b0c4cf08b661de18794ce81921e1d2753fe6e37579cb913e8e2a936f3",
+        "alternativesMatched": 813,
+        "longTested": 1500,
+        "longMatched": 401,
+        "phraseOffered": 0,
+        "phraseExact": 0
+      },
+      "ru": {
+        "tested": 3000,
+        "matched": 536,
+        "covered": 3000,
+        "predictionsSha256": "69b8f381fece17c91a8a636e90c49c190fa6f353438a8cd17647449c43501810",
+        "optionsSha256": "998b457a4298db1a6663d9d60c0bd5513ab8c30949b5cea5ec8a3f55009d504f",
+        "alternativesMatched": 536,
+        "longTested": 1500,
+        "longMatched": 272,
+        "phraseOffered": 0,
+        "phraseExact": 0
+      },
+      "kk": {
+        "tested": 3000,
+        "matched": 409,
+        "covered": 3000,
+        "predictionsSha256": "70d9a59991e953a03c987bf27f7d6afdf04c653d665c60bc710e377252318e94",
+        "optionsSha256": "abe82993b692a5ec896cf071099482ecd7a6877eefec471106eadabb64e6950b",
+        "alternativesMatched": 409,
+        "longTested": 1500,
+        "longMatched": 212,
+        "phraseOffered": 0,
+        "phraseExact": 0
+      }
+    },
+    "loadMs": 1049.0878,
+    "loadedRssDeltaMB": 271.794176,
+    "steadyRssMB": 341.74976,
+    "peakRssMB": 429.637632,
+    "timings": {
+      "calls": 9000,
+      "latencyP50Ms": 0.006300000000010186,
+      "latencyP95Ms": 0.02189999999995962,
+      "wallMsPer1000": 9.238077777777765,
+      "cpuMsPer1000": 15.555555555555555
+    }
+  },
+  "baselineNeural": {
+    "sha256": "7dc0d9031eccd11a0816960bf8f19bab2efb6f1f891ddd25b0ab07e86acaa1cd",
+    "packageBytes": 3535004,
+    "version": "0.1.0",
+    "vocabularySize": {
+      "en": 16384,
+      "ru": 16384,
+      "kk": 16384
+    },
+    "quality": {
+      "en": {
+        "tested": 3000,
+        "matched": 667,
+        "covered": 3000,
+        "predictionsSha256": "8f79c63c3c7f34eee2172174d6916361f04eeba5f1e9aac0648891c12789d094",
+        "optionsSha256": "839c4d30114428697fc69d96cefe2a054c43daaec8dd5bd7358b09b64824e9cc",
+        "alternativesMatched": 667,
+        "longTested": 1500,
+        "longMatched": 310,
+        "phraseOffered": 0,
+        "phraseExact": 0
+      },
+      "ru": {
+        "tested": 3000,
+        "matched": 388,
+        "covered": 3000,
+        "predictionsSha256": "0aa6eab62ef994b74dc89f5116c903411d168f776ed93ea7be29d211626f761f",
+        "optionsSha256": "c8e279c84f0930cca1f0667a36f78ca7ee43ef7da459bd0312f0b5bea6afb35e",
+        "alternativesMatched": 388,
+        "longTested": 1500,
+        "longMatched": 171,
+        "phraseOffered": 0,
+        "phraseExact": 0
+      },
+      "kk": {
+        "tested": 3000,
+        "matched": 348,
+        "covered": 3000,
+        "predictionsSha256": "1205f265dffe05cc9876f05df5a9f32ac41e4355391d922f16a08c8e0af7b3ab",
+        "optionsSha256": "d3a535d698017269e12a5a7245487784f69e86eb8061d8936941ad08edc65705",
+        "alternativesMatched": 348,
+        "longTested": 1500,
+        "longMatched": 168,
+        "phraseOffered": 0,
+        "phraseExact": 0
+      }
+    },
+    "loadMs": 12.740699999999997,
+    "loadedRssDeltaMB": 12.955648000000004,
+    "steadyRssMB": 77.021184,
+    "peakRssMB": 79.458304,
+    "timings": {
+      "calls": 9000,
+      "latencyP50Ms": 0.23739999999997963,
+      "latencyP95Ms": 1.3486999999995533,
+      "wallMsPer1000": 303.8172555555555,
+      "cpuMsPer1000": 281.1111111111111
+    }
+  },
+  "phrases": {
+    "sha256": "c1e474f9273948cccebda0f6f7f360f24ff7f28930fecd4fb14ad0c28c5613d1",
+    "packageBytes": 4064059,
+    "version": "0.1.0",
+    "vocabularySize": {
+      "en": 16384,
+      "ru": 16384,
+      "kk": 16384
+    },
+    "quality": {
+      "en": {
+        "tested": 3000,
+        "matched": 675,
+        "covered": 2722,
+        "predictionsSha256": "bb7b6624c70c05f0812c0e9b82c8a401ec615561bcdb2728d544c7bd8f2f2a4c",
+        "optionsSha256": "55bdd12042d06cc2fc8df2cdea47c5390753ce30be5af0f4e5978766a63113b6",
+        "alternativesMatched": 997,
+        "longTested": 1500,
+        "longMatched": 314,
+        "phraseOffered": 77,
+        "phraseExact": 44
+      },
+      "ru": {
+        "tested": 3000,
+        "matched": 450,
+        "covered": 2597,
+        "predictionsSha256": "619e1e0ee5548610948af68839a91da959ec4f6b2ff4d923b0fcdbbbce011fae",
+        "optionsSha256": "3e2f526f6226e12dae4e933213414c8ef505c938d6fe7b6eb71ab539722ad842",
+        "alternativesMatched": 653,
+        "longTested": 1500,
+        "longMatched": 209,
+        "phraseOffered": 24,
+        "phraseExact": 17
+      },
+      "kk": {
+        "tested": 3000,
+        "matched": 309,
+        "covered": 1845,
+        "predictionsSha256": "57c33b55c8a151f2257dabf74c0a12ac74c7b6ecc39b462ee10b43a86b659b59",
+        "optionsSha256": "c1974ff4625c5754977ede02c9f8ac28cfc72d41bf9edab69d7c6db69ad30f24",
+        "alternativesMatched": 428,
+        "longTested": 1500,
+        "longMatched": 152,
+        "phraseOffered": 12,
+        "phraseExact": 6
+      }
+    },
+    "loadMs": 35.309599999999996,
+    "loadedRssDeltaMB": 19.025920000000006,
+    "steadyRssMB": 84.19328,
+    "peakRssMB": 86.87616,
+    "timings": {
+      "calls": 9000,
+      "latencyP50Ms": 0.37489999999979773,
+      "latencyP95Ms": 1.5029999999987922,
+      "wallMsPer1000": 516.5390333333335,
+      "cpuMsPer1000": 505.22222222222223
+    }
+  },
+  "previousPhrases": {
+    "sha256": "87de6ebd570c4c74fb1862146ae04037c4b1723349bd2a05bb275e7bfc23c9d6",
+    "packageBytes": 4028247,
+    "version": "0.1.0",
+    "vocabularySize": {
+      "en": 16384,
+      "ru": 16384,
+      "kk": 16384
+    },
+    "quality": {
+      "en": {
+        "tested": 3000,
+        "matched": 674,
+        "covered": 2722,
+        "predictionsSha256": "28d7d6af46c2abbcd5b0519f81affea1e5f4b8a02d2069999201c74c65944efb",
+        "optionsSha256": "3bd9429b0714f6177b659454a74991ba7e8dc296444993acf9f58edb808bdb28",
+        "alternativesMatched": 996,
+        "longTested": 1500,
+        "longMatched": 314,
+        "phraseOffered": 73,
+        "phraseExact": 44
+      },
+      "ru": {
+        "tested": 3000,
+        "matched": 447,
+        "covered": 2594,
+        "predictionsSha256": "a2df6aef4770aa3b39806ece7dc74f525ac0fc42776f2115870fd8696cf77818",
+        "optionsSha256": "cc3a75877749bd045a215470e7ae3bc13a39f26b45e89dfd4da1ed2266a07bd7",
+        "alternativesMatched": 650,
+        "longTested": 1500,
+        "longMatched": 206,
+        "phraseOffered": 21,
+        "phraseExact": 14
+      },
+      "kk": {
+        "tested": 3000,
+        "matched": 307,
+        "covered": 1844,
+        "predictionsSha256": "4fcfafb2ad07d432cc87edb7815343c3d3f37486746789f1cddb84bbeaeeb63e",
+        "optionsSha256": "636d5377d85d011e6706dd981f7a02be354f45518a861ca6b681c0ae619132b9",
+        "alternativesMatched": 426,
+        "longTested": 1500,
+        "longMatched": 151,
+        "phraseOffered": 10,
+        "phraseExact": 4
+      }
+    },
+    "loadMs": 32.5741,
+    "loadedRssDeltaMB": 18.415616000000007,
+    "steadyRssMB": 83.64032,
+    "peakRssMB": 86.212608,
+    "timings": {
+      "calls": 9000,
+      "latencyP50Ms": 0.37669999999889114,
+      "latencyP95Ms": 1.4909000000006927,
+      "wallMsPer1000": 519.6319666666666,
+      "cpuMsPer1000": 489.6666666666667
+    }
+  },
+  "sameModelWithSixWords": {
+    "en": {
+      "tested": 3000,
+      "matched": 667,
+      "covered": 2700,
+      "predictionsSha256": "6c321d57b3f7a54a1a8b8a8f3b5b0fdb12341d4eaf236d557828a0197a2c6fd9",
+      "optionsSha256": "093e52d004d08887bc55b3d7bd5ca0acd6c7f795857f271573e81a8cb78c9d4e",
+      "alternativesMatched": 979,
+      "longTested": 1500,
+      "longMatched": 306,
+      "phraseOffered": 75,
+      "phraseExact": 43
+    },
+    "ru": {
+      "tested": 3000,
+      "matched": 456,
+      "covered": 2563,
+      "predictionsSha256": "843a2430519c66683f5326aabcf52fe8fdfc0e2358be47dc0a32dd1cee99ce10",
+      "optionsSha256": "03f95c40fabf9c4eb820f026f921ff93e7357f592cff058178d724de54c9d955",
+      "alternativesMatched": 646,
+      "longTested": 1500,
+      "longMatched": 215,
+      "phraseOffered": 25,
+      "phraseExact": 17
+    },
+    "kk": {
+      "tested": 3000,
+      "matched": 303,
+      "covered": 1813,
+      "predictionsSha256": "fbf6e18fd0015e26b49b5e34441569b0d98fe675ecf555a0b48aec7b7494980d",
+      "optionsSha256": "8e4e793611aae20fda3ee95e576bd36cc8d75422f49f35111c56ba1fa87e63f2",
+      "alternativesMatched": 420,
+      "longTested": 1500,
+      "longMatched": 146,
+      "phraseOffered": 12,
+      "phraseExact": 6
+    }
+  }
+}

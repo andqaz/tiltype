@@ -1,0 +1,7 @@
+/* Стили автономного просмотрщика контекста и альтернативных продолжений. */
+:root{font:16px/1.5 "Segoe UI",system-ui,sans-serif;color:#172c31;background:#edf2ef}
+*{box-sizing:border-box}main{max-width:950px;margin:36px auto;padding:0 22px}header,nav,.actions,.pager{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+header{justify-content:space-between}h1{font-size:clamp(24px,4vw,38px);letter-spacing:-.03em}h2{font-size:1rem;margin-bottom:4px}
+section,nav{background:#fff;border:1px solid #ccd9d4;border-radius:12px;padding:20px;margin:14px 0}
+label{font-size:.85rem;color:#3e5455;display:grid;gap:4px;flex:1;min-width:145px}button,select{font:inherit;padding:7px 12px;border:1px solid #9cafa8;border-radius:6px;background:white;color:inherit}button,summary{cursor:pointer}button:disabled{opacity:.45;cursor:default}button:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid #31866f}
+.pager{justify-content:space-between}blockquote{white-space:pre-wrap;border-left:4px solid #37856f;background:#f3f7f6;padding:16px;margin:12px 0;font-size:1.12rem}#first{font-weight:650;font-size:1.35rem;margin-top:0}#meta,output{font-size:.89rem;color:#49605b}details{border-top:1px solid #d6e1dc;margin-top:16px;padding-top:12px}summary{font-weight:600}#sources p{overflow-wrap:anywhere}#yes{background:#205f50;color:white}mark{background:#f6e7b4;color:inherit}

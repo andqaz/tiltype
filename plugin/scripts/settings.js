@@ -4,12 +4,14 @@
  */
 "use strict";
 
-/** @typedef {{ spelling: boolean, layout: boolean, proofing: boolean, punctuation: boolean, spaceAfterEnter: boolean, language: DictionaryLanguage | "auto" }} CorrectionSettings */
+/** @typedef {"dictionary" | "word" | "phrases" | "gru"} PredictionMode */
+/** @typedef {{ formatToolbar: boolean, spelling: boolean, layout: boolean, proofing: boolean, punctuation: boolean, spaceAfterTab: boolean, nextWord: boolean, predictionMode: PredictionMode, predictionHistory: boolean, language: DictionaryLanguage | "auto" }} CorrectionSettings */
 
 const correctionSettings = (() => {
   const storageKey = "autocomplete-ru-kk-en.corrections";
   /** @type {CorrectionSettings} */
-  let current = { spelling: false, layout: false, proofing: true, punctuation: true, spaceAfterEnter: false, language: "auto" };
+  let current = { formatToolbar: true, spelling: false, layout: false, proofing: true, punctuation: true, spaceAfterTab: false,
+    nextWord: true, predictionMode: "phrases", predictionHistory: true, language: "auto" };
 
   /**
    * Проверяет настройки при чтении из хранилища или получении из окна.
@@ -24,8 +26,14 @@ const correctionSettings = (() => {
     if (language !== "auto" && language !== "ru" && language !== "kk" && language !== "en") return null;
     const proofing = !("proofing" in value) || value.proofing === true;
     const punctuation = !("punctuation" in value) || value.punctuation === true;
-    const spaceAfterEnter = "spaceAfterEnter" in value && value.spaceAfterEnter === true;
-    return { spelling, layout, language, proofing, punctuation, spaceAfterEnter };
+    const spaceAfterTab = "spaceAfterTab" in value ? value.spaceAfterTab === true :
+      "spaceAfterEnter" in value && value.spaceAfterEnter === true;
+    const nextWord = "nextWord" in value && value.nextWord === true;
+    const mode = "predictionMode" in value ? value.predictionMode : "phrases";
+    const predictionMode = mode === "word" || mode === "dictionary" || mode === "gru" ? mode : "phrases";
+    const predictionHistory = !("predictionHistory" in value) || value.predictionHistory === true;
+    const formatToolbar = !("formatToolbar" in value) || value.formatToolbar === true;
+    return { formatToolbar, spelling, layout, language, proofing, punctuation, spaceAfterTab, nextWord, predictionMode, predictionHistory };
   }
 
   /** Возвращает текущие настройки профиля редактора. */
@@ -54,12 +62,20 @@ const correctionSettings = (() => {
 
 const settingsLabels = {
   en: {
-    title: "TilType settings",
+    title: "TilType AI settings",
+    formatToolbar: "Show the formatting toolbar when text is selected",
     spelling: "Correct common spelling mistakes",
     layout: "Correct text typed in the wrong layout (RU ↔ EN)",
     proofing: "Detect the spell-check language for each part of the text",
     punctuation: "Suggest punctuation corrections in the context menu",
-    spaceAfterEnter: "Add a space after accepting a suggestion with Enter",
+    spaceAfterTab: "Add a space after accepting a suggestion with Tab",
+    nextWord: "Suggest continuations after a space. Press Tab to insert.",
+    predictionMode: "Prediction engine",
+    predictionDictionary: "Dictionary",
+    predictionWord: "AI · Next word",
+    predictionPhrases: "AI · Phrases",
+    predictionGru: "AI · Phrases with GRU (experimental)",
+    predictionHistory: "Use earlier text in the document for phrase suggestions",
     language: "Preferred language for corrections",
     auto: "Automatic",
     detail: "Corrections apply in text documents after a space. The system keyboard layout stays the same.",
@@ -68,12 +84,20 @@ const settingsLabels = {
     error: "Could not save settings.",
   },
   ru: {
-    title: "Настройки TilType",
+    title: "Настройки TilType AI",
+    formatToolbar: "Показывать панель форматирования при выделении текста",
     spelling: "Исправлять частые опечатки",
     layout: "Исправлять набор в неверной раскладке (RU ↔ EN)",
     proofing: "Определять язык проверки для фрагментов текста",
     punctuation: "Предлагать исправления пунктуации в контекстном меню",
-    spaceAfterEnter: "Ставить пробел после вставки подсказки клавишей Enter",
+    spaceAfterTab: "Ставить пробел после вставки подсказки клавишей Tab",
+    nextWord: "Предлагать продолжения после пробела. Вставка по Tab.",
+    predictionMode: "Движок подсказок",
+    predictionDictionary: "Словарь",
+    predictionWord: "ИИ · Следующее слово",
+    predictionPhrases: "ИИ · Фразы",
+    predictionGru: "ИИ · Фразы с GRU (экспериментально)",
+    predictionHistory: "Учитывать предыдущий текст документа при прогнозе фраз",
     language: "Предпочтительный язык исправлений",
     auto: "Автоматически",
     detail: "Исправления работают в текстовых документах после пробела. Раскладка клавиатуры Windows остаётся прежней.",
@@ -82,12 +106,20 @@ const settingsLabels = {
     error: "Не удалось сохранить настройки.",
   },
   kk: {
-    title: "TilType баптаулары",
+    title: "TilType AI баптаулары",
+    formatToolbar: "Мәтін таңдалғанда пішімдеу тақтасын көрсету",
     spelling: "Жиі кездесетін теру қателерін түзету",
     layout: "Қате пернетақта жаймасымен терілген мәтінді түзету (RU ↔ EN)",
     proofing: "Мәтін бөліктерінің емле тексеру тілін анықтау",
     punctuation: "Мәтінмәндік мәзірде тыныс белгілерін түзетуді ұсыну",
-    spaceAfterEnter: "Ұсынысты Enter пернесімен енгізгеннен кейін бос орын қосу",
+    spaceAfterTab: "Ұсынысты Tab пернесімен енгізгеннен кейін бос орын қосу",
+    nextWord: "Бос орыннан кейін жалғасын ұсыну. Tab пернесімен енгізу.",
+    predictionMode: "Ұсыныс қозғалтқышы",
+    predictionDictionary: "Сөздік",
+    predictionWord: "ЖИ · Келесі сөз",
+    predictionPhrases: "ЖИ · Тіркестер",
+    predictionGru: "ЖИ · GRU тіркестері (сынақ)",
+    predictionHistory: "Тіркес ұсынғанда құжаттың алдыңғы мәтінін ескеру",
     language: "Түзетуге арналған тіл",
     auto: "Автоматты түрде",
     detail: "Түзету мәтіндік құжаттарда бос орыннан кейін орындалады. Жүйелік пернетақта жаймасы өзгермейді.",

@@ -3,11 +3,13 @@
 import json
 from html.parser import HTMLParser
 from pathlib import Path
+from tempfile import TemporaryDirectory
 from zipfile import ZIP_DEFLATED, ZipFile
+from package_neural import neural_scripts, required_models
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = ROOT / "plugin"
-OUTPUT = ROOT / "dist" / "tiltype.plugin"
+OUTPUT = ROOT / "dist" / "tiltype-ai-unified.plugin"
 WEB_SDK = "https://onlyoffice.github.io/sdkjs-plugins/v1/"
 DESKTOP_SDK = "../v1/"
 
@@ -47,6 +49,8 @@ def main() -> None:
         for scale in ("", "@1.25x", "@1.5x", "@1.75x", "@2x")
     ]
     required += [f"dictionaries/{language}.txt" for language in ("en", "kk", "ru")]
+    required += [f"dictionaries/predict-{language}.json" for language in ("en", "kk", "ru")]
+    required += [f"dictionaries/predict-{language}-fallback.json" for language in ("en", "kk", "ru")]
     required += [
         f"dictionaries/hunspell/{locale}/{locale}.{extension}"
         for locale in ("en_US", "ru_RU", "kk_KZ")
@@ -55,27 +59,34 @@ def main() -> None:
     parser = LocalResources()
     for page in pages:
         parser.feed((PLUGIN / page).read_text(encoding="utf-8"))
+    required.extend(required_models(PLUGIN))
     required.extend(parser.paths)
+    shared = neural_scripts(ROOT, parser.paths)
     for resource in required:
-        if not (PLUGIN / resource).is_file():
-            raise FileNotFoundError(PLUGIN / resource)
+        source = shared.get(resource, PLUGIN / resource)
+        if not source.is_file():
+            raise FileNotFoundError(source)
 
     OUTPUT.parent.mkdir(exist_ok=True)
-    with ZipFile(OUTPUT, "w", ZIP_DEFLATED, compresslevel=9) as archive:
-        for file in sorted(PLUGIN.rglob("*")):
-            if file.is_file():
-                name = file.relative_to(PLUGIN).as_posix()
-                if file.suffix == ".html":
-                    desktop_page = file.read_text(encoding="utf-8").replace(WEB_SDK, DESKTOP_SDK)
-                    archive.writestr(name, desktop_page)
-                else:
-                    archive.write(file, name)
-        archive.write(ROOT / "LICENSE", "LICENSE")
-
-    with ZipFile(OUTPUT) as archive:
-        corrupt_entry = archive.testzip()
-        if corrupt_entry:
-            raise ValueError(f"Corrupt archive entry: {corrupt_entry}")
+    with TemporaryDirectory(prefix="tiltype-unified-", dir=OUTPUT.parent) as temporary:
+        staged = Path(temporary) / OUTPUT.name
+        with ZipFile(staged, "w", ZIP_DEFLATED, compresslevel=9) as archive:
+            for file in sorted(PLUGIN.rglob("*")):
+                if file.is_file():
+                    name = file.relative_to(PLUGIN).as_posix()
+                    if file.suffix == ".html":
+                        desktop_page = file.read_text(encoding="utf-8").replace(WEB_SDK, DESKTOP_SDK)
+                        archive.writestr(name, desktop_page)
+                    else:
+                        archive.write(file, name)
+            for name, source in shared.items():
+                archive.write(source, name)
+            archive.write(ROOT / "LICENSE", "LICENSE")
+        with ZipFile(staged) as archive:
+            corrupt_entry = archive.testzip()
+            if corrupt_entry:
+                raise ValueError(f"Corrupt archive entry: {corrupt_entry}")
+        staged.replace(OUTPUT)
     print(f"{OUTPUT} ({OUTPUT.stat().st_size:,} bytes)")
 
 

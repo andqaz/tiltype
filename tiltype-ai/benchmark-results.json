@@ -1,0 +1,134 @@
+{
+  "sample": {
+    "seed": 10919,
+    "partition": "evaluation",
+    "positionsPerLanguage": 6000,
+    "sha256": "31330aa298e94625af9f2b7aa45e29d5355ed041d70d6425b6f9104efdf19d55"
+  },
+  "environment": {
+    "system": "Windows-10-10.0.26300-SP0",
+    "processor": "Intel(R) Core(TM) Ultra 9 285K",
+    "logicalProcessors": 24,
+    "ramBytes": 102298480640,
+    "node": "v25.2.1"
+  },
+  "repeats": 3,
+  "dictionary": {
+    "sha256": "812269929c8ae8ee22d5aaf4f0f1f10469485837d1fd8a77fb56e4c1984267da",
+    "packageBytes": 17447440,
+    "version": "1.7.0",
+    "quality": {
+      "en": {
+        "tested": 6000,
+        "matched": 1615,
+        "covered": 6000,
+        "predictionsSha256": "fb58dd5d5ae8500789db4242600b02775463829a6e6388704bd0fe7d01499a06"
+      },
+      "ru": {
+        "tested": 6000,
+        "matched": 1174,
+        "covered": 6000,
+        "predictionsSha256": "fb09a02208e39971bbdc0de7329702fcfb134a2ce5ccb06c1dbf4e497e0934b4"
+      },
+      "kk": {
+        "tested": 6000,
+        "matched": 872,
+        "covered": 6000,
+        "predictionsSha256": "0dff52eaadd178a550cb88b341f30558803ef1a33641c83dfdb3a2bd538a9d74"
+      }
+    },
+    "loadMs": 1008.8764000000001,
+    "loadedRssDeltaMB": 266.85849599999995,
+    "steadyRssMB": 342.429696,
+    "peakRssMB": 429.305856,
+    "timings": {
+      "calls": 9000,
+      "latencyP50Ms": 0.0038000000001829903,
+      "latencyP95Ms": 0.010700000000042564,
+      "wallMsPer1000": 5.210022222222228,
+      "cpuMsPer1000": 12.222222222222221
+    }
+  },
+  "neural": {
+    "sha256": "f5944b3556080ace71cbe20bd8ae457f3513ba5cff3adbf2780d45ede9714c4f",
+    "packageBytes": 3534446,
+    "version": "0.1.0",
+    "vocabularySize": {
+      "en": 16384,
+      "ru": 16384,
+      "kk": 16384
+    },
+    "quality": {
+      "en": {
+        "tested": 6000,
+        "matched": 1283,
+        "covered": 6000,
+        "predictionsSha256": "c0cc3d3e9de2dd1c1f736f234d869341e3d964a20079e7b0a59b2f18c6d472c5"
+      },
+      "ru": {
+        "tested": 6000,
+        "matched": 953,
+        "covered": 6000,
+        "predictionsSha256": "60024c369d03c527234bd3eec303a1cee759c829fb66d401c5891cdc05745564"
+      },
+      "kk": {
+        "tested": 6000,
+        "matched": 767,
+        "covered": 6000,
+        "predictionsSha256": "6cc3e1b0f66909682aeb82a1b42c301226144cb04d7b69914e20b3b51d71b1f5"
+      }
+    },
+    "loadMs": 12.533499999999997,
+    "loadedRssDeltaMB": 13.099008000000005,
+    "steadyRssMB": 67.813376,
+    "peakRssMB": 70.578176,
+    "timings": {
+      "calls": 9000,
+      "latencyP50Ms": 0.23059999999986758,
+      "latencyP95Ms": 1.3290999999999258,
+      "wallMsPer1000": 299.92103333333336,
+      "cpuMsPer1000": 291.77777777777777
+    }
+  },
+  "baselineNeural": {
+    "sha256": "0bd19c3c1b0906b4867e3ba70bdffe8efea35eb55284e98960de0fba72a175f5",
+    "packageBytes": 3534267,
+    "version": "0.1.0",
+    "vocabularySize": {
+      "en": 16384,
+      "ru": 16384,
+      "kk": 16384
+    },
+    "quality": {
+      "en": {
+        "tested": 6000,
+        "matched": 1283,
+        "covered": 6000,
+        "predictionsSha256": "c0cc3d3e9de2dd1c1f736f234d869341e3d964a20079e7b0a59b2f18c6d472c5"
+      },
+      "ru": {
+        "tested": 6000,
+        "matched": 953,
+        "covered": 6000,
+        "predictionsSha256": "60024c369d03c527234bd3eec303a1cee759c829fb66d401c5891cdc05745564"
+      },
+      "kk": {
+        "tested": 6000,
+        "matched": 767,
+        "covered": 6000,
+        "predictionsSha256": "6cc3e1b0f66909682aeb82a1b42c301226144cb04d7b69914e20b3b51d71b1f5"
+      }
+    },
+    "loadMs": 19.658900000000003,
+    "loadedRssDeltaMB": 17.072128,
+    "steadyRssMB": 77.426688,
+    "peakRssMB": 79.876096,
+    "timings": {
+      "calls": 9000,
+      "latencyP50Ms": 0.23480000000017753,
+      "latencyP95Ms": 1.3496000000004642,
+      "wallMsPer1000": 304.0327333333332,
+      "cpuMsPer1000": 300.3333333333333
+    }
+  }
+}

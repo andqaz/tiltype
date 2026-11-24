@@ -38,6 +38,19 @@ This plugin uses the following third-party components.
    Source: https://github.com/ONLYOFFICE/dictionaries
    License Files: see the notices in dictionaries/hunspell/.
 
+8. Next-word prediction data uses Leipzig Corpora Collection and KazNERD
+   (CC BY 4.0) and Tatoeba sentences (CC BY 2.0 FR).
+   License Files: licenses/LeipzigCorpora.license, licenses/Tatoeba.license
+   Attribution and transformations: DICTIONARY-NOTICE.md
+   Additional neural training sources are credited in MODEL-NOTICE.md and
+   TRAINING-NOTICE.md. OpenAssistant Conversations is under Apache 2.0
+   (licenses/OpenAssistant.license). Other CC BY 4.0 sources use the same
+   license text included in licenses/LeipzigCorpora.license.
+
+9. Formatting toolbar icon font from Microsoft Fluent System Icons.
+   Source: https://github.com/microsoft/fluentui-system-icons
+   License: MIT. License File: licenses/Fluent-System-Icons-MIT.txt
+
 The published bundle also contains getroot 1.0.0, a browser/Node global
 resolver used by emscripten-wasm-loader.
 Source: https://www.npmjs.com/package/getroot/v/1.0.0

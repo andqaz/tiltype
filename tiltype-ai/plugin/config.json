@@ -1,0 +1,26 @@
+{
+  "name": "TilType AI",
+  "guid": "asc.{41D8F127-5C2A-4C56-8A59-E5C542DA28EC}",
+  "version": "0.1.0",
+  "minVersion": "10.0.0",
+  "variations": [
+    {
+      "description": "Offline neural next-word prediction for Kazakh, Russian and English.",
+      "descriptionLocale": {
+        "ru": "Локальный нейронный прогноз следующего слова на казахском, русском и английском.",
+        "kk": "Қазақша, орысша және ағылшынша келесі сөзді офлайн болжау."
+      },
+      "url": "index.html",
+      "icons": "resources/%theme-type%(light|dark)/icon%scale%(default).%extension%(png)",
+      "isViewer": false,
+      "EditorsSupport": ["word"],
+      "type": "background",
+      "initDataType": "none",
+      "store": {
+        "background": { "light": "#EAF7F1", "dark": "#1D2B30" },
+        "icons": { "light": "resources/store/icons", "dark": "resources/store/icons" },
+        "categories": ["work"]
+      }
+    }
+  ]
+}

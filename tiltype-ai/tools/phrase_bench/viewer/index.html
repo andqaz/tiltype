@@ -1,0 +1,17 @@
+<!doctype html>
+<!-- Локальная проверка подсказок. Издатель подставляет фиксированную панель и ресурсы. -->
+<html lang="ru"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>TilType · Проверка фраз</title><style>/* STYLES */</style>
+<main><header><h1>Проверка фраз TilType</h1><button id="export">Скачать мои оценки</button></header>
+<nav aria-label="Отбор позиций">
+<label>Язык<select id="lang"><option value="ru">Русский</option><option value="kk">Қазақша</option><option value="en">English</option></select></label>
+<label>Жанр<select id="genre"><option value="">Все жанры</option><option value="letter">Письма</option><option value="instruction">Инструкции</option><option value="article">Статьи</option></select></label>
+<label>Курсор<select id="mode"><option value="">Все позиции</option><option value="space">После пробела</option><option value="typed">После 1–3 букв</option><option value="afterTab">После вставки</option></select></label>
+<label>Случаи<select id="paired"><option value="">Все случаи</option><option value="yes">Парные письма</option></select></label>
+</nav>
+<section aria-label="Позиция"><div class="pager"><button id="prev">Назад</button><output id="counter"></output><button id="next">Дальше</button></div>
+<p id="meta"></p><blockquote id="context"></blockquote>
+<h2>Первый вариант для Tab</h2><p id="first"></p><div class="actions"><button id="yes">Я бы вставил</button><button id="no">Я бы пропустил</button><output id="rating" aria-live="polite"></output></div>
+<details id="answer"><summary>Показать авторское продолжение и результат</summary><p id="expected"></p><p id="outcome"></p></details>
+<details id="lists"><summary>Посмотреть варианты и их источники</summary><ol id="pool"></ol><div id="sources"></div></details></section></main>
+<script id="dataset" type="application/json">JSON_DATA</script><script>/* LOGIC */</script></html>
