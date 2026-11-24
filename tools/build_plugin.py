@@ -32,7 +32,10 @@ def main() -> None:
     config = json.loads((PLUGIN / "config.json").read_text(encoding="utf-8"))
     variation = config["variations"][0]
     pages = [variation["url"], "settings.html"]
-    required = [*pages]
+    screenshots = variation["store"]["screenshots"]
+    if not screenshots:
+        raise ValueError("The Marketplace card requires at least one screenshot")
+    required = [*pages, *screenshots, "README.md", "translations/langs.json", "3rd-Party.txt"]
     icon_directories = {
         "resources/light",
         "resources/dark",
