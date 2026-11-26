@@ -1,0 +1,48 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ONLYOFFICE/doceditor-plugin-types/refs/heads/master/schemas/config.schema.json",
+  "name": "TilType AI",
+  "offered": "Andrey Komarov",
+  "help": "https://github.com/andqaz/tiltype#readme",
+  "guid": "asc.{E9067D1A-F74B-4F0F-9B6A-2EEB4779F433}",
+  "version": "1.8.0",
+  "minVersion": "10.0.0",
+  "variations": [
+    {
+      "description": "Complete words and phrases offline in Kazakh, Russian and English. In Document Editor, press Tab to insert a suggestion or select text to show the formatting toolbar.",
+      "descriptionLocale": {
+        "ru": "Дополняйте слова и фразы на русском, казахском и английском без интернета. В текстовом редакторе нажмите Tab для вставки подсказки или выделите текст, чтобы открыть панель форматирования.",
+        "kk": "Қазақша, орысша және ағылшынша сөздер мен сөз тіркестерін офлайн толықтырыңыз. Мәтін редакторында ұсынысты енгізу үшін Tab пернесін басыңыз. Мәтінді таңдасаңыз, пішімдеу тақтасы ашылады."
+      },
+      "url": "index.html",
+      "icons": "resources/%theme-type%(light|dark)/icon%scale%(default).%extension%(png)",
+      "isViewer": false,
+      "EditorsSupport": [
+        "word",
+        "slide",
+        "cell"
+      ],
+      "type": "background",
+      "initDataType": "none",
+      "store": {
+        "background": {
+          "light": "#EAF7F1",
+          "dark": "#1D2B30"
+        },
+        "icons": {
+          "light": "resources/store/icons",
+          "dark": "resources/store/icons"
+        },
+        "categories": [
+          "work"
+        ],
+        "screenshots": [
+          "resources/store/screenshots/overview-en.png",
+          "resources/store/screenshots/overview-kk.png",
+          "resources/store/screenshots/overview-ru.png",
+          "resources/store/screenshots/suggestions.png",
+          "resources/store/screenshots/punctuation.png"
+        ]
+      }
+    }
+  ]
+}

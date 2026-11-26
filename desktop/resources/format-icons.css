@@ -1,0 +1,20 @@
+/* Пиктограммы мини-панели из Microsoft Fluent System Icons. */
+@font-face { font-family: TilTypeFluent; src: url("format-icons.woff") format("woff"); font-display: block; }
+.tiltype-format [data-icon="bold"]::before { content: "\f7a4"; }
+.tiltype-format [data-icon="italic"]::before { content: "\f7f4"; }
+.tiltype-format [data-icon="underline"]::before { content: "\f80a"; }
+.tiltype-format [data-icon="larger"]::before { content: "\f439"; }
+.tiltype-format [data-icon="smaller"]::before { content: "\f437"; }
+.tiltype-format [data-icon="copy"]::before { content: "\f592"; }
+.tiltype-format [data-icon="color"]::before { content: "\f7bf"; }
+.tiltype-format [data-icon="highlight"]::before { content: "\f47c"; }
+.tiltype-format [data-icon="left"]::before { content: "\f79f"; }
+.tiltype-format [data-icon="center"]::before { content: "\f799"; }
+.tiltype-format [data-icon="right"]::before { content: "\f7a1"; }
+.tiltype-format [data-icon="both"]::before { content: "\f79d"; }
+.tiltype-format [data-icon="bullets"]::before { content: "\ecd9"; }
+.tiltype-format [data-icon="numbers"]::before { content: "\f7f9"; }
+.tiltype-format [data-icon="unlist"]::before { content: "\ecd7"; }
+.tiltype-format [data-icon="indent"]::before { content: "\ed2d"; }
+.tiltype-format [data-icon="outdent"]::before { content: "\ed23"; }
+.tiltype-format [data-icon="down"]::before { content: "\f2a3"; }

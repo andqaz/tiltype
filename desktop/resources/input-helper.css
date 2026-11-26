@@ -1,0 +1,15 @@
+/* Метка клавиши следует за выделением, которым управляет штатный список ONLYOFFICE. */
+#ih_elements_id > li:not(.li_selected):hover {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+#ih_elements_id > .li_selected::after {
+  content: "  [Tab]";
+  white-space: pre;
+}
+
+/* Основной вариант уже виден на странице. Его индекс в InputHelper нужен для Tab и стрелок. */
+body.tiltype-inline #ih_elements_id > li:first-child {
+  display: none;
+}

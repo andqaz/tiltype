@@ -1,0 +1,56 @@
+<!-- Форма включает независимые функции автоисправления и выбор языка. -->
+<!doctype html>
+<html data-writer="shared" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>TilType AI</title>
+  <link rel="stylesheet" href="../v1/plugins.css">
+  <link rel="stylesheet" href="resources/settings.css">
+  <script src="../v1/plugins.js"></script>
+  <script defer src="scripts/settings.js"></script>
+  <script defer src="scripts/settings-dialog.js"></script>
+<style>label:has(#spelling),label:has(#layout),label:has(#proofing),label:has(#learning),label:has(#prediction-mode),[data-text=detail]{display:none!important}</style></head>
+<body>
+  <form id="preferences" hidden>
+    <label><input type="checkbox" id="format-toolbar"><span data-text="formatToolbar"></span></label>
+    <label><input type="checkbox" id="spelling"><span data-text="spelling"></span></label>
+    <label><input type="checkbox" id="layout"><span data-text="layout"></span></label>
+    <label><input type="checkbox" id="proofing"><span data-text="proofing"></span></label>
+    <label><input type="checkbox" id="punctuation"><span data-text="punctuation"></span></label>
+    <label><input type="checkbox" id="space-after-tab"><span data-text="spaceAfterTab"></span></label>
+    <label><input type="checkbox" id="next-word"><span data-text="nextWord"></span></label>
+    <label class="language">
+      <span data-text="predictionMode"></span>
+      <select id="prediction-mode" class="form-control">
+        <option value="dictionary" data-text="predictionDictionary"></option>
+        <option value="word" data-text="predictionWord"></option>
+        <option value="phrases" data-text="predictionPhrases"></option>
+        <option value="gru" data-text="predictionGru"></option>
+      </select>
+    </label>
+    <label><input type="checkbox" id="prediction-history"><span data-text="predictionHistory"></span></label>
+    <label class="language"><span data-text="learning"></span>
+      <select id="learning" class="form-control">
+        <option value="off" data-text="learningOff"></option>
+        <option value="document" data-text="learningDocument"></option>
+        <option value="profile" data-text="learningProfile"></option>
+      </select>
+    </label>
+    <label class="language">
+      <span data-text="language"></span>
+      <select id="language" class="form-control">
+        <option value="auto" data-text="auto"></option>
+        <option value="ru" lang="ru">Русский</option>
+        <option value="kk" lang="kk">Қазақша</option>
+        <option value="en" lang="en">English</option>
+      </select>
+    </label>
+    <p data-text="detail"></p>
+    <p id="error" role="alert" data-text="error" hidden></p>
+    <div class="actions">
+      <button type="button" id="cancel" class="btn-text-default" data-text="cancel"></button>
+      <button type="submit" class="btn-text-default primary" data-text="save"></button>
+    </div>
+  </form>
+</body>
+</html>
