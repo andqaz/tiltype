@@ -22,10 +22,11 @@ function readPredictionCaret() {
   if (!Asc.scope?.tiltypeReadDocumentHistory || typeof document.GetRange !== "function" || position <= before.length) return caret;
   const historyLimit = 4096;
   try {
-    const start = Math.max(0, position - historyLimit - before.length);
+    const start = Asc.scope?.tiltypeFullHistory ? 0 : Math.max(0, position - historyLimit - before.length);
     const separators = { ParaSeparator: "\n", TableRowSeparator: "\n", NewLineSeparator: "\n" };
     const source = document.GetRange(start, position);
     const text = source?.GetText(separators);
+    if (Asc.scope?.tiltypeFullHistory && typeof text === "string" && text.endsWith(before)) caret.priorText = text.slice(0,-before.length);
     if (typeof text === "string" && text.endsWith(before)) caret.history = text.slice(0, -before.length).slice(-historyLimit);
     if (caret.paragraphId !== Asc.scope.tiltypeDocumentTopicParagraph) {
       // Возвращаем сжатую тему, сохраняя соседние предложения в отдельном поле.

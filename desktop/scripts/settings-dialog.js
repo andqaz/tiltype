@@ -13,6 +13,7 @@
   const proofing = /** @type {HTMLInputElement} */ (document.getElementById("proofing"));
   const punctuation = /** @type {HTMLInputElement} */ (document.getElementById("punctuation"));
   const spaceAfterTab = /** @type {HTMLInputElement} */ (document.getElementById("space-after-tab"));
+  const tabMode = /** @type {HTMLSelectElement} */ (document.getElementById("tab-mode"));
   const nextWord = /** @type {HTMLInputElement} */ (document.getElementById("next-word"));
   const predictionMode = /** @type {HTMLSelectElement} */ (document.getElementById("prediction-mode"));
   const predictionHistory = /** @type {HTMLInputElement} */ (document.getElementById("prediction-history"));
@@ -20,7 +21,20 @@
   const language = /** @type {HTMLSelectElement} */ (document.getElementById("language"));
   const errorMessage = /** @type {HTMLElement} */ (document.getElementById("error"));
 
+  // Высоту определяет сама форма. Размер iframe уже зависит от ответа редактора.
+  let lastHeight = 0;
+  function reportHeight() {
+    if (form.hidden) return;
+    const height = Math.ceil(form.getBoundingClientRect().height);
+    if (height === lastHeight || height < 1) return;
+    lastHeight = height;
+    plugin.sendToPlugin("preferencesHeight", height);
+  }
+
+  const layoutObserver = new ResizeObserver(reportHeight);
+  layoutObserver.observe(form);
   function syncPredictionInputs() {
+    tabMode.disabled = !nextWord.checked;
     predictionMode.disabled = !nextWord.checked;
     predictionHistory.disabled = !nextWord.checked || !["phrases", "gru"].includes(predictionMode.value);
   }
@@ -41,6 +55,7 @@
       proofing.checked = data.options.proofing;
       punctuation.checked = data.options.punctuation;
       spaceAfterTab.checked = data.options.spaceAfterTab;
+      tabMode.value = data.options.tabByWord ? "word" : "phrase";
       nextWord.checked = data.options.nextWord;
       predictionMode.value = data.options.predictionMode;
       predictionHistory.checked = data.options.predictionHistory;
@@ -48,6 +63,7 @@
       learning.value = data.options.personalLearning ?? "document";
       language.value = data.options.language;
       form.hidden = false;
+      reportHeight();
     });
     plugin.attachEvent("preferencesError", () => { errorMessage.hidden = false; });
     plugin.sendToPlugin("preferencesReady", {});
@@ -63,6 +79,7 @@
       proofing: proofing.checked,
       punctuation: punctuation.checked,
       spaceAfterTab: spaceAfterTab.checked,
+      tabByWord: tabMode.value === "word",
       nextWord: nextWord.checked,
       predictionMode: predictionMode.value,
       predictionHistory: predictionHistory.checked,

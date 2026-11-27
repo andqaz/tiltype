@@ -2,10 +2,12 @@
  * Выполняет общую языковую модель на CPU. Веса и таблица подслов общие для
  * всех языков; на свежем префиксе JS переиспользует K/V до первой разницы.
  */
+#ifndef W
 #define W 256
-#define H 8
+#endif
+#define H (W/32)
 #define D 32
-#define F 768
+#define F (3*W)
 #define L 6
 #define T 128
 #define V 16384

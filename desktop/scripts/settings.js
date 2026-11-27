@@ -5,12 +5,12 @@
 "use strict";
 
 /** @typedef {"dictionary" | "word" | "phrases" | "gru"} PredictionMode */
-/** @typedef {{ personalLearning?: string, formatToolbar: boolean, spelling: boolean, layout: boolean, proofing: boolean, punctuation: boolean, spaceAfterTab: boolean, nextWord: boolean, predictionMode: PredictionMode, predictionHistory: boolean, language: DictionaryLanguage | "auto" }} CorrectionSettings */
+/** @typedef {{ personalLearning?: string, formatToolbar: boolean, spelling: boolean, layout: boolean, proofing: boolean, punctuation: boolean, tabByWord: boolean, spaceAfterTab: boolean, nextWord: boolean, predictionMode: PredictionMode, predictionHistory: boolean, language: DictionaryLanguage | "auto" }} CorrectionSettings */
 
 const correctionSettings = (() => {
   const storageKey = "autocomplete-ru-kk-en.corrections";
   /** @type {CorrectionSettings} */
-  let current = { personalLearning: "document", formatToolbar: true, spelling: false, layout: false, proofing: true, punctuation: true, spaceAfterTab: false,
+  let current = { tabByWord: true, personalLearning: "document", formatToolbar: true, spelling: false, layout: false, proofing: true, punctuation: true, spaceAfterTab: false,
     nextWord: true, predictionMode: "phrases", predictionHistory: true, language: "auto" };
 
   /**
@@ -34,10 +34,11 @@ const correctionSettings = (() => {
     const predictionHistory = !("predictionHistory" in value) || value.predictionHistory === true;
     const formatToolbar = !("formatToolbar" in value) || value.formatToolbar === true;
     const personalLearning = "personalLearning" in value && (value.personalLearning === "off" || value.personalLearning === "profile") ? value.personalLearning : "document";
-    return { personalLearning, formatToolbar, spelling, layout, language, proofing, punctuation, spaceAfterTab, nextWord, predictionMode, predictionHistory };
+    const tabByWord = !("tabByWord" in value) || value.tabByWord !== false;
+    return { tabByWord, personalLearning, formatToolbar, spelling, layout, language, proofing, punctuation, spaceAfterTab, nextWord, predictionMode, predictionHistory };
   }
 
-  /** Возвращает текущие настройки профиля редактора. */
+  /** Возвращает текущие настройки профиля редактора. @returns {CorrectionSettings} */
   function read() {
     try {
       const text = localStorage.getItem(storageKey);
@@ -66,6 +67,9 @@ const correctionSettings = (() => {
 
 const settingsLabels = {
   en: {
+    tabMode: "Insert with Tab",
+    tabWord: "One word at a time",
+    tabPhrase: "Entire suggestion",
     learning: "Learn from typing and accepted suggestions",
     learningOff: "Off",
     learningDocument: "In this document",
@@ -93,6 +97,9 @@ const settingsLabels = {
     error: "Could not save settings.",
   },
   ru: {
+    tabMode: "Вставка по Tab",
+    tabWord: "По одному слову",
+    tabPhrase: "Вся подсказка",
     learning: "Обучение по набору и выбору подсказок",
     learningOff: "Выключено",
     learningDocument: "В этом документе",
@@ -120,6 +127,9 @@ const settingsLabels = {
     error: "Не удалось сохранить настройки.",
   },
   kk: {
+    tabMode: "Tab арқылы енгізу",
+    tabWord: "Бір сөзден",
+    tabPhrase: "Ұсынысты толық енгізу",
     learning: "Терілген мәтін мен таңдалған ұсыныстардан үйрену",
     learningOff: "Өшірулі",
     learningDocument: "Осы құжатта",

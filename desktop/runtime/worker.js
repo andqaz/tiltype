@@ -51,7 +51,7 @@ function completeWord(text, preferred, typed) {
   const last = ids.pop();
   if (last === undefined) return [];
   const required = tokenizer.tokens[last];
-  const root = [1,...ids].slice(-126);
+  const root = [1,...ids].slice(reserveContext ? -120 : -126);
   const complete = new Map();
   let states = [{ids:[], score:0}];
   for (let depth=0; depth<7 && states.length; depth++) {
@@ -97,9 +97,67 @@ function completeWord(text, preferred, typed) {
   return [...complete.keys()].sort((a,b)=>complete.get(b)-complete.get(a)).slice(0,3);
 }
 
+/** Выбирает продолжения из уже введённого текста и фильтрует вставку по Tab.
+ * Работает в Worker. Использует только префикс документа в текущей ревизии.
+ */
+function priorCompletion(history, before, typed, phraseDepth = 3) {
+  const tokens = s => [...s.matchAll(/[\p{L}\p{M}\d]+(?:[-’'][\p{L}\p{M}\d]+)*/gu)];
+  const query = tokens(before.split(/[.!?…\n]/u).pop()).slice(-5).map(m=>m[0].toLowerCase());
+  const partial = typed.toLowerCase();
+  const candidates = new Map();
+  let bestSpan = "", bestDepth = 1;
+  for (const line of history.split(/[\r\n]+/u)) {
+    const items = tokens(line);
+    for (let i=0; i<items.length; i++) {
+      const item=items[i], word=item[0];
+      if (!word.toLowerCase().startsWith(partial)) continue;
+      let depth=0;
+      while (depth<query.length && i>depth && items[i-depth-1][0].toLowerCase()===query[query.length-depth-1]) {
+        const previous=items[i-depth-1], next=items[i-depth];
+        if (/[.!?…]/u.test(line.slice(previous.index+previous[0].length,next.index))) break;
+        depth++;
+      }
+      if (depth>=bestDepth && depth>=2) {
+        // Последнее равноценное утверждение учитывает исправления в документе.
+        const tail=line.slice(item.index).match(/^[^.!?…;:\n]{1,120}[.!?…]?/u)?.[0] || "";
+        const parts=tokens(tail);
+        if (parts.length) {
+          bestDepth=depth;
+          bestSpan=(parts.length>5 ? tail.slice(0,parts[4].index+parts[4][0].length) : tail).trim();
+        }
+      }
+      if (partial.length>=3 && word.length>=partial.length) {
+        const key=word.toLowerCase();
+        const old=candidates.get(key);
+        candidates.set(key,{word,count:(old?.count||0)+1,depth:Math.max(old?.depth||0,depth)});
+      }
+    }
+  }
+  if (bestSpan) {
+    if (/[—:]\s*$/u.test(before)) return bestSpan;
+    if (bestDepth < phraseDepth) return tokens(bestSpan)[0][0];
+    return bestDepth < 4 ? bestSpan.replace(/[.!?…]+$/u,"") : bestSpan;
+  }
+  const ranked=[...candidates.values()].sort((a,b)=>b.depth-a.depth || b.count-a.count);
+  const first=ranked[0];
+  if (!first || first.word.length<partial.length+2) return "";
+  const next=ranked[1];
+  if (!next || first.depth>next.depth || first.count>=3*next.count) return first.word;
+  return "";
+}
+
+/** Формирует список по фактически добавляемому суффиксу, сохраняя порядок. */
+function compactChoices(neural, history, before, typed) {
+  const prior=priorCompletion(history,before,typed);
+  const choices=[prior,...neural];
+  return [...new Set(choices.filter(s=>s && s.toLowerCase().startsWith(typed.toLowerCase()) &&
+    Array.from(s.slice(typed.length).trimEnd()).length>=2))].slice(0,3);
+}
+
 /** Рабочий поток локального Transformer. Веса загружаются один раз на документ. */
 let engine, tokenizer, logits, snippet, cutoff;
 let cached = [];
+let reserveContext = false;
 const words = /\p{L}+(?:[-’']\p{L}+)*/gu;
 const stop = /[.!?…]+[»”"') ]*/u;
 function guess(ids) {
@@ -136,7 +194,10 @@ function candidate(text,preferred,typed,excluded) {
     const candidate=initialPieces[i];
     return candidate.length>0 && (partial.startsWith(candidate)||candidate.startsWith(partial));
   }) : first;
-  const input=[1,...tokenizer.encode(text.trimEnd())], generated=[];
+  // Оставляем место для генерации, чтобы сдвиг окна на каждом подслове
+  // не сбрасывал весь KV-кэш длинного префикса.
+  const prefix=[1,...tokenizer.encode(text.trimEnd())];
+  const input=reserveContext ? prefix.slice(-96) : prefix, generated=[];
   let ended=false, confident;
   for(let step=0;step<32;step++) {
     forward([3+active,...input.slice(-127)]);
@@ -215,8 +276,14 @@ onmessage=async ({data})=>{
       initialPieces=tokenizer.tokens.map((_,i)=>tokenizer.decode([i]).trimStart().toLowerCase());
       wordBoundary=tokenizer.tokens.map((raw,i)=>i===2 || raw.startsWith("Ġ") || /^[\s\p{P}]/u.test(tokenizer.decode([i])));
       cutoff=data.threshold;
+      reserveContext=data.reserveContext===true;
       postMessage({id:data.id,ready:true});
-    }else postMessage({id:data.id,choices:suggest(data.text,data.language,data.typed)});
+    }else {
+      const typed=data.typed || "";
+      const neural=suggest(data.text,data.language,typed);
+      const choices=data.compact ? compactChoices(neural,data.history || "",data.before || "",typed) : neural;
+      postMessage({id:data.id,choices});
+    }
   } catch(error) {postMessage({id:data.id,error:String(error)});}
 };
 

@@ -67,7 +67,7 @@
   /** @type {{word:string, consumed:boolean}|undefined} */
   let observation;
   let predictAfterClear = false;
-  /** @type {{ caret: PredictionCaret, options: string[], typed: string, separator?: string } | null} */
+  /** @type {{ caret: PredictionCaret, options: string[], typed: string, separator?: string, trailingSpace?: boolean } | null} */
   let prediction = null;
   /** @type {ReturnType<typeof setTimeout> | undefined} */
   let phraseTimer;
@@ -83,6 +83,8 @@
   let dismissed = false;
   let addSpaceToSelection = false;
   let acceptingTab = false;
+  /** @type {{queued: number} | null} Повторные Tab до подтверждения очередного слова редактором. */
+  let pendingStep = null;
   /** @type {{ language: LayoutLanguage, time: number } | null} */
   let layoutContext = null;
   /** @type {(() => void) | undefined} */
@@ -151,6 +153,7 @@
   }
 
   function clearInput() {
+    pendingStep = null;
     if (phraseTimer !== undefined) clearTimeout(phraseTimer);
     inputRevision += 1;
     prefix = "";
@@ -165,6 +168,7 @@
   }
 
   function handleEditorClear() {
+    if (pendingStep) return;
     const previous = prefix || recovery?.previous || "";
     const deletion = deletionRequested || recovery?.deletion === true;
     const shouldPredict = predictAfterClear;
@@ -193,22 +197,29 @@
     });
   }
 
-  /** @param {{ paragraphId?: string, before: string }} [afterInsertion] @param {string} [typed] @param {{word:string,consumed:boolean}} [manual] */
+  /** @param {{ paragraphId?: string, before: string, remainder?: string, trailingSpace?: boolean }} [afterInsertion] @param {string} [typed] @param {{word:string,consumed:boolean}} [manual] */
   function requestPrediction(afterInsertion, typed = "", manual) {
     const revision = inputRevision;
     const options = correctionSettings.read();
     if (!options.nextWord || formatToolbar?.visible) return;
     if (documentTopic && documentTopic.until <= Date.now()) documentTopic = undefined;
-    sdk.scope = { ...sdk.scope, tiltypePredictionPrefix: typed, tiltypeAcceptedSuffix: afterInsertion?.before, tiltypeReadDocumentHistory: options.predictionHistory &&
+    sdk.scope = { ...sdk.scope, tiltypeFullHistory: typeof document !== "undefined" && document.documentElement?.dataset?.compact === "true", tiltypePredictionPrefix: typed, tiltypeAcceptedSuffix: afterInsertion?.before, tiltypeReadDocumentHistory: options.predictionHistory &&
       (options.predictionMode === "phrases" || options.predictionMode === "gru"),
       tiltypeDocumentTopicParagraph: documentTopic?.paragraphId };
+    const transaction = afterInsertion?.remainder ? pendingStep : null;
     plugin.callCommand(readPredictionCaret, false, false, async (result) => {
       if (revision !== inputRevision || !result || typeof result !== "object" ||
           !("before" in result) || typeof result.before !== "string" ||
           !("paragraphId" in result) || typeof result.paragraphId !== "string" ||
-          !("position" in result) || typeof result.position !== "number") return;
+          !("position" in result) || typeof result.position !== "number") {
+        if (transaction && pendingStep === transaction) clearInput();
+        return;
+      }
       if (afterInsertion && ((afterInsertion.paragraphId && result.paragraphId !== afterInsertion.paragraphId) ||
-          !result.before.replaceAll("’", "'").endsWith(afterInsertion.before.replaceAll("’", "'")))) return;
+          !result.before.replaceAll("’", "'").endsWith(afterInsertion.before.replaceAll("’", "'")))) {
+        if (transaction && pendingStep === transaction) clearInput();
+        return;
+      }
       if (documentTopic && (documentTopic.paragraphId !== result.paragraphId || result.position < documentTopic.position)) {
         documentTopic = undefined;
       }
@@ -217,7 +228,7 @@
           typeof item[1] === "number" && Number.isFinite(item[1]));
         documentTopic = { paragraphId: result.paragraphId, position: result.position, until: Date.now() + 15_000, terms };
       }
-      const caret = { before: result.before, paragraphId: result.paragraphId, position: result.position,
+      const caret = { priorText: "priorText" in result && typeof result.priorText === "string" ? result.priorText : "", before: result.before, paragraphId: result.paragraphId, position: result.position,
         paragraphTail: "paragraphTail" in result && result.paragraphTail === true,
         history: "history" in result && typeof result.history === "string" ? result.history : undefined,
         documentTopic: options.predictionHistory ? documentTopic?.terms : undefined };
@@ -229,7 +240,8 @@
           manual.consumed = true;
           personal?.observe(before.slice(0,-manual.word.length-1), manual.word, options.language, caret.paragraphId, caret.position);
         }
-        let choices = modelOnly ? await tiltypePredictionEngine.suggest({ ...caret, before, typed }, options) :
+        const remainder = afterInsertion?.remainder;
+        let choices = remainder ? [remainder] : modelOnly ? await tiltypePredictionEngine.suggest({ ...caret, before, typed }, options) :
           await tiltypePredictionEngine.suggest({ ...caret, before }, options);
         if (!modelOnly && !choices.length && afterInsertion && (options.predictionMode === "phrases" || options.predictionMode === "gru")) {
           const models = await tiltypePredictionEngine.prepare(options.predictionMode);
@@ -240,7 +252,7 @@
             .map(({word}) => newSentence ? word.charAt(0).toUpperCase() + word.slice(1) : word);
         }
         if (revision !== inputRevision || dismissed || formatToolbar?.visible) return;
-        if (personal) {
+        if (personal && !remainder) {
           const ranked = personal.rank(before,choices,options.language);
           const phrases = options.predictionMode === "phrases" || options.predictionMode === "gru";
           choices = phrases ? ranked : ranked.filter(s => !s.includes(" "));
@@ -259,12 +271,19 @@
         }
         if (!choices.length) return;
         resetPreview();
-        prediction = { caret, options: choices, typed, separator };
+        prediction = { caret, options: choices, typed, separator, trailingSpace: afterInsertion?.trailingSpace };
         items = choices.map((text, index) => ({ id: `prediction-${revision}-${index}`, text }));
         helper.setItems(items);
         const width = choices.some(s => s.length > 36) ? 540 : choices.length > 1 ? 360 : POPUP_WIDTH;
         helper.show(width, helper.getItemsHeight(choices.length), false);
         previewItems();
+        if (transaction && pendingStep === transaction) {
+          if (transaction.queued > 0) {
+            transaction.queued--;
+            acceptingTab = true;
+            try { finishPrediction(0); } finally { acceptingTab = false; }
+          } else pendingStep = null;
+        }
       } catch (error) {
         console.warn("TilType AI: prediction unavailable", error);
       }
@@ -275,15 +294,39 @@
   function finishPrediction(index) {
     if (!prediction) return;
     const { caret, options, typed, separator = "" } = prediction;
-    const space = !typed || addSpaceToSelection ? " " : "";
-    const text = index >= 0 ? separator + options[index].slice(typed.length) + space : "";
-    clearInput();
+    const choice = options[index] ?? "";
+    const trailingSpace = prediction.trailingSpace ?? (!typed || addSpaceToSelection);
+    // Захватываем знак при слове и исходный разделитель, в том числе неразрывный пробел.
+    const step = acceptingTab && correctionSettings.read().tabByWord
+      ? /^([\s\S]*?[\p{L}\p{N}]\S*)(\s+)(?=\S)/u.exec(choice) : null;
+    const accepted = step ? step[1] : choice;
+    const remainder = step ? choice.slice(step[0].length) : undefined;
+    const space = step ? step[2] : trailingSpace ? " " : "";
+    const text = index >= 0 ? separator + accepted.slice(typed.length) + space : "";
+    const queued = pendingStep?.queued ?? 0;
+    const transaction = remainder ? { queued } : null;
+    if (transaction) {
+      // Пока список виден, редактор направляет следующий Tab плагину.
+      pendingStep = transaction;
+      prefix = "";
+      caretPrefix = "";
+      inputRevision += 1;
+      prediction = null;
+      resetPreview();
+    } else clearInput();
     const revision = typingRevision;
-    sdk.scope = { ...sdk.scope, tiltypePrediction: { caret, text } };
+    sdk.scope = { ...sdk.scope, tiltypePrediction: { caret: { paragraphId: caret.paragraphId, position: caret.position, before: caret.before, paragraphTail: caret.paragraphTail }, text } };
     plugin.callCommand(applyPredictionAtCaret, false, true, (applied) => {
       if (text && applied === true) {
         const before = typed ? caret.before.slice(0,-typed.length) : caret.before;
-        personal?.learn(before, options[index], correctionSettings.read().language, true);
+        personal?.learn(before, accepted, correctionSettings.read().language, true);
+      }
+      if (transaction) {
+        if (pendingStep !== transaction) return;
+        if (applied !== true || revision !== typingRevision || !remainder) { clearInput(); return; }
+        requestPrediction({paragraphId: caret.paragraphId, before: (caret.before + text).slice(-600),
+          remainder, trailingSpace});
+        return;
       }
       if (text && applied === true && revision === typingRevision) {
         requestPrediction({ paragraphId: caret.paragraphId, before: (caret.before + text).slice(-600) });
@@ -366,6 +409,7 @@
 
   /** @param {EditorInput} [data] */
   function handleInput(data) {
+    pendingStep = null;
     formatToolbar?.dismiss();
     typingRevision += 1;
     lastCorrection = null;
@@ -413,6 +457,13 @@
     const nativeKeyboard = plugin.event_onKeyDown;
     // SDK пересылает клавиши списка только подписавшимся плагинам.
     plugin.attachEditorEvent("onKeyDown", (key) => {
+      if (pendingStep) {
+        if (key.keyCode === TAB_KEY && !key.altKey && !key.ctrlKey && !key.metaKey && !key.shiftKey) {
+          pendingStep.queued++;
+          return;
+        }
+        clearInput();
+      }
       if (formatToolbar?.visible) {
         formatToolbar.dismiss();
         return;

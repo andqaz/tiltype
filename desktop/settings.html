@@ -1,6 +1,6 @@
 <!-- Форма включает независимые функции автоисправления и выбор языка. -->
 <!doctype html>
-<html data-writer="shared" lang="en">
+<html data-writer="shared" data-compact="true" lang="en">
 <head>
   <meta charset="utf-8">
   <title>TilType AI</title>
@@ -18,6 +18,12 @@
     <label><input type="checkbox" id="proofing"><span data-text="proofing"></span></label>
     <label><input type="checkbox" id="punctuation"><span data-text="punctuation"></span></label>
     <label><input type="checkbox" id="space-after-tab"><span data-text="spaceAfterTab"></span></label>
+    <label class="language"><span data-text="tabMode"></span>
+      <select id="tab-mode" class="form-control">
+        <option value="word" data-text="tabWord"></option>
+        <option value="phrase" data-text="tabPhrase"></option>
+      </select>
+    </label>
     <label><input type="checkbox" id="next-word"><span data-text="nextWord"></span></label>
     <label class="language">
       <span data-text="predictionMode"></span>

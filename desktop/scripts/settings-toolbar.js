@@ -4,6 +4,9 @@
  */
 "use strict";
 
+const SETTINGS_WIDTH = 500;
+const SETTINGS_INITIAL_HEIGHT = 320;
+
 /** @typedef {{ id: string, show: (options: object) => void, close: () => void,
  * activate: () => void, command: (event: string, value: unknown) => void,
  * attachEvent: (event: string, handler: (data: unknown) => void) => void }} SettingsWindow */
@@ -37,6 +40,13 @@ function addSettingsButton(plugin, WindowClass, onSave) {
     opened.attachEvent("preferencesReady", () => {
       opened.command("preferencesData", { options: correctionSettings.read(), language });
     });
+    let lastHeight = 0;
+    opened.attachEvent("preferencesHeight", (height) => {
+      if (dialog !== opened || typeof height !== "number" || !Number.isSafeInteger(height) ||
+          height <= 0 || height === lastHeight) return;
+      lastHeight = height;
+      plugin.executeMethod("ResizeWindow", [opened.id, [SETTINGS_WIDTH, height]]);
+    });
     opened.attachEvent("preferencesSave", (data) => {
       const options = correctionSettings.parse(data);
       if (!options) return;
@@ -57,7 +67,7 @@ function addSettingsButton(plugin, WindowClass, onSave) {
       isVisual: true,
       isModal: true,
       EditorsSupport: ["word"],
-      size: [500, 550],
+      size: [SETTINGS_WIDTH, SETTINGS_INITIAL_HEIGHT],
       buttons: [],
     });
   });
